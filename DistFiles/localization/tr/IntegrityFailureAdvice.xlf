@@ -14,7 +14,7 @@
       </trans-unit>
       <trans-unit id="integrity.causes.1">
         <source xml:lang="en">Your antivirus may have "quarantined" one or more Bloom files.</source>
-        <target xml:lang="tr" state="needs-translation">Your antivirus may have "quarantined" one or more Bloom files.</target>
+        <target xml:lang="tr" state="translated">Antivirüs programınız bir veya daha fazla Bloom dosyasını "karantina" altına almış olabilir.</target>
         <note>ID: integrity.causes.1</note>
       </trans-unit>
       <trans-unit id="integrity.causes.2">
