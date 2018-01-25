@@ -2960,6 +2960,9 @@ Luego suelte la tecla que apretó para mostrar esta lista.</target>
         <source xml:lang="en">unique</source>
         <note>ID: EditTab.Toolbox.LeveledReaderTool.Unique</note>
         <target xml:lang="es-ES">único</target>
+        <alt-trans>
+          <target xml:lang="es-ES">únicas</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.LeveledReaderTool.Vocabulary" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Vocabulary</source>
@@ -5469,13 +5472,7 @@ Desea seguir?</target>
         <source xml:lang="en">Maximum Words in Book</source>
         <note>ID: ReaderSetup.BookMaxWords</note>
         <note xml:lang="en">OLD TEXT (before 3.9): Maximum Words per Book</note>
-        <target xml:lang="es-ES" state="translated">Máximo de palabras en el libro</target>
-        <alt-trans>
-          <target xml:lang="es-ES">Palabras máximas en el libro</target>
-        </alt-trans>
-        <alt-trans>
-          <target xml:lang="es-ES">Cantidad máxima de palabras por libro</target>
-        </alt-trans>
+        <target xml:lang="es-ES" state="translated">Cantidad máxima de palabras por libro</target>
         <alt-trans>
           <target xml:lang="es-ES">Palabras máximas por libro</target>
         </alt-trans>
@@ -5640,10 +5637,7 @@ Desea seguir?</target>
         <source xml:lang="en">Maximum Unique Words in Book</source>
         <note>ID: ReaderSetup.MaxUniqueWords</note>
         <note xml:lang="en">OLD TEXT (before 3.9, reworded): Maximum Unique Words per Book</note>
-        <target xml:lang="es-ES" state="translated">Máximo de palabras únicas en el libro</target>
-        <alt-trans>
-          <target xml:lang="es-ES">Cantidad máxima de palabras únicas por libro</target>
-        </alt-trans>
+        <target xml:lang="es-ES" state="translated">Cantidad máxima de palabras únicas por libro</target>
       </trans-unit>
       <trans-unit id="ReaderSetup.PageHeader" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Page</source>
@@ -5868,6 +5862,9 @@ Desea seguir?</target>
         <source xml:lang="en">Unique</source>
         <note>ID: ReaderSetup.UniqueHeader</note>
         <target xml:lang="es-ES">Único</target>
+        <alt-trans>
+          <target xml:lang="es-ES">Únicas</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="ReaderSetup.Words.Intro" sil:dynamic="true">
         <source xml:lang="en">To help you make decodable readers, Bloom can suggest words that fit within the current stage.  There are two ways to give words to Bloom:</source>
