@@ -560,12 +560,12 @@
         <note>ID: SettingsProtection.PasswordNotice</note>
         <note>Don't forget to have the {0}, {1} and {2} in your translated string!</note>
         <note xml:lang="en">OLD TEXT (before 4.0, added space, removed period): Factory password for these settings is "{0}". If you forget it, you can always google for "{1}" and "{2}".</note>
-        <target xml:lang="tr" state="needs-translation">Factory password for these settings is "{0}".  If you forget it, you can always google for "{1}" and "{2}"</target>
+        <target xml:lang="tr" state="translated">Bu ayarlar için fabrika şifresi "{0}"dır. Eğer unutursanız, her zaman "{1}" ve "{2}" için google da arama yapabilirsiniz</target>
       </trans-unit>
       <trans-unit id="SettingsProtection.RequirePasswordCheckBox">
         <source xml:lang="en">Require the factory password to get into settings.</source>
         <note>ID: SettingsProtection.RequirePasswordCheckBox</note>
-        <target xml:lang="tr" state="needs-translation">Require the factory password to get into settings.</target>
+        <target xml:lang="tr" state="translated">Ayarlara girmek için fabrika şifresi gereklidir.</target>
       </trans-unit>
       <trans-unit id="SettingsProtection.SettingProtectionDialogTitle">
         <source xml:lang="en">Settings Protection</source>
@@ -580,32 +580,32 @@
       <trans-unit id="WSFontControl.Font">
         <source xml:lang="en">&amp;Font:</source>
         <note>ID: WSFontControl.Font</note>
-        <target xml:lang="tr" state="needs-translation">&amp;Font:</target>
+        <target xml:lang="tr" state="translated">&amp;Yazı tipi:</target>
       </trans-unit>
       <trans-unit id="WSFontControl.FontNotAvailable">
         <source xml:lang="en">(The selected font is not available on this machine. Using default.)</source>
         <note>ID: WSFontControl.FontNotAvailable</note>
-        <target xml:lang="tr" state="needs-translation">(The selected font is not available on this machine. Using default.)</target>
+        <target xml:lang="tr" state="translated">(Seçili yazı tipi bu makine için kullanılabilir değil. Varsayılan kullanılıyor.)</target>
       </trans-unit>
       <trans-unit id="WSFontControl.RightToLeftWS">
         <source xml:lang="en">This is a &amp;right to left writing system.</source>
         <note>ID: WSFontControl.RightToLeftWS</note>
-        <target xml:lang="tr" state="needs-translation">This is a &amp;right to left writing system.</target>
+        <target xml:lang="tr" state="translated">Bu &amp;sağdan sola yazma sistemi.</target>
       </trans-unit>
       <trans-unit id="WSFontControl.Size">
         <source xml:lang="en">&amp;Size:</source>
         <note>ID: WSFontControl.Size</note>
-        <target xml:lang="tr" state="needs-translation">&amp;Size:</target>
+        <target xml:lang="tr" state="translated">&amp;Boyut:</target>
       </trans-unit>
       <trans-unit id="WSFontControl.TestArea">
         <source xml:lang="en">&amp;Test Area:</source>
         <note>ID: WSFontControl.TestArea</note>
-        <target xml:lang="tr" state="needs-translation">&amp;Test Area:</target>
+        <target xml:lang="tr" state="translated">&amp;Test Alanı:</target>
       </trans-unit>
       <trans-unit id="WSKeyboardControl.KeyboardNotListed">
         <source xml:lang="en">If the keyboard you need is not listed, click the appropriate link below to set it up</source>
         <note>ID: WSKeyboardControl.KeyboardNotListed</note>
-        <target xml:lang="tr" state="needs-translation">If the keyboard you need is not listed, click the appropriate link below to set it up</target>
+        <target xml:lang="tr" state="translated">Eğer ihtiyacınız olan klavye listelenmemiş ise kurmak için aşağıdaki uygun bağlantıyı tıklayın</target>
       </trans-unit>
       <trans-unit id="WSKeyboardControl.KeyboardSettingsLink">
         <source xml:lang="en">Windows keyboard settings</source>
@@ -625,17 +625,17 @@
       <trans-unit id="WSKeyboardControl.KeymanConfigurationLink">
         <source xml:lang="en">Keyman Configuration</source>
         <note>ID: WSKeyboardControl.KeymanConfigurationLink</note>
-        <target xml:lang="tr" state="needs-translation">Keyman Configuration</target>
+        <target xml:lang="tr" state="translated">Keyman Yapılandırması</target>
       </trans-unit>
       <trans-unit id="WSKeyboardControl.KeymanNotInstalled">
         <source xml:lang="en">Keyman 5.0 or later is not Installed.</source>
         <note>ID: WSKeyboardControl.KeymanNotInstalled</note>
-        <target xml:lang="tr" state="needs-translation">Keyman 5.0 or later is not Installed.</target>
+        <target xml:lang="tr" state="translated">Keyman 5.0 yada üstü yüklenmemiş.</target>
       </trans-unit>
       <trans-unit id="WSKeyboardControl.SelectKeyboardLabel">
         <source xml:lang="en">Select the &amp;keyboard with which to type {0} text</source>
         <note>ID: WSKeyboardControl.SelectKeyboardLabel</note>
-        <target xml:lang="tr" state="needs-translation">Select the &amp;keyboard with which to type {0} text</target>
+        <target xml:lang="tr" state="translated">{0} metnini yazabilen &amp;klavyeyi seçin</target>
       </trans-unit>
       <trans-unit id="WSKeyboardControl.SetupKeyboards">
         <source xml:lang="en">Set up keyboards</source>
@@ -645,7 +645,7 @@
       <trans-unit id="WSKeyboardControl.TestAreaCaption">
         <source xml:lang="en">&amp;Test Area (Use this area to type something to test out your keyboard.)</source>
         <note>ID: WSKeyboardControl.TestAreaCaption</note>
-        <target xml:lang="tr" state="needs-translation">&amp;Test Area (Use this area to type something to test out your keyboard.)</target>
+        <target xml:lang="tr" state="translated">&amp;Test Alanı (Klavyeniz ile bir şeyler yazmayı test etmek için bu alanı kullanın.)</target>
       </trans-unit>
       <trans-unit id="Warning">
         <source xml:lang="en">Warning</source>
@@ -665,7 +665,7 @@
       <trans-unit id="XkbKeyboardAdaptor.MissingKeyboard">
         <source xml:lang="en">[Missing] {0} ({1})</source>
         <note>ID: XkbKeyboardAdaptor.MissingKeyboard</note>
-        <target xml:lang="tr" state="needs-translation">[Missing] {0} ({1})</target>
+        <target xml:lang="tr" state="translated">[Missing] {0} ({1})</target>
       </trans-unit>
     </body>
   </file>
