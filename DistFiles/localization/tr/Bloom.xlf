@@ -3980,7 +3980,7 @@ Do you want to go ahead?</note>
       <trans-unit id="TemplateBooks.BookName.Vaccinations" sil:dynamic="true">
         <source xml:lang="en">Vaccinations</source>
         <note>ID: TemplateBooks.BookName.Vaccinations</note>
-        <target xml:lang="tr" state="needs-translation">Vaccinations</target>
+        <target xml:lang="tr" state="translated">Aşılama</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.BookName.Wall Calendar" sil:dynamic="true">
         <source xml:lang="en">Wall Calendar</source>
@@ -4000,33 +4000,33 @@ Do you want to go ahead?</note>
       <trans-unit id="TemplateBooks.PageDescription.Picture &amp; Word" sil:dynamic="true">
         <source xml:lang="en">Page with a picture on top and a large, centered word below.</source>
         <note>ID: TemplateBooks.PageDescription.Picture &amp; Word</note>
-        <target xml:lang="tr" state="needs-translation">Page with a picture on top and a large, centered word below.</target>
+        <target xml:lang="tr" state="translated">Üstte resim ve altta büyük, ortalanmış kelime ile sayfa.</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.PageLabel.1" sil:dynamic="true">
         <source xml:lang="en">1</source>
         <note>ID: TemplateBooks.PageLabel.1</note>
-        <target xml:lang="tr" state="needs-translation">1</target>
+        <target xml:lang="tr" state="translated">1</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.PageLabel.1 Problem" sil:dynamic="true">
         <source xml:lang="en">1 Problem</source>
         <note>ID: TemplateBooks.PageLabel.1 Problem</note>
         <note>This label indicates a page with one arithmetic problem on it.</note>
-        <target xml:lang="tr" state="needs-translation">1 Problem</target>
+        <target xml:lang="tr" state="translated">1 Problem</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.PageLabel.10" sil:dynamic="true">
         <source xml:lang="en">10</source>
         <note>ID: TemplateBooks.PageLabel.10</note>
-        <target xml:lang="tr" state="needs-translation">10</target>
+        <target xml:lang="tr" state="translated">10</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.PageLabel.11" sil:dynamic="true">
         <source xml:lang="en">11</source>
         <note>ID: TemplateBooks.PageLabel.11</note>
-        <target xml:lang="tr" state="needs-translation">11</target>
+        <target xml:lang="tr" state="translated">11</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.PageLabel.12" sil:dynamic="true">
         <source xml:lang="en">12</source>
         <note>ID: TemplateBooks.PageLabel.12</note>
-        <target xml:lang="tr" state="needs-translation">12</target>
+        <target xml:lang="tr" state="translated">12</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.PageLabel.13" sil:dynamic="true">
         <source xml:lang="en">13</source>
@@ -4145,17 +4145,17 @@ Do you want to go ahead?</note>
       <trans-unit id="TemplateBooks.PageLabel.Basic Text &amp; Image" sil:dynamic="true">
         <source xml:lang="en">Basic Text &amp; Image</source>
         <note>ID: TemplateBooks.PageLabel.Basic Text &amp; Image</note>
-        <target xml:lang="tr" state="needs-translation">Basic Text &amp; Image</target>
+        <target xml:lang="tr" state="translated">Basit Metin &amp; Görüntü</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.PageLabel.Basic Text &amp; Picture" sil:dynamic="true">
         <source xml:lang="en">Basic Text &amp; Picture</source>
         <note>ID: TemplateBooks.PageLabel.Basic Text &amp; Picture</note>
-        <target xml:lang="tr" state="needs-translation">Basic Text &amp; Picture</target>
+        <target xml:lang="tr" state="translated">Basit Metin &amp; Resim</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.PageLabel.Credits Page" sil:dynamic="true">
         <source xml:lang="en">Credits Page</source>
         <note>ID: TemplateBooks.PageLabel.Credits Page</note>
-        <target xml:lang="tr" state="needs-translation">Credits Page</target>
+        <target xml:lang="tr" state="translated">Jenerik Sayfası</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.PageLabel.Custom" sil:dynamic="true">
         <source xml:lang="en">Custom</source>
@@ -4195,12 +4195,12 @@ Do you want to go ahead?</note>
       <trans-unit id="TemplateBooks.PageLabel.Factory" sil:dynamic="true">
         <source xml:lang="en">Factory</source>
         <note>ID: TemplateBooks.PageLabel.Factory</note>
-        <target xml:lang="tr" state="needs-translation">Factory</target>
+        <target xml:lang="tr" state="translated">Fabrika</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.PageLabel.Flyleaf" sil:dynamic="true">
         <source xml:lang="en">Flyleaf</source>
         <note>ID: TemplateBooks.PageLabel.Flyleaf</note>
-        <target xml:lang="tr" state="needs-translation">Flyleaf</target>
+        <target xml:lang="tr" state="translated">Kitabın başındaki ve sonundaki boş sayfalar</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.PageLabel.Front Cover" sil:dynamic="true">
         <source xml:lang="en">Front Cover</source>
@@ -4216,7 +4216,7 @@ Do you want to go ahead?</note>
         <source xml:lang="en">Image For Thumbnail</source>
         <note>ID: TemplateBooks.PageLabel.Image For Thumbnail</note>
         <note>Caption of first page in books made from Template Starter</note>
-        <target xml:lang="tr" state="needs-translation">Image For Thumbnail</target>
+        <target xml:lang="tr" state="translated">Küçük Resim İçin Görüntü</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.PageLabel.Image On Bottom" sil:dynamic="true">
         <source xml:lang="en">Image On Bottom</source>
@@ -4231,12 +4231,12 @@ Do you want to go ahead?</note>
       <trans-unit id="TemplateBooks.PageLabel.Inside Back Cover" sil:dynamic="true">
         <source xml:lang="en">Inside Back Cover</source>
         <note>ID: TemplateBooks.PageLabel.Inside Back Cover</note>
-        <target xml:lang="tr" state="needs-translation">Inside Back Cover</target>
+        <target xml:lang="tr" state="translated">Arka Kapak İçinde</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.PageLabel.Inside Front Cover" sil:dynamic="true">
         <source xml:lang="en">Inside Front Cover</source>
         <note>ID: TemplateBooks.PageLabel.Inside Front Cover</note>
-        <target xml:lang="tr" state="needs-translation">Inside Front Cover</target>
+        <target xml:lang="tr" state="translated">Ön Kapak İçinde</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.PageLabel.Instructions" sil:dynamic="true">
         <source xml:lang="en">Instructions</source>
@@ -4256,7 +4256,7 @@ Do you want to go ahead?</note>
       <trans-unit id="TemplateBooks.PageLabel.Just an Image" sil:dynamic="true">
         <source xml:lang="en">Just an Image</source>
         <note>ID: TemplateBooks.PageLabel.Just an Image</note>
-        <target xml:lang="tr" state="needs-translation">Just an Image</target>
+        <target xml:lang="tr" state="translated">Sadece Bir Görüntü</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.PageLabel.Outside Back Cover" sil:dynamic="true">
         <source xml:lang="en">Outside Back Cover</source>
