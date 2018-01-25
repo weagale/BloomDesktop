@@ -49,7 +49,7 @@
       <trans-unit id="epubpreview.usingdropbox">
         <source xml:lang="en">A handy way to get books to your phone is to set up Dropbox or similar service on both your computer and your phone/tablet. Just click Save ePUB and then choose your Dropbox folder. On your phone, open the Dropbox app and select your book. If you are using a laptop, you can also try the free <g id="genid-5" ctype="x-html-a" html:href="http://www.ushareit.com/">ShareIt</g> program to send files from your laptop to a phone or tablet.
       </source>
-        <target xml:lang="tr" state="needs-translation">A handy way to get books to your phone is to set up Dropbox or similar service on both your computer and your phone/tablet. Just click Save ePUB and then choose your Dropbox folder. On your phone, open the Dropbox app and select your book. If you are using a laptop, you can also try the free <g id="genid-5" ctype="x-html-a" html:href="http://www.ushareit.com/">ShareIt</g> program to send files from your laptop to a phone or tablet.
+        <target xml:lang="tr" state="translated">Kitapları telefonunuza almanın kullanışlı bir yolu Dropbox ya da benzeri servisleri hem bilgisayarınıza hemde telefonunuza/tabletinize kurmaktir. Sadece ePUB'ı Kaydet tuşuna basın ve sonrasında Dropbox klasörünüzü seçin. Telefonunuzda, Dropbox uygulamasını açın ve kitabınızı seçin. Eğer dizüstü bilgisayar kullanıyorsanız bilgisayarınızdan telefonunuza ya da tabletinize dosya göndermek için ayrıca bedava <g id="genid-5" ctype="x-html-a" html:href="http://www.ushareit.com/">ShareIt</g> programını da kullanabilirsiniz.
       
       </target>
         <note>ID: epubpreview.usingdropbox</note>
@@ -62,7 +62,7 @@
       <trans-unit id="epubpreview.gitden.okay">
         <source xml:lang="en">Our testing has shown <g id="genid-6" ctype="x-html-a" html:href="/bloom/api/help/Concepts/Gitden_Reader.htm">Gitden Reader</g> to be a good choice for Android and IOS (IPhone &amp; IPad) devices.
       </source>
-        <target xml:lang="tr" state="needs-translation">Our testing has shown <g id="genid-6" ctype="x-html-a" html:href="/bloom/api/help/Concepts/Gitden_Reader.htm">Gitden Reader</g> to be a good choice for Android and IOS (IPhone &amp; IPad) devices.
+        <target xml:lang="tr" state="translated">Testlerimiz <g id="genid-6" ctype="x-html-a" html:href="/bloom/api/help/Concepts/Gitden_Reader.htm">Gitden Okuyucu</g>'nun Android ve IOS (iPhone &amp; iPad) cihazlar için iyi bir tercih olduğunu göstermiştir.
       
       </target>
         <note>ID: epubpreview.gitden.okay</note>
