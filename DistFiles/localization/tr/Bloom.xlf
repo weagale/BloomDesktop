@@ -3654,12 +3654,12 @@ Do you want to go ahead?</note>
       <trans-unit id="ReaderSetup.SentencePunctuation.Help" sil:dynamic="true">
         <source xml:lang="en">Bloom already knows which characters in the world's languages always mark the end of sentences. To add others, enter the Unicode character escapes here. For example for Thai script languages, enter \U0020 to tell Bloom that normal spaces are used to break sentences.</source>
         <note>ID: ReaderSetup.SentencePunctuation.Help</note>
-        <target xml:lang="tr" state="needs-translation">Bloom already knows which characters in the world's languages always mark the end of sentences. To add others, enter the Unicode character escapes here. For example for Thai script languages, enter \U0020 to tell Bloom that normal spaces are used to break sentences.</target>
+        <target xml:lang="tr" state="translated">Bloom hangi karakterin dünya dillerinde cümleyi sonlandırdığını zaten biliyor. Diğerlerini eklemek içi, Unicode karakterleri buraya girin. Örnek olarak, Thai dili için Bloom'a normal boşlukların cümleleri ayırmak için kullandığını söylemek için \U0020 girin.</target>
       </trans-unit>
       <trans-unit id="ReaderSetup.SetUpDecodableReaderTool" sil:dynamic="true">
         <source xml:lang="en">Set up Decodable Reader Tool</source>
         <note>ID: ReaderSetup.SetUpDecodableReaderTool</note>
-        <target xml:lang="tr" state="needs-translation">Set up Decodable Reader Tool</target>
+        <target xml:lang="tr" state="translated">Çözümlenebilir Okuyucu Araçlarını Ayarlayın</target>
       </trans-unit>
       <trans-unit id="ReaderSetup.SetUpLeveledReaderTool" sil:dynamic="true">
         <source xml:lang="en">Set up Leveled Reader Tool</source>
@@ -3798,12 +3798,12 @@ Do you want to go ahead?</note>
       <trans-unit id="RegisterDialog.Organization">
         <source xml:lang="en">Organization</source>
         <note>ID: RegisterDialog.Organization</note>
-        <target xml:lang="tr" state="needs-translation">Organization</target>
+        <target xml:lang="tr" state="translated">Organization</target>
       </trans-unit>
       <trans-unit id="RegisterDialog.RegisterButton">
         <source xml:lang="en">&amp;Register</source>
         <note>ID: RegisterDialog.RegisterButton</note>
-        <target xml:lang="tr" state="needs-translation">&amp;Register</target>
+        <target xml:lang="tr" state="translated">&amp;Kayıt ol</target>
       </trans-unit>
       <trans-unit id="RegisterDialog.Surname">
         <source xml:lang="en">Surname</source>
@@ -3814,7 +3814,7 @@ Do you want to go ahead?</note>
         <source xml:lang="en">Register {0}</source>
         <note>ID: RegisterDialog.WindowTitle</note>
         <note>Place a {0} where the name of the program goes.</note>
-        <target xml:lang="tr" state="needs-translation">Register {0}</target>
+        <target xml:lang="tr" state="translated">{0}'a Kayıt Ol</target>
       </trans-unit>
       <trans-unit id="ReportProblemDialog.Close">
         <source xml:lang="en">Close</source>
@@ -3835,12 +3835,12 @@ Do you want to go ahead?</note>
       <trans-unit id="ReportProblemDialog.IncludeBookButton">
         <source xml:lang="en">Include Book '{0}'</source>
         <note>ID: ReportProblemDialog.IncludeBookButton</note>
-        <target xml:lang="tr" state="needs-translation">Include Book '{0}'</target>
+        <target xml:lang="tr" state="translated">'{0}' Kitabı Dahil</target>
       </trans-unit>
       <trans-unit id="ReportProblemDialog.IncludeScreenshotButton">
         <source xml:lang="en">Include this screenshot</source>
         <note>ID: ReportProblemDialog.IncludeScreenshotButton</note>
-        <target xml:lang="tr" state="needs-translation">Include this screenshot</target>
+        <target xml:lang="tr" state="translated">Bu ekran görüntüsü dahil</target>
       </trans-unit>
       <trans-unit id="ReportProblemDialog.Name">
         <source xml:lang="en">Name</source>
@@ -3861,7 +3861,7 @@ Do you want to go ahead?</note>
       <trans-unit id="ReportProblemDialog.SubmitButton">
         <source xml:lang="en">&amp;Submit</source>
         <note>ID: ReportProblemDialog.SubmitButton</note>
-        <target xml:lang="tr" state="needs-translation">&amp;Submit</target>
+        <target xml:lang="tr" state="translated">&amp;Gönder</target>
       </trans-unit>
       <trans-unit id="ReportProblemDialog.Submitting">
         <source xml:lang="en">Submitting to server...</source>
@@ -3950,7 +3950,7 @@ Do you want to go ahead?</note>
       <trans-unit id="TemplateBooks.BookName.Decodable Reader" sil:dynamic="true">
         <source xml:lang="en">Decodable Reader</source>
         <note>ID: TemplateBooks.BookName.Decodable Reader</note>
-        <target xml:lang="tr" state="needs-translation">Decodable Reader</target>
+        <target xml:lang="tr" state="translated">Çözümlenebilir Okuyucu</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.BookName.Leveled Reader" sil:dynamic="true">
         <source xml:lang="en">Leveled Reader</source>
