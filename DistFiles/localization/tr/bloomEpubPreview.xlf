@@ -5,7 +5,7 @@
       <trans-unit id="epubpreview.describe">
         <source xml:lang="en">This is an <g id="genid-1" ctype="x-html-a" html:href="https://en.wikipedia.org/wiki/ePUB">ePUB</g> (e-book) version of your book. <g id="genid-2" ctype="x-html-span" html:class="showForTalkingBooks">It contains audio, so that new readers can listen as they read.</g>
       </source>
-        <target xml:lang="tr" state="needs-translation">This is an <g id="genid-1" ctype="x-html-a" html:href="https://en.wikipedia.org/wiki/ePUB">ePUB</g> (e-book) version of your book. <g id="genid-2" ctype="x-html-span" html:class="showForTalkingBooks">It contains audio, so that new readers can listen as they read.</g>
+        <target xml:lang="tr" state="translated">Bu kitabınızın <g id="genid-1" ctype="x-html-a" html:href="https://en.wikipedia.org/wiki/ePUB">ePUB</g> (e-kitap) halidir. <g id="genid-2" ctype="x-html-span" html:class="showForTalkingBooks">Ses barındırır böylece yeni okuyucular okurken dinleyebilirler.</g>
       
       </target>
         <note>ID: epubpreview.describe</note>
@@ -22,7 +22,7 @@
       </trans-unit>
       <trans-unit id="epubpreview.resizing">
         <source xml:lang="en">You can resize the preview by dragging the lower right corner of this simulated device. See how your book will look on screens of various sizes.</source>
-        <target xml:lang="tr" state="needs-translation">You can resize the preview by dragging the lower right corner of this simulated device. See how your book will look on screens of various sizes.</target>
+        <target xml:lang="tr" state="translated">Simule edilmiş cihazın sağ alt köşesinden tutup sürükleyerek ön izlemeyi yeniden boyutlandırabilirsiniz. Kitabınızın değişik boyutlarda ekranda nasıl görüneceğine bakın.</target>
         <note>ID: epubpreview.resizing</note>
       </trans-unit>
       <trans-unit id="epubpreview.readium">
