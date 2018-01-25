@@ -34,9 +34,9 @@
       </trans-unit>
       <trans-unit id="leveled.reader.repeat.patterns">
         <source xml:lang="en"><g id="genid-1" ctype="x-html-em">Predictability</g> in a text means that the reader can guess what would come next. You can increase predictability by using repeated patterns. Here are some patterns you can use:</source>
-        <target xml:lang="tr" state="needs-translation">
+        <target xml:lang="tr" state="translated">
           
-          <g id="genid-1" ctype="x-html-em">Predictability</g> in a text means that the reader can guess what would come next. You can increase predictability by using repeated patterns. Here are some patterns you can use:</target>
+          Bir metin içerisindeki <g id="genid-1" ctype="x-html-em">ön görülebilirlik</g> okuyucunun daha sonra ne geleceğini tahmin edebilmesi demektir. Tekrarlayan kalıplar kullanarak ön görünebilirliği arttırabilirsiniz. İşte kullanabileceğiniz bazı kalıplar:</target>
         <note>ID: leveled.reader.repeat.patterns</note>
       </trans-unit>
       <trans-unit id="leveled.reader.repetition">
@@ -46,7 +46,7 @@
       </trans-unit>
       <trans-unit id="leveled.reader.sequencing">
         <source xml:lang="en">Sequencing - a story with a known sequence such as the days of the week or that uses numbers in a pattern</source>
-        <target xml:lang="tr" state="needs-translation">Sequencing - a story with a known sequence such as the days of the week or that uses numbers in a pattern</target>
+        <target xml:lang="tr" state="translated">Sıralama - haftanın günleri gibi bilinen bir sıralamayı veya bir kalıpta numaraları kullanan bir hikaye</target>
         <note>ID: leveled.reader.sequencing</note>
       </trans-unit>
       <trans-unit id="leveled.reader.building.sequence">
