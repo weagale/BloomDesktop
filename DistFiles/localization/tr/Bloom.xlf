@@ -3400,7 +3400,7 @@ Do you want to go ahead?</note>
       <trans-unit id="PublishTab.Upload.UploadProblemNotice">
         <source xml:lang="en">There was a problem uploading your book. You may need to restart Bloom or get technical help.</source>
         <note>ID: PublishTab.Upload.UploadProblemNotice</note>
-        <target xml:lang="tr" state="translated">Kitabını yüklerken bir sorun oluştu. Bloom'u yeniden başlatmanız veya teknik yardım almanız gerekiyor.</target>
+        <target xml:lang="tr" state="translated">Kitabınızı yüklerken bir sorun oluştu. Bloom'u yeniden başlatmanız veya teknik yardım almanız gerekiyor.</target>
       </trans-unit>
       <trans-unit id="PublishTab.Upload.UploadProgress">
         <source xml:lang="en">Upload Progress</source>
