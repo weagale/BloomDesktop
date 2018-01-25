@@ -4,7 +4,7 @@
     <body>
       <trans-unit id="decodable.definition">
         <source xml:lang="en">A <g id="genid-1" ctype="x-html-strong">Decodable Reader</g> is a book that carefully limits the letters and words used so that it fits what a new reader is ready to read. Typically a language may have 5 - 10 <g id="genid-2" ctype="x-html-em">decodable stages</g> through which learners progress.</source>
-        <target xml:lang="tr" state="needs-translation">A <g id="genid-1" ctype="x-html-strong">Decodable Reader</g> is a book that carefully limits the letters and words used so that it fits what a new reader is ready to read. Typically a language may have 5 - 10 <g id="genid-2" ctype="x-html-em">decodable stages</g> through which learners progress.</target>
+        <target xml:lang="tr" state="translated"><g id="genid-1" ctype="x-html-strong">Çözülebilir okuyucu</g> harfleri ve sözcükleri dikkatlice sınırlayan bir kitaptır böylece yeni bir okuyucunun ne okuyacağına uygun hal alır. Tipik olarak bir dil öğrenme sürecinde 5 -10 <g id="genid-2" ctype="x-html-em"> çözülebilir seviyeye</g> sahiptir.</target>
         <note>ID: decodable.definition</note>
       </trans-unit>
       <trans-unit id="decodable.stages">
