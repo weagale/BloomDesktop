@@ -92,7 +92,7 @@
       </trans-unit>
       <trans-unit id="epubpreview.use.help.report">
         <source xml:lang="en">Are you interested in distributing Bloom books for use on phones and other ebook readers? Is there something you would need us to do before it is useful for you? Please use the Help:Report A Problem command to send us feedback. Thanks!</source>
-        <target xml:lang="tr" state="needs-translation">Are you interested in distributing Bloom books for use on phones and other ebook readers? Is there something you would need us to do before it is useful for you? Please use the Help:Report A Problem command to send us feedback. Thanks!</target>
+        <target xml:lang="tr" state="translated">Bloom kitaplarını telefonlarda ve diğer e-kitap okuyucularında yayınlamakla ilgileniyor musun? Sizin için kullanışlı olmadan önce yapmamız gereken bir şey var mı? Lütfen bize geri bildirim göndermek için Yardım: Bir Problemi Bildir komutunu kullanın. Teşekkürler!</target>
         <note>ID: epubpreview.use.help.report</note>
       </trans-unit>
     </body>
