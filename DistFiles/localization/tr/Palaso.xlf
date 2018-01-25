@@ -6,7 +6,7 @@
         <source xml:lang="en">Built on {0}</source>
         <note>ID: AboutDialog.BuiltOnDate</note>
         <note>{0} is the date the application was built</note>
-        <target xml:lang="tr" state="needs-translation">Built on {0}</target>
+        <target xml:lang="tr" state="translated">{0} üzerine kurulu</target>
       </trans-unit>
       <trans-unit id="AboutDialog.NoUpdates">
         <source xml:lang="en">No Updates</source>
@@ -60,17 +60,17 @@
         <source xml:lang="en">Waiting for other {0} to finish...</source>
         <note>ID: Application.WaitingFinish.Specific</note>
         <note>{0} is the application name</note>
-        <target xml:lang="tr" state="needs-translation">Waiting for other {0} to finish...</target>
+        <target xml:lang="tr" state="translated">Diğer {0}'ın bitmesi bekleniyor...</target>
       </trans-unit>
       <trans-unit id="Common.AbortButton">
         <source xml:lang="en">&amp;Abort</source>
         <note>ID: Common.AbortButton</note>
-        <target xml:lang="tr" state="needs-translation">&amp;Abort</target>
+        <target xml:lang="tr" state="translated">&amp;İptal Et</target>
       </trans-unit>
       <trans-unit id="Common.CancelButton">
         <source xml:lang="en">&amp;Cancel</source>
         <note>ID: Common.CancelButton</note>
-        <target xml:lang="tr" state="needs-translation">&amp;Cancel</target>
+        <target xml:lang="tr" state="translated">&amp;İptal Et</target>
       </trans-unit>
       <trans-unit id="Common.IgnoreButton">
         <source xml:lang="en">&amp;Ignore</source>
