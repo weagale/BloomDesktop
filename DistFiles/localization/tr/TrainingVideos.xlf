@@ -9,7 +9,7 @@
       </trans-unit>
       <trans-unit id="training.videos.watch">
         <source xml:lang="en">If you are connected to the internet now, you can watch videos in your web browser:</source>
-        <target xml:lang="tr" state="needs-translation">If you are connected to the internet now, you can watch videos in your web browser:</target>
+        <target xml:lang="tr" state="translated">Eğer şu anda internete bağlıysanız, web tarayıcınız ile videoları izleyebilirsiniz:</target>
         <note>ID: training.videos.watch</note>
       </trans-unit>
       <trans-unit id="training.videos.all">
@@ -30,8 +30,8 @@
         <source xml:lang="en">
           <g id="genid-2" ctype="x-html-a" html:href="https://vimeo.com/114043219">Bloom: Who is it for</g>
         </source>
-        <target xml:lang="tr" state="needs-translation">
-          <g id="genid-2" ctype="x-html-a" html:href="https://vimeo.com/114043219">Bloom: Who is it for</g>
+        <target xml:lang="tr" state="translated">
+          <g id="genid-2" ctype="x-html-a" html:href="https://vimeo.com/114043219">Bloom: Kimin için</g>
         </target>
         <note>ID: training.videos.whofor</note>
       </trans-unit>
@@ -39,8 +39,8 @@
         <source xml:lang="en">
           <g id="genid-3" ctype="x-html-a" html:href="https://vimeo.com/114024308">Understanding Templates and Shell Books</g>
         </source>
-        <target xml:lang="tr" state="needs-translation">
-          <g id="genid-3" ctype="x-html-a" html:href="https://vimeo.com/114024308">Understanding Templates and Shell Books</g>
+        <target xml:lang="tr" state="translated">
+          <g id="genid-3" ctype="x-html-a" html:href="https://vimeo.com/114024308">Şablonları ve Kalıp Kitapları Anlama</g>
         </target>
         <note>ID: training.videos.templates</note>
       </trans-unit>
