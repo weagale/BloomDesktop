@@ -28,7 +28,7 @@
       <trans-unit id="epubpreview.readium">
         <source xml:lang="en">This page uses the <g id="genid-3" ctype="x-html-a" html:href="http://readium.org/">Readium</g> ePUB reader. Books will likely look different on different readers.
       </source>
-        <target xml:lang="tr" state="needs-translation">This page uses the <g id="genid-3" ctype="x-html-a" html:href="http://readium.org/">Readium</g> ePUB reader. Books will likely look different on different readers.
+        <target xml:lang="tr" state="translated">Bu sayfa <g id="genid-3" ctype="x-html-a" html:href="http://readium.org/">Readium</g> ePUB okuyucuyu kullanır. Kitaplar büyük ihtimalle farklı okuyucularda farklı gözüküceklerdir. 
       
       </target>
         <note>ID: epubpreview.readium</note>
@@ -36,7 +36,7 @@
       <trans-unit id="epubpreview.talkingbookpreview">
         <source xml:lang="en">The preview here cannot yet play Talking Books. You can listen to it using Adobe's Free <g id="genid-4" ctype="x-html-a" html:href="http://www.adobe.com/solutions/ebook/digital-editions.html">Digital Editions</g> e-book reader.
       </source>
-        <target xml:lang="tr" state="needs-translation">The preview here cannot yet play Talking Books. You can listen to it using Adobe's Free <g id="genid-4" ctype="x-html-a" html:href="http://www.adobe.com/solutions/ebook/digital-editions.html">Digital Editions</g> e-book reader.
+        <target xml:lang="tr" state="translated">Buradaki örnek daha Konuşan Kitapları çalamaz. Adobe'nin Bedava <g id="genid-4" ctype="x-html-a" html:href="http://www.adobe.com/solutions/ebook/digital-editions.html">Dijital Sürüm</g> e-kitap okuyucusunu kullanarak dinleyebilirsiniz.
       
       </target>
         <note>ID: epubpreview.talkingbookpreview</note>
