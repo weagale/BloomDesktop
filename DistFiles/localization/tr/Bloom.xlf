@@ -1688,7 +1688,7 @@
       <trans-unit id="EditTab.TitleOfCopyIPToWholeBooksDialog">
         <source xml:lang="en">Picture Intellectual Property Information</source>
         <note>ID: EditTab.TitleOfCopyIPToWholeBooksDialog</note>
-        <target xml:lang="tr" state="needs-translation">Picture Intellectual Property Information</target>
+        <target xml:lang="tr" state="translated">Resim Fikri Mülkiyet Bilgisi</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.Music.MusicTool" sil:dynamic="true">
         <source xml:lang="en">Background Music Tool</source>
@@ -1750,12 +1750,12 @@
       <trans-unit id="EditTab.Toolbox.DecodableReaderTool" sil:dynamic="true">
         <source xml:lang="en">Decodable Reader Tool</source>
         <note>ID: EditTab.Toolbox.DecodableReaderTool</note>
-        <target xml:lang="tr" state="needs-translation">Decodable Reader Tool</target>
+        <target xml:lang="tr" state="translated">Çözümlenebilir Okuyucu Araçları</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.DecodableReaderTool.AllowedWordListTruncated" sil:dynamic="true">
         <source xml:lang="en">Bloom can handle only the first {0} words.</source>
         <note>ID: EditTab.Toolbox.DecodableReaderTool.AllowedWordListTruncated</note>
-        <target xml:lang="tr" state="needs-translation">Bloom can handle only the first {0} words.</target>
+        <target xml:lang="tr" state="translated">Bloom sadece ilk {0} kelimeyi halledebilir.</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.DecodableReaderTool.AllowedWordsInThisStage" sil:dynamic="true">
         <source xml:lang="en">Allowed words in this stage</source>
@@ -1770,7 +1770,7 @@
       <trans-unit id="EditTab.Toolbox.DecodableReaderTool.LetterWordReportLetters">
         <source xml:lang="en">Letters: {0}</source>
         <note>ID: EditTab.Toolbox.DecodableReaderTool.LetterWordReportLetters</note>
-        <target xml:lang="tr" state="needs-translation">Letters: {0}</target>
+        <target xml:lang="tr" state="translated">Kelimeler: {0}</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.DecodableReaderTool.LetterWordReportMessage">
         <source xml:lang="en">The following is a generated report of the decodable stages for {0}.  You can make any changes you want to this file, but Bloom will not notice your changes.  It is just a report.</source>
@@ -1913,7 +1913,7 @@
       <trans-unit id="EditTab.Toolbox.LeveledReaderTool.Predictability" sil:dynamic="true">
         <source xml:lang="en">Predictability</source>
         <note>ID: EditTab.Toolbox.LeveledReaderTool.Predictability</note>
-        <target xml:lang="tr" state="needs-translation">Predictability</target>
+        <target xml:lang="tr" state="translated">Tahmin Edilebilirlik</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.LeveledReaderTool.SetUpLevels" sil:dynamic="true">
         <source xml:lang="en">Set up Levels</source>
@@ -2767,7 +2767,7 @@
         <source xml:lang="en">Replacing existing "{0}"...</source>
         <note>ID: PublishTab.Android.Usb.Progress.ReplacingBook</note>
         <note>{0} is a book title</note>
-        <target xml:lang="tr" state="needs-translation">Replacing existing "{0}"...</target>
+        <target xml:lang="tr" state="translated">Mevcut "{0}"'ın yerine...</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Usb.Progress.SendingBook" sil:dynamic="true">
         <source xml:lang="en">Sending "{0}" to your Android device...</source>
@@ -2854,7 +2854,7 @@
         <source xml:lang="en">The layout of this book is currently "{0}". Bloom Reader will display it using "{1}", so text might not fit. To see if anything needs adjusting, go back to the Edit Tab and change the layout to "{1}".</source>
         <note>ID: PublishTab.Android.WrongLayout.Message</note>
         <note>{0} and {1} are book layout tags.</note>
-        <target xml:lang="tr" state="needs-translation">The layout of this book is currently "{0}". Bloom Reader will display it using "{1}", so text might not fit. To see if anything needs adjusting, go back to the Edit Tab and change the layout to "{1}".</target>
+        <target xml:lang="tr" state="translated">Bu kitabın yerleşimi şu anda "{0}". Bloom Okuyucusu bunu "{1}" kullanarak gösterecektir, bu yüzden metin uygun olmayabilir. Herhangi bir şeyin düzenlemeye ihtiyacı olup olmadığına bakmak için Düzenleme Sekmesine geri gidin ve yerleşimi "{1}" olarak değiştirin.</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.bloomdFileFormatLabel">
         <source xml:lang="en">Bloom Book for Devices</source>
@@ -2923,7 +2923,7 @@
         <source xml:lang="en">InDesign XML Information</source>
         <note>ID: PublishTab.InDesignDialog.WindowTitle</note>
         <note>This is the title of a dialog about exporting a Bloom book to the InDesign XML format</note>
-        <target xml:lang="tr" state="needs-translation">InDesign XML Information</target>
+        <target xml:lang="tr" state="translated">InDesign XML Bilgisi</target>
       </trans-unit>
       <trans-unit id="PublishTab.LessMemoryPdfMode">
         <source xml:lang="en">Use less memory (slower)</source>
@@ -2995,7 +2995,7 @@
         <source xml:lang="en">Compressing PDF &amp; Converting Color to CMYK</source>
         <note>ID: PublishTab.PdfMaker.CompressConvertColor</note>
         <note>Message displayed in a progress report dialog box</note>
-        <target xml:lang="tr" state="needs-translation">Compressing PDF &amp; Converting Color to CMYK</target>
+        <target xml:lang="tr" state="translated">PDF'yi sıkıştırma&amp; Rengi CMYK'ye çevirme</target>
       </trans-unit>
       <trans-unit id="PublishTab.PdfMaker.Creating">
         <source xml:lang="en">Creating PDF...</source>
@@ -3032,13 +3032,13 @@
         <source xml:lang="en">Making Page {0} of the PDF</source>
         <note>ID: PublishTab.PdfMaker.MakingPageOfPdf</note>
         <note>Message displayed in a progress report dialog box, {0} is replaced by the page number</note>
-        <target xml:lang="tr" state="needs-translation">Making Page {0} of the PDF</target>
+        <target xml:lang="tr" state="translated">PDF'in Sayfa {0} Yapma</target>
       </trans-unit>
       <trans-unit id="PublishTab.PdfMaker.PdfWithCmykSwopV2">
         <source xml:lang="en">PDF with CMYK color (U.S. Web Coated (SWOP) v2)</source>
         <note>ID: PublishTab.PdfMaker.PdfWithCmykSwopV2</note>
         <note>displayed as file type for Save File dialog, the content in parentheses may not be translatable. 'CMYK' may not be translatable, it is a print shop standard.</note>
-        <target xml:lang="tr" state="needs-translation">PDF with CMYK color (U.S. Web Coated (SWOP) v2)</target>
+        <target xml:lang="tr" state="translated">CMYK renkleri ile PDF (U.S. Web Coated (SWOP) v2)</target>
       </trans-unit>
       <trans-unit id="PublishTab.PdfMaker.PdfWithRGB">
         <source xml:lang="en">PDF with RGB color</source>
@@ -3108,7 +3108,7 @@
       <trans-unit id="PublishTab.Upload.Acknowledgments">
         <source xml:lang="en">Acknowledgments</source>
         <note>ID: PublishTab.Upload.Acknowledgments</note>
-        <target xml:lang="tr" state="needs-translation">Acknowledgments</target>
+        <target xml:lang="tr" state="translated">Teşekkürler</target>
       </trans-unit>
       <trans-unit id="PublishTab.Upload.AdditionalRequests">
         <source xml:lang="en">Additional Requests: </source>
