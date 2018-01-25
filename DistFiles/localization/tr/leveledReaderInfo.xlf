@@ -99,7 +99,7 @@ Yellow Duck, Yellow Duck, What do you see?</g>
       <trans-unit id="leveled.reader.illustrations.early.reader">
         <source xml:lang="en">For <g id="genid-7" ctype="x-html-strong">Early Readers</g> the pictures should offer some support to the story line. As the amount of text increases, the reader is less reliant on the pictures and gets more meaning from the text. The illustrations can be more complex.
       </source>
-        <target xml:lang="tr" state="needs-translation">For <g id="genid-7" ctype="x-html-strong">Early Readers</g> the pictures should offer some support to the story line. As the amount of text increases, the reader is less reliant on the pictures and gets more meaning from the text. The illustrations can be more complex.
+        <target xml:lang="tr" state="translated"><g id="genid-7" ctype="x-html-strong">Başlangıç Kitapları</g> için resimler hikayeye biraz destek sağlamalıdırlar. Metin miktarı artarken okuyucu resimlere daha az bağımlı olmalı ve metinden daha çok anlam çıkarmalıdır. Çizimler biraz daha kompleks olabilirler.
       
       </target>
         <note>ID: leveled.reader.illustrations.early.reader</note>
