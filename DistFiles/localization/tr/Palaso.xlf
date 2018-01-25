@@ -400,7 +400,7 @@
         <source xml:lang="en">You may adapt and add to this work, but you may distribute the resulting work only under the same or similar license to this one.</source>
         <note>ID: MetadataDisplay.Licenses.CreativeCommons.DerivativesWithShareAndShareAlike</note>
         <note>See http://creativecommons.org/ to find out how this is normally translated in your language. What we're aiming for here is an easy to understand summary.</note>
-        <target xml:lang="tr" state="needs-translation">You may adapt and add to this work, but you may distribute the resulting work only under the same or similar license to this one.</target>
+        <target xml:lang="tr" state="translated">Bu çalışmaya uyarlama ve ekleme yapabilirsiniz fakat sonucu sadece bu lisans ya da buna benzer bir tane ile dağıtabilirsiniz.</target>
       </trans-unit>
       <trans-unit id="MetadataDisplay.Licenses.CreativeCommons.NoDerivatives" sil:dynamic="true">
         <source xml:lang="en">You may not make changes or build upon this work without permission.</source>
