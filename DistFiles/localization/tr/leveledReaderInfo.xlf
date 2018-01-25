@@ -83,7 +83,7 @@ Yellow Duck, Yellow Duck, What do you see?</g>
       <trans-unit id="leveled.reader.illustrations.help">
         <source xml:lang="en">Illustrations provide support to the story. Illustrations relate to the story in different ways at different <g id="genid-5" ctype="x-html-em">levels</g> and for different types of readers (see below). Remember that in many cultures that don't have a lot of printed material around, complex pictures may be difficult to understand.
     </source>
-        <target xml:lang="tr" state="needs-translation">Illustrations provide support to the story. Illustrations relate to the story in different ways at different <g id="genid-5" ctype="x-html-em">levels</g> and for different types of readers (see below). Remember that in many cultures that don't have a lot of printed material around, complex pictures may be difficult to understand.
+        <target xml:lang="tr" state="translated">Çizimler hikayeye destek sağlarlar. Çizimler hikayeye farklı <g id="genid-5" ctype="x-html-em">seviyelerde</g> ve farklı okuyucu türleri (aşağıya bakınız) için hikayeye farklı yollarla bağlanırlar. Fazla basılı materyali olmayan kültürlerde kompleks resimlerin anlaşılmasının zor olacağını unutmayınız.
     
     </target>
         <note>ID: leveled.reader.illustrations.help</note>
@@ -91,7 +91,7 @@ Yellow Duck, Yellow Duck, What do you see?</g>
       <trans-unit id="leveled.reader.illustrations.emergent.reader">
         <source xml:lang="en">For <g id="genid-6" ctype="x-html-strong">Emergent Readers</g> the pictures should closely match the storyline. The reader should be able to predict the story line just by looking at the pictures. The illustrations at this level should be simple.
       </source>
-        <target xml:lang="tr" state="needs-translation">For <g id="genid-6" ctype="x-html-strong">Emergent Readers</g> the pictures should closely match the storyline. The reader should be able to predict the story line just by looking at the pictures. The illustrations at this level should be simple.
+        <target xml:lang="tr" state="translated"><g id="genid-6" ctype="x-html-strong">Öğretici Okuyucular</g> için resim hikaye ile olabildiğince eşleşmeli. Okuyucu sadece resme bakarak hikayeyi tahmin edebilmeli. Bu seviyedeki çizimler basit olmalıdır.
       
       </target>
         <note>ID: leveled.reader.illustrations.emergent.reader</note>
