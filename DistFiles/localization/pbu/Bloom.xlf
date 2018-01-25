@@ -1654,6 +1654,9 @@
         <note>ID: EditTab.TextBoxProperties.BordersAndBackground</note>
         <target xml:lang="pbu">څنډې او amp&amp;; شالید</target>
         <alt-trans>
+          <target xml:lang="pbu">څنډې او &amp; شالید</target>
+        </alt-trans>
+        <alt-trans>
           <target xml:lang="pbu">څنډې او amp&amp;; شالید</target>
         </alt-trans>
         <alt-trans>
