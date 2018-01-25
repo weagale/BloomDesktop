@@ -75,7 +75,7 @@
       <trans-unit id="Common.IgnoreButton">
         <source xml:lang="en">&amp;Ignore</source>
         <note>ID: Common.IgnoreButton</note>
-        <target xml:lang="tr" state="needs-translation">&amp;Ignore</target>
+        <target xml:lang="tr" state="translated">&amp;Yoksay</target>
       </trans-unit>
       <trans-unit id="Common.No">
         <source xml:lang="en">No</source>
@@ -85,17 +85,17 @@
       <trans-unit id="Common.NoButton">
         <source xml:lang="en">&amp;No</source>
         <note>ID: Common.NoButton</note>
-        <target xml:lang="tr" state="needs-translation">&amp;No</target>
+        <target xml:lang="tr" state="translated">&amp;Hayır</target>
       </trans-unit>
       <trans-unit id="Common.OKButton">
         <source xml:lang="en">&amp;OK</source>
         <note>ID: Common.OKButton</note>
-        <target xml:lang="tr" state="needs-translation">&amp;OK</target>
+        <target xml:lang="tr" state="translated">&amp;Tamam</target>
       </trans-unit>
       <trans-unit id="Common.RetryButton">
         <source xml:lang="en">&amp;Retry</source>
         <note>ID: Common.RetryButton</note>
-        <target xml:lang="tr" state="needs-translation">&amp;Retry</target>
+        <target xml:lang="tr" state="translated">&amp;Yeniden Dene</target>
       </trans-unit>
       <trans-unit id="Common.Yes">
         <source xml:lang="en">Yes</source>
@@ -105,7 +105,7 @@
       <trans-unit id="Common.YesButton">
         <source xml:lang="en">&amp;Yes</source>
         <note>ID: Common.YesButton</note>
-        <target xml:lang="tr" state="needs-translation">&amp;Yes</target>
+        <target xml:lang="tr" state="translated">&amp;Evet</target>
       </trans-unit>
       <trans-unit id="DialogBoxes.ConfirmRecycleDialog.MessageForMultipleItems">
         <source xml:lang="en">{0} will be moved to the Recycle Bin.</source>
@@ -117,7 +117,7 @@
         <source xml:lang="en">{0} will be moved to the Recycle Bin.</source>
         <note>ID: DialogBoxes.ConfirmRecycleDialog.MessageForSingleItem</note>
         <note>Param {0} is a file name</note>
-        <target xml:lang="tr" state="needs-translation">{0} will be moved to the Recycle Bin.</target>
+        <target xml:lang="tr" state="translated">{0} Geri Dönüşüm Kutusuna taşınacak.</target>
       </trans-unit>
       <trans-unit id="DialogBoxes.ConfirmRecycleDialog.WindowTitle">
         <source xml:lang="en">Confirm Delete</source>
@@ -127,18 +127,18 @@
       <trans-unit id="DialogBoxes.ConfirmRecycleDialog.cancelBtn">
         <source xml:lang="en">&amp;Cancel</source>
         <note>ID: DialogBoxes.ConfirmRecycleDialog.cancelBtn</note>
-        <target xml:lang="tr" state="needs-translation">&amp;Cancel</target>
+        <target xml:lang="tr" state="translated">&amp;İptal Et</target>
       </trans-unit>
       <trans-unit id="DialogBoxes.ConfirmRecycleDialog.deleteBtn">
         <source xml:lang="en">&amp;Delete</source>
         <note>ID: DialogBoxes.ConfirmRecycleDialog.deleteBtn</note>
-        <target xml:lang="tr" state="needs-translation">&amp;Delete</target>
+        <target xml:lang="tr" state="translated">&amp;Sil</target>
       </trans-unit>
       <trans-unit id="ImageToolbox.AlmostMatchingImages">
         <source xml:lang="en">Found {0} images with names close to {1}</source>
         <note>ID: ImageToolbox.AlmostMatchingImages</note>
         <note>The {0} will be replaced by the number of images found.  The {1} will be replaced with the search string.</note>
-        <target xml:lang="tr" state="needs-translation">Found {0} images with names close to {1}</target>
+        <target xml:lang="tr" state="translated">{1}'e benzer ismi olan {0} görüntü bulundu</target>
       </trans-unit>
       <trans-unit id="ImageToolbox.ArtOfReading">
         <source xml:lang="en">Art Of Reading</source>
@@ -154,7 +154,7 @@
         <source xml:lang="en">Use {0}</source>
         <note>ID: ImageToolbox.CopyExemplarMetadata</note>
         <note>Used to copy a previous metadata set to the current image. The  {0} will be replaced with the name of the exemplar image.</note>
-        <target xml:lang="tr" state="needs-translation">Use {0}</target>
+        <target xml:lang="tr" state="translated">{0} Kullan</target>
       </trans-unit>
       <trans-unit id="ImageToolbox.Crop">
         <source xml:lang="en">Crop</source>
@@ -210,7 +210,7 @@
       <trans-unit id="ImageToolbox.ImageToolboxWindowTitle">
         <source xml:lang="en">Image Toolbox</source>
         <note>ID: ImageToolbox.ImageToolboxWindowTitle</note>
-        <target xml:lang="tr" state="needs-translation">Image Toolbox</target>
+        <target xml:lang="tr" state="translated">Görüntü Araç Kutusu</target>
       </trans-unit>
       <trans-unit id="ImageToolbox.InstallArtOfReading">
         <source xml:lang="en">Install the Art Of Reading package (this may be very slow)</source>
@@ -221,7 +221,7 @@
         <source xml:lang="en">Found {0} images</source>
         <note>ID: ImageToolbox.MatchingImages</note>
         <note>The {0} will be replaced by the number of matching images</note>
-        <target xml:lang="tr" state="needs-translation">Found {0} images</target>
+        <target xml:lang="tr" state="translated">{0} görüntü bulundu</target>
       </trans-unit>
       <trans-unit id="ImageToolbox.NewMultilingual">
         <source xml:lang="en">Did you know that there is a new version of this collection which lets you search in Arabic, Bengali, Chinese, English, French, Indonesian, Hindi, Portuguese, Spanish, Thai, or Swahili?  It is free and available for downloading.</source>
@@ -263,7 +263,7 @@
       <trans-unit id="ImageToolbox.PromptForMissingMetadata">
         <source xml:lang="en">This image does not know:\n\nWho created it?\nWho can use it?</source>
         <note>ID: ImageToolbox.PromptForMissingMetadata</note>
-        <target xml:lang="tr" state="needs-translation">This image does not know:\n\nWho created it?\nWho can use it?</target>
+        <target xml:lang="tr" state="translated">Bu görüntü şunları bilmiyor:\n\nOnu kim oluşturdu?\nOnu kim kullanabilir?</target>
       </trans-unit>
       <trans-unit id="ImageToolbox.Scanner">
         <source xml:lang="en">Scanner</source>
@@ -273,18 +273,18 @@
       <trans-unit id="ImageToolbox.SearchArtOfReading">
         <source xml:lang="en">Search the Art of Reading Gallery</source>
         <note>ID: ImageToolbox.SearchArtOfReading</note>
-        <target xml:lang="tr" state="needs-translation">Search the Art of Reading Gallery</target>
+        <target xml:lang="tr" state="translated">Okuma Sanatı Galerisi'nde arama yapın</target>
       </trans-unit>
       <trans-unit id="ImageToolbox.SearchLanguage">
         <source xml:lang="en">The search box is currently set to {0}</source>
         <note>ID: ImageToolbox.SearchLanguage</note>
         <note>The {0} will be replaced by the name of the language used in the searches.</note>
-        <target xml:lang="tr" state="needs-translation">The search box is currently set to {0}</target>
+        <target xml:lang="tr" state="translated">Arama kutusu şu anda {0}'a ayarlı</target>
       </trans-unit>
       <trans-unit id="ImageToolbox.SetUpMetadataLink">
         <source xml:lang="en">Set up metadata...</source>
         <note>ID: ImageToolbox.SetUpMetadataLink</note>
-        <target xml:lang="tr" state="needs-translation">Set up metadata...</target>
+        <target xml:lang="tr" state="translated">Metadata verilerini ayarla...</target>
       </trans-unit>
       <trans-unit id="LanguageLookup.AlternateNamesHeader">
         <source xml:lang="en">Other Names</source>
@@ -294,23 +294,23 @@
       <trans-unit id="LanguageLookup.CannotFindMyLanguage.LanguageLookup.CannotFindMyLanguageExplanation2">
         <source xml:lang="en">This list should include all the ISO-639 languages, including all the alternative names known to ethnologue.com.\n\nIf necessary, use the "Unlisted Language" option, which will be selected for you now.</source>
         <note>ID: LanguageLookup.CannotFindMyLanguage.LanguageLookup.CannotFindMyLanguageExplanation2</note>
-        <target xml:lang="tr" state="needs-translation">This list should include all the ISO-639 languages, including all the alternative names known to ethnologue.com.\n\nIf necessary, use the "Unlisted Language" option, which will be selected for you now.</target>
+        <target xml:lang="tr" state="translated">Bu liste tüm ISO-639 dillerini içermeli, ethnologue.com tarafından bilinen tüm alternatif isimler dahil.\n\nEğer gerekirse, bundan sonra sizin için seçilecek "Listelenmemiş Diller" seçeneğini kullanın.</target>
       </trans-unit>
       <trans-unit id="LanguageLookup.CannotFindMyLanguage.LinkToEthnologue">
         <source xml:lang="en">Ethnologue.com</source>
         <note>ID: LanguageLookup.CannotFindMyLanguage.LinkToEthnologue</note>
         <note>It's ok to change what this shows; the underlying destination will remain ethnologue.com</note>
-        <target xml:lang="tr" state="needs-translation">Ethnologue.com</target>
+        <target xml:lang="tr" state="translated">Ethnologue.com</target>
       </trans-unit>
       <trans-unit id="LanguageLookup.CannotFindMyLanguage.LinkToSILInformationAboutLanguageCodes">
         <source xml:lang="en">About Language 639-3 Codes &amp; How To Apply For New Ones</source>
         <note>ID: LanguageLookup.CannotFindMyLanguage.LinkToSILInformationAboutLanguageCodes</note>
-        <target xml:lang="tr" state="needs-translation">About Language 639-3 Codes &amp; How To Apply For New Ones</target>
+        <target xml:lang="tr" state="translated">Dil 639-3 Kodları Hakkında &amp; Yeniler İçin Nasıl Uygulanır</target>
       </trans-unit>
       <trans-unit id="LanguageLookup.CannotFindMyLanguageWindowTitle">
         <source xml:lang="en">About The ISO Language Registry</source>
         <note>ID: LanguageLookup.CannotFindMyLanguageWindowTitle</note>
-        <target xml:lang="tr" state="needs-translation">About The ISO Language Registry</target>
+        <target xml:lang="tr" state="translated">ISO Dil Kaydı Hakkında</target>
       </trans-unit>
       <trans-unit id="LanguageLookup.CodeHeader">
         <source xml:lang="en">Code</source>
@@ -331,7 +331,7 @@
       <trans-unit id="LanguageLookup.DesiredLanguageDisplayNameLabel">
         <source xml:lang="en">You can change how the language name will be displayed here:</source>
         <note>ID: LanguageLookup.DesiredLanguageDisplayNameLabel</note>
-        <target xml:lang="tr" state="needs-translation">You can change how the language name will be displayed here:</target>
+        <target xml:lang="tr" state="translated">Dil isminin burada nasıl görüneceğini değiştirebilirsiniz:</target>
       </trans-unit>
       <trans-unit id="LanguageLookup.LanguageLookupDialogWindowTitle">
         <source xml:lang="en">Lookup Language Code...</source>
