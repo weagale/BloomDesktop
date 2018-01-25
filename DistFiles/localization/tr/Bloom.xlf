@@ -1103,18 +1103,18 @@
         <source xml:lang="en">Insert a new page which is a duplicate of this one</source>
         <note>ID: EditTab.DuplicatePageButton.ToolTip</note>
         <note>Button that tells Bloom to duplicate the currently selected page.</note>
-        <target xml:lang="tr" state="needs-translation">Insert a new page which is a duplicate of this one</target>
+        <target xml:lang="tr" state="translated">Bu sayfanın kopyası olan bir sayfa yerleştirin</target>
       </trans-unit>
       <trans-unit id="EditTab.DuplicatePageButton.ToolTipWhenDisabled" sil:dynamic="true">
         <source xml:lang="en">This page cannot be duplicated</source>
         <note>ID: EditTab.DuplicatePageButton.ToolTipWhenDisabled</note>
         <note>Button that tells Bloom to duplicate the currently selected page.</note>
-        <target xml:lang="tr" state="needs-translation">This page cannot be duplicated</target>
+        <target xml:lang="tr" state="translated">Bu sayfa çoğaltılamaz</target>
       </trans-unit>
       <trans-unit id="EditTab.Edit">
         <source xml:lang="en">Edit</source>
         <note>ID: EditTab.Edit</note>
-        <target xml:lang="tr" state="needs-translation">Edit</target>
+        <target xml:lang="tr" state="translated">Düzenle</target>
       </trans-unit>
       <trans-unit id="EditTab.EditNotAllowed" sil:dynamic="true">
         <source xml:lang="en">You cannot change these because this is not the original copy.</source>
@@ -1129,12 +1129,12 @@
       <trans-unit id="EditTab.EditTab.Toolbox.DecodableReaderTool.WordNotDecodable" sil:dynamic="true">
         <source xml:lang="en">This word is not decodable in this stage.</source>
         <note>ID: EditTab.EditTab.Toolbox.DecodableReaderTool.WordNotDecodable</note>
-        <target xml:lang="tr" state="needs-translation">This word is not decodable in this stage.</target>
+        <target xml:lang="tr" state="translated">Bu kelime bu aşamada çözümlenebilir değil.</target>
       </trans-unit>
       <trans-unit id="EditTab.EditTab.Toolbox.LeveledReaderTool.SentenceTooLong" sil:dynamic="true">
         <source xml:lang="en">This sentence is too long for this level.</source>
         <note>ID: EditTab.EditTab.Toolbox.LeveledReaderTool.SentenceTooLong</note>
-        <target xml:lang="tr" state="needs-translation">This sentence is too long for this level.</target>
+        <target xml:lang="tr" state="translated">Bu kelime bu seviye için çok uzun.</target>
       </trans-unit>
       <trans-unit id="EditTab.ExperimentalNotice" sil:dynamic="true">
         <source xml:lang="en">This page is an experimental prototype which may have many problems, for which we apologize.</source>
@@ -1149,7 +1149,7 @@
       <trans-unit id="EditTab.FormatDialog.Alignment" sil:dynamic="true">
         <source xml:lang="en">Alignment</source>
         <note>ID: EditTab.FormatDialog.Alignment</note>
-        <target xml:lang="tr" state="needs-translation">Alignment</target>
+        <target xml:lang="tr" state="translated">Hizalama</target>
       </trans-unit>
       <trans-unit id="EditTab.FormatDialog.AlreadyExists" sil:dynamic="true">
         <source xml:lang="en">That style already exists. Please choose another name.</source>
@@ -1184,7 +1184,7 @@
       <trans-unit id="EditTab.FormatDialog.Emphasis" sil:dynamic="true">
         <source xml:lang="en">Emphasis</source>
         <note>ID: EditTab.FormatDialog.Emphasis</note>
-        <target xml:lang="tr" state="needs-translation">Emphasis</target>
+        <target xml:lang="tr" state="translated">Vurgulama</target>
       </trans-unit>
       <trans-unit id="EditTab.FormatDialog.Font" sil:dynamic="true">
         <source xml:lang="en">Font</source>
@@ -1199,7 +1199,7 @@
       <trans-unit id="EditTab.FormatDialog.FontSizeTip" sil:dynamic="true">
         <source xml:lang="en">Changes the text size for all boxes carrying the style '{0}' and language '{1}'.\nCurrent size is {2}pt.</source>
         <note>ID: EditTab.FormatDialog.FontSizeTip</note>
-        <target xml:lang="tr" state="needs-translation">Changes the text size for all boxes carrying the style '{0}' and language '{1}'.\nCurrent size is {2}pt.</target>
+        <target xml:lang="tr" state="translated">'{0}' stilini ve '{1}' dilini taşıyan bütün kutuların boyutlarını değiştirir. \nŞu anki boyut {2}pt.</target>
       </trans-unit>
       <trans-unit id="EditTab.FormatDialog.FontSizeToolTip" sil:dynamic="true">
         <source xml:lang="en">Change the font size</source>
@@ -1214,12 +1214,12 @@
       <trans-unit id="EditTab.FormatDialog.Indent" sil:dynamic="true">
         <source xml:lang="en">Indent</source>
         <note>ID: EditTab.FormatDialog.Indent</note>
-        <target xml:lang="tr" state="needs-translation">Indent</target>
+        <target xml:lang="tr" state="translated">Girintileme</target>
       </trans-unit>
       <trans-unit id="EditTab.FormatDialog.LineSpacingToolTip" sil:dynamic="true">
         <source xml:lang="en">Change the spacing between lines of text</source>
         <note>ID: EditTab.FormatDialog.LineSpacingToolTip</note>
-        <target xml:lang="tr" state="needs-translation">Change the spacing between lines of text</target>
+        <target xml:lang="tr" state="translated">Metin satırları arasındaki boşluğu değiştir</target>
       </trans-unit>
       <trans-unit id="EditTab.FormatDialog.NewStyle" sil:dynamic="true">
         <source xml:lang="en">New style</source>
@@ -1229,7 +1229,7 @@
       <trans-unit id="EditTab.FormatDialog.ParagraphSpacing" sil:dynamic="true">
         <source xml:lang="en">Space Between Paragraphs</source>
         <note>ID: EditTab.FormatDialog.ParagraphSpacing</note>
-        <target xml:lang="tr" state="needs-translation">Space Between Paragraphs</target>
+        <target xml:lang="tr" state="translated">Paragraflar Arasındaki Mesafe</target>
       </trans-unit>
       <trans-unit id="EditTab.FormatDialog.ParagraphTab" sil:dynamic="true">
         <source xml:lang="en">Paragraph</source>
@@ -1295,12 +1295,12 @@
         <source xml:lang="en">Book title in {lang}</source>
         <note>ID: EditTab.FrontMatter.BookTitlePrompt</note>
         <note>Put {lang} in your translation, so it can be replaced by the language name.</note>
-        <target xml:lang="tr" state="needs-translation">Book title in {lang}</target>
+        <target xml:lang="tr" state="translated">Kitabın {lang} dilindeki başlığı</target>
       </trans-unit>
       <trans-unit id="EditTab.FrontMatter.CopyrightPrompt" sil:dynamic="true">
         <source xml:lang="en">Click to Edit Copyright &amp; License</source>
         <note>ID: EditTab.FrontMatter.CopyrightPrompt</note>
-        <target xml:lang="tr" state="needs-translation">Click to Edit Copyright &amp; License</target>
+        <target xml:lang="tr" state="translated">Telif hakkı &amp; Lisansı Düzenlemek için Tıkla</target>
       </trans-unit>
       <trans-unit id="EditTab.FrontMatter.CreditTranslator" sil:dynamic="true">
         <source xml:lang="en">Name of the translator, in {lang}</source>
@@ -1311,12 +1311,12 @@
       <trans-unit id="EditTab.FrontMatter.FundingAgenciesPrompt" sil:dynamic="true">
         <source xml:lang="en">Use this to acknowledge any funding agencies.</source>
         <note>ID: EditTab.FrontMatter.FundingAgenciesPrompt</note>
-        <target xml:lang="tr" state="needs-translation">Use this to acknowledge any funding agencies.</target>
+        <target xml:lang="tr" state="translated">Herhangi bir finansman kuruluşunu kabul etmek için bunu kullanın.</target>
       </trans-unit>
       <trans-unit id="EditTab.FrontMatter.ISBNPrompt" sil:dynamic="true">
         <source xml:lang="en">International Standard Book Number. Leave blank if you don't have one of these.</source>
         <note>ID: EditTab.FrontMatter.ISBNPrompt</note>
-        <target xml:lang="tr" state="needs-translation">International Standard Book Number. Leave blank if you don't have one of these.</target>
+        <target xml:lang="tr" state="translated">Uluslararası Standart Kitap Numarası. Bunlardan birine sahip değilseniz boş bırakın.</target>
       </trans-unit>
       <trans-unit id="EditTab.FrontMatter.InsideFrontCoverTextPrompt" sil:dynamic="true">
         <source xml:lang="en">If you need somewhere to put more information about the book, you can use this page, which is the inside of the front cover.</source>
@@ -1327,7 +1327,7 @@
         <source xml:lang="en">, </source>
         <note>ID: EditTab.FrontMatter.ListSeparator</note>
         <note>This is used to separate items in a list, such as 'Province, District, Country' on the Title Page. For English, that means comma followed by a space. Don't forget the space if your script uses them.</note>
-        <target xml:lang="tr" state="needs-translation">, </target>
+        <target xml:lang="tr" state="translated">, </target>
       </trans-unit>
       <trans-unit id="EditTab.FrontMatter.MarkTheBookEnd" sil:dynamic="true">
         <source xml:lang="en">Something to tell the reader/viewer that this is the end of the book.</source>
@@ -1337,7 +1337,7 @@
       <trans-unit id="EditTab.FrontMatter.MarkTheVideoEnd" sil:dynamic="true">
         <source xml:lang="en">Something to tell the reader/viewer that this is the end.</source>
         <note>ID: EditTab.FrontMatter.MarkTheVideoEnd</note>
-        <target xml:lang="tr" state="needs-translation">Something to tell the reader/viewer that this is the end.</target>
+        <target xml:lang="tr" state="translated">Okuyana/İzleyene bunun son olduğunu söyleyecek bir şey.</target>
       </trans-unit>
       <trans-unit id="EditTab.FrontMatter.MultipleImageCredit">
         <source xml:lang="en">Images on pages {0} by {1}.</source>
@@ -1350,7 +1350,7 @@
       <trans-unit id="EditTab.FrontMatter.NameofTranslatorPrompt" sil:dynamic="true">
         <source xml:lang="en">Name of Translator, in {lang}</source>
         <note>ID: EditTab.FrontMatter.NameofTranslatorPrompt</note>
-        <target xml:lang="tr" state="needs-translation">Name of Translator, in {lang}</target>
+        <target xml:lang="tr" state="translated">Çevirmenin Adı, {lang} dilindeki</target>
       </trans-unit>
       <trans-unit id="EditTab.FrontMatter.OriginalAcknowledgmentsPrompt" sil:dynamic="true">
         <source xml:lang="en">Original (or Shell) Acknowledgments in {lang}</source>
@@ -1366,7 +1366,7 @@
         <source xml:lang="en">Adapted from original, {0}.</source>
         <note>ID: EditTab.FrontMatter.OriginalCopyrightSentence</note>
         <note>On the Credits page of a book being translated, Bloom shows the original copyright. Put {0} in the translation where the copyright notice should go. For example in English, 'Adapted from original, {0}.' comes out like 'Adapted from original, Copyright 2011 SIL'.</note>
-        <target xml:lang="tr" state="needs-translation">Adapted from original, {0}.</target>
+        <target xml:lang="tr" state="translated">Orijinalinden uyarlanan, {0}.</target>
       </trans-unit>
       <trans-unit id="EditTab.FrontMatter.OriginalHadNoCopyrightSentence">
         <source xml:lang="en">Adapted from original without a copyright notice.</source>
@@ -1616,7 +1616,7 @@
         <source xml:lang="en">Include the name of the language using {lang}. For example: "Enter color in {lang}".</source>
         <note>ID: EditTab.TextBoxProperties.IncludeLang</note>
         <note>Becomes visible when "Show on each" option is chosen in combo. Do NOT translate {lang}.</note>
-        <target xml:lang="tr" state="needs-translation">Include the name of the language using {lang}. For example: "Enter color in {lang}".</target>
+        <target xml:lang="tr" state="translated">{lang} kullanarak dilin ismini dahil edin. Örnek olarak: "{lang} içine renk girin".</target>
       </trans-unit>
       <trans-unit id="EditTab.TextBoxProperties.LanguageTab" sil:dynamic="true">
         <source xml:lang="en">Language</source>
