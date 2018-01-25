@@ -1652,18 +1652,18 @@
       <trans-unit id="EditTab.TextBoxProperties.BordersAndBackground" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Borders &amp; Background</source>
         <note>ID: EditTab.TextBoxProperties.BordersAndBackground</note>
-        <target xml:lang="pbu">څنډې او amp&amp;; شالید</target>
+        <target xml:lang="pbu">څنډې او &amp; شالید</target>
         <alt-trans>
-          <target xml:lang="pbu">څنډې او &amp; شالید</target>
+          <target xml:lang="pbu">څنډې او amp&amp;; شالید</target>
+        </alt-trans>
+        <alt-trans>
+          <target xml:lang="pbu">څنډې او amp; بګرونډ</target>
         </alt-trans>
         <alt-trans>
           <target xml:lang="pbu">څنډې او amp&amp;; شالید</target>
         </alt-trans>
         <alt-trans>
           <target xml:lang="pbu">څنډې او amp; شالید</target>
-        </alt-trans>
-        <alt-trans>
-          <target xml:lang="pbu">څنډې او amp; بګرونډ</target>
         </alt-trans>
       </trans-unit>
       <trans-unit id="EditTab.TextBoxProperties.HintBubbles" sil:dynamic="true" approved="yes">
