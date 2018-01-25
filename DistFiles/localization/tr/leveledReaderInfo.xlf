@@ -9,7 +9,7 @@
       </trans-unit>
       <trans-unit id="leveled.reader.start.simple">
         <source xml:lang="en">At beginning levels, use simple words that are familiar to children. If it is possible in your language, use words with only one syllable. As children move up to higher levels, you can begin to use words with more syllables. You can begin to use less familiar words. Children should be able to guess the meaning of these less familiar words from the context of the surrounding words and sentences, as well as from the illustrations.</source>
-        <target xml:lang="tr" state="needs-translation">At beginning levels, use simple words that are familiar to children. If it is possible in your language, use words with only one syllable. As children move up to higher levels, you can begin to use words with more syllables. You can begin to use less familiar words. Children should be able to guess the meaning of these less familiar words from the context of the surrounding words and sentences, as well as from the illustrations.</target>
+        <target xml:lang="tr" state="translated">Başlangıç seviyesinde, çocuklar için tanıdık basit kelimeler kullanın. Eğer diliniz için mümkünse, tek heceli kelimeleri kullanın. Çocuklar üst seviyelere ilerledikçe, sizde daha fazla heceli kelimeler kullanmaya başlayabilirsiniz. Daha az tanıdık kelimeler kullanabilirsiniz. Çocuklar bilmedikleri kelimelerin anlamlarını onları çevreleyen kelime ve cümlelerin içeriğinden hemde çizimlerden tahmin edebilmeliler.</target>
         <note>ID: leveled.reader.start.simple</note>
       </trans-unit>
       <trans-unit id="leveled.reader.formatting">
@@ -19,12 +19,12 @@
       </trans-unit>
       <trans-unit id="leveled.reader.start.large">
         <source xml:lang="en">Beginner readers will benefit from a larger font with clear spacing between words. Having the words or sentences in the same location on each page is also helpful. As readers progress to higher levels, font size and spacing will decrease and sentences can appear in different locations on the page.</source>
-        <target xml:lang="tr" state="needs-translation">Beginner readers will benefit from a larger font with clear spacing between words. Having the words or sentences in the same location on each page is also helpful. As readers progress to higher levels, font size and spacing will decrease and sentences can appear in different locations on the page.</target>
+        <target xml:lang="tr" state="translated">Başlangıç okuyucuları kelimeler arası anlaşılır açıklıklar olan büyük yazı tiplerinden yararlanırlar. Her sayfada aynı yerde kelimelere ya da cümlelere sahip olmak da aynı zamanda yardımcıdır. Okuyucular sonraki seviyelere ilerledikçe yazı tipi boyutu ve aralıklar küçülecektir ve kelimeler sayfada değişik yerlerde olabilirler.</target>
         <note>ID: leveled.reader.start.large</note>
       </trans-unit>
       <trans-unit id="leveled.reader.increase.sizes">
         <source xml:lang="en">To increase the font size, line-spacing, and word-spacing in Bloom, click in a text box and then on the grey "cog" icon in the lower left-hand corner. If you do this and then make a template book, books made with that template will also use those font settings.</source>
-        <target xml:lang="tr" state="needs-translation">To increase the font size, line-spacing, and word-spacing in Bloom, click in a text box and then on the grey "cog" icon in the lower left-hand corner. If you do this and then make a template book, books made with that template will also use those font settings.</target>
+        <target xml:lang="tr" state="translated">Bloom içerisinde yazı tipi boyutunu, satır aralığını ve kelime aralığını büyütmek için metin kutusuna daha sonra sol alt köşedeki gri "dişli" simgesine tıklayın. eğer bunu yapar ve şablon bir kitap oluşturursanız, o şablonu kullanarak oluşturulan kitaplarda bu yazı tipi seçeneklerini kullanacaklardır.</target>
         <note>ID: leveled.reader.increase.sizes</note>
       </trans-unit>
       <trans-unit id="leveled.reader.predictability">
@@ -114,7 +114,7 @@ Yellow Duck, Yellow Duck, What do you see?</g>
       </trans-unit>
       <trans-unit id="leveled.reader.topic.choice">
         <source xml:lang="en">Choice of Topic</source>
-        <target xml:lang="tr" state="needs-translation">Choice of Topic</target>
+        <target xml:lang="tr" state="translated">Konu Seçimi</target>
         <note>ID: leveled.reader.topic.choice</note>
       </trans-unit>
       <trans-unit id="leveled.reader.topic.choice.discussion">
