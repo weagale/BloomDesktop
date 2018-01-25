@@ -361,12 +361,12 @@
       <trans-unit id="MemoryWarning">
         <source xml:lang="en">Unfortunately, {0} is starting to get short of memory, and may soon slow down or experience other problems. We recommend that you quit and restart it when convenient.</source>
         <note>ID: MemoryWarning</note>
-        <target xml:lang="tr" state="needs-translation">Unfortunately, {0} is starting to get short of memory, and may soon slow down or experience other problems. We recommend that you quit and restart it when convenient.</target>
+        <target xml:lang="tr" state="translated">Maalesef, {0}'ın hafızası azalmaya başladı ve yavaşlayabilir yada başka problemler yaşayabilir. Uygun olduğunda çıkıp yeniden başlatmanızı öneririz.</target>
       </trans-unit>
       <trans-unit id="MetadataDisplay.Creator">
         <source xml:lang="en">Creator: {0}</source>
         <note>ID: MetadataDisplay.Creator</note>
-        <target xml:lang="tr" state="needs-translation">Creator: {0}</target>
+        <target xml:lang="tr" state="translated">Yaratıcı: {0}</target>
       </trans-unit>
       <trans-unit id="MetadataDisplay.CreatorLabel">
         <source xml:lang="en">Creator</source>
@@ -376,13 +376,13 @@
       <trans-unit id="MetadataDisplay.LicenseInfo">
         <source xml:lang="en">License Info</source>
         <note>ID: MetadataDisplay.LicenseInfo</note>
-        <target xml:lang="tr" state="needs-translation">License Info</target>
+        <target xml:lang="tr" state="translated">Lisans Bilgisi</target>
       </trans-unit>
       <trans-unit id="MetadataDisplay.Licenses.CreativeCommons.AttributionRequired" sil:dynamic="true">
         <source xml:lang="en">You must keep the copyright and credits for authors, illustrators, etc.</source>
         <note>ID: MetadataDisplay.Licenses.CreativeCommons.AttributionRequired</note>
         <note>See http://creativecommons.org/ to find out how this is normally translated in your language. What we're aiming for here is an easy to understand summary.</note>
-        <target xml:lang="tr" state="needs-translation">You must keep the copyright and credits for authors, illustrators, etc.</target>
+        <target xml:lang="tr" state="translated">Yazarlar, çizerler vb. için telif hakkını ve jeneriği tutmak zorundasınız.</target>
       </trans-unit>
       <trans-unit id="MetadataDisplay.Licenses.CreativeCommons.CommercialUseAllowed" sil:dynamic="true">
         <source xml:lang="en">You are free to make commercial use of this work.</source>
@@ -406,7 +406,7 @@
         <source xml:lang="en">You may not make changes or build upon this work without permission.</source>
         <note>ID: MetadataDisplay.Licenses.CreativeCommons.NoDerivatives</note>
         <note>See http://creativecommons.org/ to find out how this is normally translated in your language. What we're aiming for here is an easy to understand summary.</note>
-        <target xml:lang="tr" state="needs-translation">You may not make changes or build upon this work without permission.</target>
+        <target xml:lang="tr" state="translated">İzin olmaksızın bu çalışma üzerinde katkı ya da değişiklik yapamazsınız.</target>
       </trans-unit>
       <trans-unit id="MetadataDisplay.Licenses.CreativeCommons.NonCommercial" sil:dynamic="true">
         <source xml:lang="en">You may not use this work for commercial purposes.</source>
@@ -439,7 +439,7 @@
       <trans-unit id="MetadataEditor.AllowDerivatives">
         <source xml:lang="en">Allow modifications of your work?</source>
         <note>ID: MetadataEditor.AllowDerivatives</note>
-        <target xml:lang="tr" state="needs-translation">Allow modifications of your work?</target>
+        <target xml:lang="tr" state="translated">Çalışmanızda değişikliklere izin verilsin mi?</target>
       </trans-unit>
       <trans-unit id="MetadataEditor.CopyrightHolder">
         <source xml:lang="en">Copyright Holder</source>
@@ -484,7 +484,7 @@
       <trans-unit id="MetadataEditor.TitleWithCredit">
         <source xml:lang="en">Credit, Copyright, and License</source>
         <note>ID: MetadataEditor.TitleWithCredit</note>
-        <target xml:lang="tr" state="needs-translation">Credit, Copyright, and License</target>
+        <target xml:lang="tr" state="translated">Jenerik, Telif Hakkı ve Lisans</target>
       </trans-unit>
       <trans-unit id="MetadataEditor.UnknownLicense">
         <source xml:lang="en">Contact the copyright holder for any permissions</source>
@@ -512,7 +512,7 @@
         <source xml:lang="en">Not Enforceable</source>
         <note>ID: MetadataEditor.linkToWarningAboutRefiningCreativeCommons</note>
         <note>While this screen allows it, legally you can't enforce any additions to a creative commons license. This link takes you to the clause that says that. This link is visible only if you choose Creative Commons but then type in  the "Additional Request" box.</note>
-        <target xml:lang="tr" state="needs-translation">Not Enforceable</target>
+        <target xml:lang="tr" state="translated">Uygulanabilir Değil</target>
       </trans-unit>
       <trans-unit id="SettingsProtection.AlsoHideOthersNotice">
         <source xml:lang="en">This may also hide other buttons which are not needed by the non-advanced user.</source>
@@ -528,7 +528,7 @@
         <source xml:lang="en">Settings Protection...</source>
         <note>ID: SettingsProtection.LauncherButtonLabel</note>
         <note xml:lang="en">OLD TEXT (before 4.0): Settings...</note>
-        <target xml:lang="tr" state="needs-translation">Settings Protection...</target>
+        <target xml:lang="tr" state="translated">Ayarlar Koruması...</target>
       </trans-unit>
       <trans-unit id="SettingsProtection.NormallyHiddenCheckbox">
         <source xml:lang="en">Hide the button that opens settings.</source>
@@ -538,17 +538,17 @@
       <trans-unit id="SettingsProtection.PasswordDialog.FactoryPassword">
         <source xml:lang="en">Factory Password</source>
         <note>ID: SettingsProtection.PasswordDialog.FactoryPassword</note>
-        <target xml:lang="tr" state="needs-translation">Factory Password</target>
+        <target xml:lang="tr" state="translated">Fabrika Şifresi</target>
       </trans-unit>
       <trans-unit id="SettingsProtection.PasswordDialog.Password.Explanation">
         <source xml:lang="en">To prevent accidental changes which could cause this tool to stop working for you, these settings have been locked.</source>
         <note>ID: SettingsProtection.PasswordDialog.Password.Explanation</note>
-        <target xml:lang="tr" state="needs-translation">To prevent accidental changes which could cause this tool to stop working for you, these settings have been locked.</target>
+        <target xml:lang="tr" state="translated">Bu aracın sizin için çalışmamasına neden olabilecek kazayla yapılan değişiklikleri engellemek için bu ayarlar kilitlenmiştir.</target>
       </trans-unit>
       <trans-unit id="SettingsProtection.PasswordDialog.SettingsPasswordWindowTitle">
         <source xml:lang="en">Settings Protection Password</source>
         <note>ID: SettingsProtection.PasswordDialog.SettingsPasswordWindowTitle</note>
-        <target xml:lang="tr" state="needs-translation">Settings Protection Password</target>
+        <target xml:lang="tr" state="translated">Ayarlar Koruma Şifresi</target>
       </trans-unit>
       <trans-unit id="SettingsProtection.PasswordDialog.ShowCharactersCheckbox">
         <source xml:lang="en">Show Characters</source>
