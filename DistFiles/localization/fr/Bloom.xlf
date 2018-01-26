@@ -2824,7 +2824,7 @@
       <trans-unit id="PublishTab.Android.Wifi.Progress.Stopped" sil:dynamic="true">
         <source xml:lang="en">Stopped Advertising.</source>
         <note>ID: PublishTab.Android.Wifi.Progress.Stopped</note>
-        <target xml:lang="fr" state="needs-translation">Stopped Advertising.</target>
+        <target xml:lang="fr" state="translated">Arrêté d'annoncer.</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Wifi.Progress.WifiInstructions1" sil:dynamic="true">
         <source xml:lang="en">On the Android, run Bloom Reader, open the menu and choose 'Receive Books over WiFi'.</source>
@@ -2845,13 +2845,13 @@
         <source xml:lang="en">Start Serving</source>
         <note>ID: PublishTab.Android.Wifi.Start</note>
         <note>Button that tells Bloom to begin offering this book on the wifi network.</note>
-        <target xml:lang="fr" state="needs-translation">Start Serving</target>
+        <target xml:lang="fr" state="translated">Démarrer le partage</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Wifi.Stop" sil:dynamic="true">
         <source xml:lang="en">Stop Serving</source>
         <note>ID: PublishTab.Android.Wifi.Stop</note>
         <note>Button that tells Bloom to stop offering this book on the wifi network.</note>
-        <target xml:lang="fr" state="needs-translation">Stop Serving</target>
+        <target xml:lang="fr" state="translated">Arrête d'partage</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.WrongLayout.Message">
         <source xml:lang="en">The layout of this book is currently "{0}". Bloom Reader will display it using "{1}", so text might not fit. To see if anything needs adjusting, go back to the Edit Tab and change the layout to "{1}".</source>
@@ -2863,7 +2863,7 @@
         <source xml:lang="en">Bloom Book for Devices</source>
         <note>ID: PublishTab.Android.bloomdFileFormatLabel</note>
         <note>This is shown in the 'Save' dialog when you save a bloom book in the format that works with the Bloom Reader Android App</note>
-        <target xml:lang="fr" state="needs-translation">Bloom Book for Devices</target>
+        <target xml:lang="fr" state="translated">Livre de Bloom pour les appareils</target>
       </trans-unit>
       <trans-unit id="PublishTab.AndroidButton">
         <source xml:lang="en">Android</source>
@@ -2926,13 +2926,13 @@
         <source xml:lang="en">InDesign XML Information</source>
         <note>ID: PublishTab.InDesignDialog.WindowTitle</note>
         <note>This is the title of a dialog about exporting a Bloom book to the InDesign XML format</note>
-        <target xml:lang="fr" state="needs-translation">InDesign XML Information</target>
+        <target xml:lang="fr" state="translated">Informations XML dans InDesign</target>
       </trans-unit>
       <trans-unit id="PublishTab.LessMemoryPdfMode">
         <source xml:lang="en">Use less memory (slower)</source>
         <note>ID: PublishTab.LessMemoryPdfMode</note>
         <note>The parenthesized word indicates the negative effect of using this option. This text is for a menu item.</note>
-        <target xml:lang="fr" state="needs-translation">Use less memory (slower)</target>
+        <target xml:lang="fr" state="translated">Utilisez moins de mémoire ‎(plus lent‎)</target>
       </trans-unit>
       <trans-unit id="PublishTab.Notifications.AdobeReaderRecommendation" approved="yes">
         <source xml:lang="en">This PDF viewer can be improved by installing the free Adobe Reader on this computer.</source>
@@ -2959,7 +2959,7 @@
         <source xml:lang="en">Options</source>
         <note>ID: PublishTab.Options</note>
         <note>menu header in the Publish tab</note>
-        <target xml:lang="fr" state="needs-translation">Options</target>
+        <target xml:lang="fr" state="translated">Options</target>
       </trans-unit>
       <trans-unit id="PublishTab.OptionsMenu.SizeLayout">
         <source xml:lang="en">Size/Layout</source>
