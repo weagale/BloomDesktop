@@ -9,7 +9,7 @@
       </trans-unit>
       <trans-unit id="android.publish.wifi">
         <source xml:lang="en">Serve on WiFi Network</source>
-        <target xml:lang="fr" state="needs-translation">Serve on WiFi Network</target>
+        <target xml:lang="fr" state="translated">Servir sur réseau WiFi</target>
         <note>ID: android.publish.wifi</note>
       </trans-unit>
       <trans-unit id="android.publish.wifi.unseen">
