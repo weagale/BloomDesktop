@@ -1321,17 +1321,20 @@
         <source xml:lang="en">, </source>
         <note>ID: EditTab.FrontMatter.ListSeparator</note>
         <note>This is used to separate items in a list, such as 'Province, District, Country' on the Title Page. For English, that means comma followed by a space. Don't forget the space if your script uses them.</note>
-        <target xml:lang="fr" state="needs-translation">, </target>
+        <target xml:lang="fr" state="translated">, </target>
       </trans-unit>
       <trans-unit id="EditTab.FrontMatter.MarkTheBookEnd" sil:dynamic="true">
         <source xml:lang="en">Something to tell the reader/viewer that this is the end of the book.</source>
         <note>ID: EditTab.FrontMatter.MarkTheBookEnd</note>
-        <target xml:lang="fr" state="needs-translation">Something to tell the reader/viewer that this is the end of the book.</target>
+        <target xml:lang="fr" state="translated">Quelque chose à indiquer au lecteur/observateur que c'est la fin du livre.</target>
+        <alt-trans>
+          <target xml:lang="fr">Quelque chose à indiquer au lecteur / observateur que c'est la fin du livre.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="EditTab.FrontMatter.MarkTheVideoEnd" sil:dynamic="true">
         <source xml:lang="en">Something to tell the reader/viewer that this is the end.</source>
         <note>ID: EditTab.FrontMatter.MarkTheVideoEnd</note>
-        <target xml:lang="fr" state="needs-translation">Something to tell the reader/viewer that this is the end.</target>
+        <target xml:lang="fr" state="translated">Quelque chose à indiquer au lecteur/observateur que c'est la fin.</target>
       </trans-unit>
       <trans-unit id="EditTab.FrontMatter.MultipleImageCredit">
         <source xml:lang="en">Images on pages {0} by {1}.</source>
@@ -1387,7 +1390,7 @@
       <trans-unit id="EditTab.FrontMatter.SimpleLineDrawings" sil:dynamic="true">
         <source xml:lang="en">Simple line drawings look best. Instead of using this page, you can also make your own thumbnail.png file and set it to Read-only so Bloom doesn't write over it.</source>
         <note>ID: EditTab.FrontMatter.SimpleLineDrawings</note>
-        <target xml:lang="fr" state="needs-translation">Simple line drawings look best. Instead of using this page, you can also make your own thumbnail.png file and set it to Read-only so Bloom doesn't write over it.</target>
+        <target xml:lang="fr" state="translated">Les dessins au trait simples semblent mieux. Au lieu d'utiliser cette page, vous pouvez créer votre propre vignette.png (vignette) et cocher l'option Lecture seule afin que Bloom n'écrive pas sur la vignette.</target>
       </trans-unit>
       <trans-unit id="EditTab.FrontMatter.SingleImageCredit">
         <source xml:lang="en">Image on page {0} by {1}.</source>
