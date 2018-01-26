@@ -3629,7 +3629,7 @@ Do you want to go ahead?</note>
       <trans-unit id="ReaderSetup.SearchEngine" sil:dynamic="true">
         <source xml:lang="en">, the Search Engine for Literacy.</source>
         <note>ID: ReaderSetup.SearchEngine</note>
-        <target xml:lang="tr" state="needs-translation">, the Search Engine for Literacy.</target>
+        <target xml:lang="tr" state="translated">, okuma-yazma arama motoru.</target>
       </trans-unit>
       <trans-unit id="ReaderSetup.SelectedLetters" sil:dynamic="true">
         <source xml:lang="en">Previous and New Letters</source>
@@ -3664,7 +3664,7 @@ Do you want to go ahead?</note>
       <trans-unit id="ReaderSetup.SetUpLeveledReaderTool" sil:dynamic="true">
         <source xml:lang="en">Set up Leveled Reader Tool</source>
         <note>ID: ReaderSetup.SetUpLeveledReaderTool</note>
-        <target xml:lang="tr" state="needs-translation">Set up Leveled Reader Tool</target>
+        <target xml:lang="tr" state="translated">Düzleştirilmiş okuma kitabı aracı ayarla</target>
       </trans-unit>
       <trans-unit id="ReaderSetup.SetupAlphabet" sil:dynamic="true">
         <source xml:lang="en">set up the alphabet for this language.</source>
@@ -3699,7 +3699,7 @@ Do you want to go ahead?</note>
       <trans-unit id="ReaderSetup.Synphony" sil:dynamic="true">
         <source xml:lang="en">SynPhony</source>
         <note>ID: ReaderSetup.Synphony</note>
-        <target xml:lang="tr" state="needs-translation">SynPhony</target>
+        <target xml:lang="tr" state="translated">SynPhony</target>
       </trans-unit>
       <trans-unit id="ReaderSetup.ToRemember" sil:dynamic="true">
         <source xml:lang="en">Things to remember for this level:</source>
@@ -3715,7 +3715,7 @@ Do you want to go ahead?</note>
         <source xml:lang="en">To help you make decodable readers, Bloom can suggest words that fit within the current stage.  There are two ways to give words to Bloom:</source>
         <note>ID: ReaderSetup.Words.Intro</note>
         <note xml:lang="en">OLD TEXT (before 3.9, added space): To help you make decodable readers, Bloom can suggest words that fit within the current stage. There are two ways to give words to Bloom:</note>
-        <target xml:lang="tr" state="needs-translation">To help you make decodable readers, Bloom can suggest words that fit within the current stage.  There are two ways to give words to Bloom:</target>
+        <target xml:lang="tr" state="translated">Çözülebilir okuma kitaplar oluşturmanıza yardımcı olmak için, Bloom mevcut aşamada uygun olan kelimeler önerebilir.  Kelimeleri Bloom'a vermek için birkaç yol vardır:</target>
       </trans-unit>
       <trans-unit id="ReaderSetup.Words.PlaceTextFiles" sil:dynamic="true">
         <source xml:lang="en">2) Place Text Files in Your</source>
