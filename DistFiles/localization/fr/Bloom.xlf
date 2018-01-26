@@ -2758,7 +2758,7 @@
         <source xml:lang="en">Replacing existing "{0}"...</source>
         <note>ID: PublishTab.Android.Usb.Progress.ReplacingBook</note>
         <note>{0} is a book title</note>
-        <target xml:lang="fr" state="needs-translation">Replacing existing "{0}"...</target>
+        <target xml:lang="fr" state="translated">Remplaçant l’actuel « {0} »...</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Usb.Progress.SendingBook" sil:dynamic="true">
         <source xml:lang="en">Sending "{0}" to your Android device...</source>
