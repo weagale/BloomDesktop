@@ -449,7 +449,7 @@
       <trans-unit id="MetadataEditor.CopyrightYear">
         <source xml:lang="en">Copyright Year</source>
         <note>ID: MetadataEditor.CopyrightYear</note>
-        <target xml:lang="fr" state="needs-translation">Copyright Year</target>
+        <target xml:lang="fr" state="translated">Année du droit dáuteur</target>
       </trans-unit>
       <trans-unit id="MetadataEditor.CreativeCommons" approved="yes">
         <source xml:lang="en">Creative Commons</source>
