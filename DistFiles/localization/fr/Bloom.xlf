@@ -2165,7 +2165,7 @@
         <source xml:lang="en">Ask a Question</source>
         <note>ID: HelpMenu.AskAQuestionMenuItem</note>
         <note xml:lang="en">OLD TEXT (before 3.9): Ask a Question (web)</note>
-        <target xml:lang="fr" state="needs-translation">Ask a Question</target>
+        <target xml:lang="fr" state="translated">Poser une question</target>
       </trans-unit>
       <trans-unit id="HelpMenu.BuildingReaderTemplatesMenuItem" approved="yes">
         <source xml:lang="en">Building Reader Templates</source>
@@ -2271,7 +2271,7 @@
       <trans-unit id="LayoutChoices.A3Landscape" sil:dynamic="true">
         <source xml:lang="en">A3Landscape</source>
         <note>ID: LayoutChoices.A3Landscape</note>
-        <target xml:lang="fr" state="needs-translation">A3Landscape</target>
+        <target xml:lang="fr" state="translated">A3Paysage</target>
       </trans-unit>
       <trans-unit id="LayoutChoices.A4Landscape" sil:dynamic="true" approved="yes">
         <source xml:lang="en">A4Landscape</source>
@@ -2291,7 +2291,7 @@
       <trans-unit id="LayoutChoices.A4Portrait" sil:dynamic="true">
         <source xml:lang="en">A4Portrait</source>
         <note>ID: LayoutChoices.A4Portrait</note>
-        <target xml:lang="fr" state="needs-translation">A4Portrait</target>
+        <target xml:lang="fr" state="translated">A4Portrait</target>
       </trans-unit>
       <trans-unit id="LayoutChoices.A5Landscape" sil:dynamic="true" approved="yes">
         <source xml:lang="en">A5Landscape</source>
@@ -2301,7 +2301,7 @@
       <trans-unit id="LayoutChoices.A5Portrait" sil:dynamic="true">
         <source xml:lang="en">A5Portrait</source>
         <note>ID: LayoutChoices.A5Portrait</note>
-        <target xml:lang="fr" state="needs-translation">A5Portrait</target>
+        <target xml:lang="fr" state="translated">A5Portrait</target>
       </trans-unit>
       <trans-unit id="LayoutChoices.A6Landscape" sil:dynamic="true" approved="yes">
         <source xml:lang="en">A6Landscape</source>
@@ -2311,22 +2311,22 @@
       <trans-unit id="LayoutChoices.A6Portrait" sil:dynamic="true">
         <source xml:lang="en">A6Portrait</source>
         <note>ID: LayoutChoices.A6Portrait</note>
-        <target xml:lang="fr" state="needs-translation">A6Portrait</target>
+        <target xml:lang="fr" state="translated">A6Portrait</target>
       </trans-unit>
       <trans-unit id="LayoutChoices.B5Portrait" sil:dynamic="true">
         <source xml:lang="en">B5Portrait</source>
         <note>ID: LayoutChoices.B5Portrait</note>
-        <target xml:lang="fr" state="needs-translation">B5Portrait</target>
+        <target xml:lang="fr" state="translated">B5Portrait</target>
       </trans-unit>
       <trans-unit id="LayoutChoices.Device16x9Landscape" sil:dynamic="true">
         <source xml:lang="en">Device16x9Landscape</source>
         <note>ID: LayoutChoices.Device16x9Landscape</note>
-        <target xml:lang="fr" state="needs-translation">Device16x9Landscape</target>
+        <target xml:lang="fr" state="translated">Appareil16x9Paysage</target>
       </trans-unit>
       <trans-unit id="LayoutChoices.Device16x9Portrait" sil:dynamic="true">
         <source xml:lang="en">Device16x9Portrait</source>
         <note>ID: LayoutChoices.Device16x9Portrait</note>
-        <target xml:lang="fr" state="needs-translation">Device16x9Portrait</target>
+        <target xml:lang="fr" state="translated">Appareil16x9Portrait</target>
       </trans-unit>
       <trans-unit id="LayoutChoices.HalfLetterPortrait" sil:dynamic="true" approved="yes">
         <source xml:lang="en">HalfLetterPortrait</source>
@@ -2351,7 +2351,7 @@
       <trans-unit id="LicenseDialog.WindowTitle">
         <source xml:lang="en">Bloom {0}</source>
         <note>ID: LicenseDialog.WindowTitle</note>
-        <target xml:lang="fr" state="needs-translation">Bloom {0}</target>
+        <target xml:lang="fr" state="translated">Bloom {0}</target>
       </trans-unit>
       <trans-unit id="LicenseDialog._acceptButton" approved="yes">
         <source xml:lang="en">I accept the terms of the license agreement</source>
@@ -2600,7 +2600,7 @@
       <trans-unit id="OpenCreateNewCollectionsDialog.UILanguageMenu_ToolTip_">
         <source xml:lang="en">Change user interface language</source>
         <note>ID: OpenCreateNewCollectionsDialog.UILanguageMenu_ToolTip_</note>
-        <target xml:lang="fr" state="needs-translation">Change user interface language</target>
+        <target xml:lang="fr" state="translated">Changer la langue de l'interface</target>
       </trans-unit>
       <trans-unit id="PageList.CantMoveWhenTranslating" approved="yes">
         <source xml:lang="en">Pages can not be re-ordered when you are translating a book.</source>
