@@ -85,7 +85,7 @@
       <trans-unit id="Common.NoButton">
         <source xml:lang="en">&amp;No</source>
         <note>ID: Common.NoButton</note>
-        <target xml:lang="fr" state="needs-translation">&amp;No</target>
+        <target xml:lang="fr" state="translated">&amp;Non</target>
       </trans-unit>
       <trans-unit id="Common.OKButton" approved="yes">
         <source xml:lang="en">&amp;OK</source>
@@ -95,7 +95,7 @@
       <trans-unit id="Common.RetryButton">
         <source xml:lang="en">&amp;Retry</source>
         <note>ID: Common.RetryButton</note>
-        <target xml:lang="fr" state="needs-translation">&amp;Retry</target>
+        <target xml:lang="fr" state="translated">&amp;Réessayer</target>
       </trans-unit>
       <trans-unit id="Common.Yes" approved="yes">
         <source xml:lang="en">Yes</source>
@@ -106,9 +106,6 @@
         <source xml:lang="en">&amp;Yes</source>
         <note>ID: Common.YesButton</note>
         <target xml:lang="fr" state="translated">&amp;Oui</target>
-        <alt-trans>
-          <target xml:lang="fr">&amp; Oui</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="DialogBoxes.ConfirmRecycleDialog.MessageForMultipleItems" approved="yes">
         <source xml:lang="en">{0} will be moved to the Recycle Bin.</source>
@@ -421,7 +418,7 @@
         <source xml:lang="en">You can copy, modify, and distribute this work, even for commercial purposes, all without asking permission.</source>
         <note>ID: MetadataDisplay.Licenses.CreativeCommons.PublicDomain</note>
         <note>See http://creativecommons.org/ to find out how this is normally translated in your language. What we're aiming for here is an easy to understand summary.</note>
-        <target xml:lang="fr" state="needs-translation">You can copy, modify, and distribute this work, even for commercial purposes, all without asking permission.</target>
+        <target xml:lang="fr" state="translated">Vous pouvez copier, modifier et distribuer ce travail, même à des fins commerciales, sans demander la permission.</target>
       </trans-unit>
       <trans-unit id="MetadataDisplay.Licenses.NullLicense" sil:dynamic="true" approved="yes">
         <source xml:lang="en">For permission to reuse, contact the copyright holder.</source>
@@ -477,7 +474,7 @@
       <trans-unit id="MetadataEditor.License">
         <source xml:lang="en">License</source>
         <note>ID: MetadataEditor.License</note>
-        <target xml:lang="fr" state="needs-translation">License</target>
+        <target xml:lang="fr" state="translated">Licence</target>
       </trans-unit>
       <trans-unit id="MetadataEditor.TitleNoCredit" approved="yes">
         <source xml:lang="en">Copyright and License</source>
@@ -646,7 +643,7 @@
       <trans-unit id="WSKeyboardControl.SetupKeyboards">
         <source xml:lang="en">Set up keyboards</source>
         <note>ID: WSKeyboardControl.SetupKeyboards</note>
-        <target xml:lang="fr" state="needs-translation">Set up keyboards</target>
+        <target xml:lang="fr" state="translated">Configurer les claviers</target>
       </trans-unit>
       <trans-unit id="WSKeyboardControl.TestAreaCaption" approved="yes">
         <source xml:lang="en">&amp;Test Area (Use this area to type something to test out your keyboard.)</source>
@@ -671,7 +668,7 @@
       <trans-unit id="XkbKeyboardAdaptor.MissingKeyboard">
         <source xml:lang="en">[Missing] {0} ({1})</source>
         <note>ID: XkbKeyboardAdaptor.MissingKeyboard</note>
-        <target xml:lang="fr" state="needs-translation">[Missing] {0} ({1})</target>
+        <target xml:lang="fr" state="translated">[Manquant] {0} ({1})</target>
       </trans-unit>
     </body>
   </file>
