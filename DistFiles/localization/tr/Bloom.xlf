@@ -1463,7 +1463,10 @@
         <source xml:lang="en">Edit Image Credits, Copyright, &amp; License</source>
         <note>ID: EditTab.Image.EditMetadata</note>
         <note xml:lang="en">OLD TEXT (before 3.9): Edit Image Credits, Copyright, and License</note>
-        <target xml:lang="tr" state="translated">Resim kredilerini, telif hakkı ve &amp;vamp, Lisans</target>
+        <target xml:lang="tr" state="translated">Resim kredilerini, telif hakkı ve &amp;, Lisans</target>
+        <alt-trans>
+          <target xml:lang="tr">Resim kredilerini, telif hakkı ve &amp;vamp, Lisans</target>
+        </alt-trans>
         <alt-trans>
           <target xml:lang="tr">Resim kredilerini, telif hakkı ve &amp;vamp, Lisans</target>
         </alt-trans>
@@ -2637,7 +2640,10 @@
       <trans-unit id="OpenCreateNewCollectionsDialog.TextAboutGetUsingChorus">
         <source xml:lang="en">Has someone else used Send/Receive to share a collection with you?\nUse one of these red buttons to copy their collection to your computer.\nLater, use Send/Receive to share your work back with them.</source>
         <note>ID: OpenCreateNewCollectionsDialog.TextAboutGetUsingChorus</note>
-        <target xml:lang="tr" state="translated">Bir koleksiyonu sizinle paylaşmak için bir başkası Gönder / Al gönderimini kullandı mı?\ n Koleksiyonlarınızı bilgisayarınıza kopyalamak için bu kırmızı düğmelerden birini kullanın. \ n Daha sonra, çalışmalarınızı onlarla paylaşmak için Gönder / Al'ı kullanın.</target>
+        <target xml:lang="tr" state="translated">Bir koleksiyonu sizinle paylaşmak için bir başkası Gönder / Al gönderimini kullandı mı?\nKoleksiyonlarınızı bilgisayarınıza kopyalamak için bu kırmızı düğmelerden birini kullanın.\nDaha sonra, çalışmalarınızı onlarla paylaşmak için Gönder / Al'ı kullanın.</target>
+        <alt-trans>
+          <target xml:lang="tr">Bir koleksiyonu sizinle paylaşmak için bir başkası Gönder / Al gönderimini kullandı mı?\ n Koleksiyonlarınızı bilgisayarınıza kopyalamak için bu kırmızı düğmelerden birini kullanın. \ n Daha sonra, çalışmalarınızı onlarla paylaşmak için Gönder / Al'ı kullanın.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="OpenCreateNewCollectionsDialog.UILanguageMenu_ToolTip_">
         <source xml:lang="en">Change user interface language</source>
@@ -3614,7 +3620,10 @@ Do you want to go ahead?</note>
       <trans-unit id="ReaderSetup.PoweredBy" sil:dynamic="true">
         <source xml:lang="en">Powered by </source>
         <note>ID: ReaderSetup.PoweredBy</note>
-        <target xml:lang="tr" state="translated">Destekleyen</target>
+        <target xml:lang="tr" state="translated">Destekleyen </target>
+        <alt-trans>
+          <target xml:lang="tr">Destekleyen</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="ReaderSetup.Punctuation" sil:dynamic="true">
         <source xml:lang="en">Punctuation</source>
@@ -3719,7 +3728,10 @@ Do you want to go ahead?</note>
       <trans-unit id="ReaderSetup.StageLabel" sil:dynamic="true">
         <source xml:lang="en">Stage </source>
         <note>ID: ReaderSetup.StageLabel</note>
-        <target xml:lang="tr" state="translated">Aşama</target>
+        <target xml:lang="tr" state="translated">Aşama </target>
+        <alt-trans>
+          <target xml:lang="tr">Aşama</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="ReaderSetup.Stages" sil:dynamic="true">
         <source xml:lang="en">Stages</source>
