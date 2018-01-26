@@ -199,12 +199,18 @@
         <source xml:lang="en">Default Font for {0}</source>
         <note>ID: CollectionSettingsDialog.BookMakingTab.DefaultFontFor</note>
         <note>{0} is a language name.</note>
-        <target xml:lang="tr" state="translated">{0} için Varsayılan Yazı tipi </target>
+        <target xml:lang="tr" state="translated">{0} için Varsayılan Yazı tipi</target>
+        <alt-trans>
+          <target xml:lang="tr">{0} için Varsayılan Yazı tipi </target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="CollectionSettingsDialog.BookMakingTab.Front/BackMatterPack">
         <source xml:lang="en">Front/Back Matter Pack</source>
         <note>ID: CollectionSettingsDialog.BookMakingTab.Front/BackMatterPack</note>
-        <target xml:lang="tr" state="translated">Ön / Arka madde paketi </target>
+        <target xml:lang="tr" state="translated">Ön / Arka madde paketi</target>
+        <alt-trans>
+          <target xml:lang="tr">Ön / Arka madde paketi </target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="CollectionSettingsDialog.BookMakingTab.Front/BackMatterPack.Device" sil:dynamic="true">
         <source xml:lang="en">Device</source>
@@ -222,7 +228,10 @@
         <source xml:lang="en">SIL-PNG</source>
         <note>ID: CollectionSettingsDialog.BookMakingTab.Front/BackMatterPack.SIL-PNG</note>
         <note>Name of a Front/Back Matter Pack that has SIL Papua New Guinea customizations</note>
-        <target xml:lang="tr" state="translated">SIL - PNG </target>
+        <target xml:lang="tr" state="translated">SIL - PNG</target>
+        <alt-trans>
+          <target xml:lang="tr">SIL - PNG </target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="CollectionSettingsDialog.BookMakingTab.Front/BackMatterPack.Super Paper Saver" sil:dynamic="true">
         <source xml:lang="en">Super Paper Saver</source>
@@ -245,7 +254,10 @@
       <trans-unit id="CollectionSettingsDialog.BookMakingTab.PageNumberingStyle.Arabic-Indic" sil:dynamic="true">
         <source xml:lang="en">Arabic-Indic</source>
         <note>ID: CollectionSettingsDialog.BookMakingTab.PageNumberingStyle.Arabic-Indic</note>
-        <target xml:lang="tr" state="translated">Hint - Arap </target>
+        <target xml:lang="tr" state="translated">Hint - Arap</target>
+        <alt-trans>
+          <target xml:lang="tr">Hint - Arap </target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="CollectionSettingsDialog.BookMakingTab.PageNumberingStyle.Armenian" sil:dynamic="true">
         <source xml:lang="en">Armenian</source>
@@ -1389,7 +1401,10 @@
       <trans-unit id="EditTab.FrontMatter.PasteImageCreditsLink" sil:dynamic="true">
         <source xml:lang="en">Paste Image Credits</source>
         <note>ID: EditTab.FrontMatter.PasteImageCreditsLink</note>
-        <target xml:lang="tr" state="translated">Resim kredisini yapıştır </target>
+        <target xml:lang="tr" state="translated">Resim kredisini yapıştır</target>
+        <alt-trans>
+          <target xml:lang="tr">Resim kredisini yapıştır </target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="EditTab.FrontMatter.PasteMissingCredits">
         <source xml:lang="en">Missing credits:</source>
@@ -1481,7 +1496,10 @@
       <trans-unit id="EditTab.JpegWarningDialog.WarningText">
         <source xml:lang="en">The file you’ve chosen is a “JPEG” file. JPEG files are perfect for photographs and color artwork. However, JPEG files are a big problem for black and white line art. Problems include:\n• Fuzziness and grey dots.\n• Large file sizes, making the book hard to share.\n• If there are many large JPEGs, Bloom may not have enough memory to make PDF files.\n\nNote: Because JPEG is “lossy”, converting a JPEG to PNG, TIFF, or BMP actually makes things even worse. If this is black and white line art, you want to get an original scan in one of those formats.\n\nPlease select from one of the following, then click “OK”:</source>
         <note>ID: EditTab.JpegWarningDialog.WarningText</note>
-        <target xml:lang="tr" state="translated">Seçtiğiniz dosya "JPEG" dosyasıdır. JPEG dosyaları fotoğraflar ve renk resimleri için mükemmeldir. Bununla birlikte, JPEG dosyaları siyah beyaz çizgi sanatı için büyük bir sorundur. Sorunlar şunları içerir: \ n • Bulanıklık ve gri noktalar.\ n • Büyük dosya boyutları, kitabı paylaşmayı zorlaştırıyor.\ n • Birçok büyük JPEG'ler varsa, Bloom'un PDF dosyalarını ouşturacak kadar bellek olmayabilir. \ n Not: JPEG "kayıplı" olduğu için bir JPEG'i PNG, TIFF veya BMP2ye dönüştürmek aslında işleri daha da kötüleştiriyor. Bu siyah beyaz çizgi sanatı ise, bu biçimlerden birinde orjinal tarama almak istiyorsunuz. \ n Lütfen aşağıdakilerden birini seçin ve ardından "Tamam" ı tıklayın:</target>
+        <target xml:lang="tr" state="translated">Seçtiğiniz dosya "JPEG" dosyasıdır. JPEG dosyaları fotoğraflar ve renk resimleri için mükemmeldir. Bununla birlikte, JPEG dosyaları siyah beyaz çizgi sanatı için büyük bir sorundur. Sorunlar şunları içerir:\n• Bulanıklık ve gri noktalar.\n• Büyük dosya boyutları, kitabı paylaşmayı zorlaştırıyor.\n• Birçok büyük JPEG'ler varsa, Bloom'un PDF dosyalarını ouşturacak kadar bellek olmayabilir.\n\nNot: JPEG "kayıplı" olduğu için bir JPEG'i PNG, TIFF veya BMP2ye dönüştürmek aslında işleri daha da kötüleştiriyor. Bu siyah beyaz çizgi sanatı ise, bu biçimlerden birinde orjinal tarama almak istiyorsunuz.\n\nLütfen aşağıdakilerden birini seçin ve ardından "Tamam" ı tıklayın:</target>
+        <alt-trans>
+          <target xml:lang="tr">Seçtiğiniz dosya "JPEG" dosyasıdır. JPEG dosyaları fotoğraflar ve renk resimleri için mükemmeldir. Bununla birlikte, JPEG dosyaları siyah beyaz çizgi sanatı için büyük bir sorundur. Sorunlar şunları içerir: \ n • Bulanıklık ve gri noktalar.\ n • Büyük dosya boyutları, kitabı paylaşmayı zorlaştırıyor.\ n • Birçok büyük JPEG'ler varsa, Bloom'un PDF dosyalarını ouşturacak kadar bellek olmayabilir. \ n Not: JPEG "kayıplı" olduğu için bir JPEG'i PNG, TIFF veya BMP2ye dönüştürmek aslında işleri daha da kötüleştiriyor. Bu siyah beyaz çizgi sanatı ise, bu biçimlerden birinde orjinal tarama almak istiyorsunuz. \ n Lütfen aşağıdakilerden birini seçin ve ardından "Tamam" ı tıklayın:</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="EditTab.JpegWarningDialog.WindowTitle">
         <source xml:lang="en">JPEG Warning</source>
@@ -1802,7 +1820,10 @@
       <trans-unit id="EditTab.Toolbox.DecodableReaderTool.LetterWordReportWordList">
         <source xml:lang="en">Complete Word List</source>
         <note>ID: EditTab.Toolbox.DecodableReaderTool.LetterWordReportWordList</note>
-        <target xml:lang="tr" state="translated">Komple kelime listesi </target>
+        <target xml:lang="tr" state="translated">Komple kelime listesi</target>
+        <alt-trans>
+          <target xml:lang="tr">Komple kelime listesi </target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.DecodableReaderTool.LettersInThisStage" sil:dynamic="true">
         <source xml:lang="en">Letters in this stage</source>
@@ -2548,7 +2569,10 @@
       <trans-unit id="NewCollectionWizard.WelcomePage.WelcomeLine2">
         <source xml:lang="en">In order to keep things simple and organized, Bloom keeps all the books you make in one or more &lt;i&gt;Collections&lt;/i&gt;. The first thing we need to do is make one for you.</source>
         <note>ID: NewCollectionWizard.WelcomePage.WelcomeLine2</note>
-        <target xml:lang="tr" state="translated">İşleri basitleştirmek ve organize etmek için, Bloom size birinde veya daha fazlasında yapmak için tüm kitapları tutar &amp; ıt; i &gt; Koleksiyonlar &amp; lt; /i &amp; gt;. Yapmanız gereken ilk şey sizin için bir tane hazırlamak.</target>
+        <target xml:lang="tr" state="translated">İşleri basitleştirmek ve organize etmek için, Bloom size birinde veya daha fazlasında yapmak için tüm kitapları tutar &lt;i&gt;Koleksiyonlar&lt;/i&gt;. Yapmanız gereken ilk şey sizin için bir tane hazırlamak.</target>
+        <alt-trans>
+          <target xml:lang="tr">İşleri basitleştirmek ve organize etmek için, Bloom size birinde veya daha fazlasında yapmak için tüm kitapları tutar &amp; ıt; i &gt; Koleksiyonlar &amp; lt; /i &amp; gt;. Yapmanız gereken ilk şey sizin için bir tane hazırlamak.</target>
+        </alt-trans>
         <alt-trans>
           <target xml:lang="tr">İşleri basitleştirmek ve organize etmek için, Bloom size birinde veya daha fazlasında yapmak için tüm kitapları tutar &amp; ıt; i &gt; Koleksiyonlar &amp; lt; /i &amp; gt;. Yapmanız gereken ilk şey sizin için bir tane hazırlamak.</target>
         </alt-trans>
