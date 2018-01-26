@@ -1669,12 +1669,12 @@
         <source xml:lang="en">Vertical Alignment</source>
         <note>ID: EditTab.TextBoxProperties.VerticalAlignment</note>
         <note>Label above the set of options, Top/Center/Bottom</note>
-        <target xml:lang="fr" state="needs-translation">Vertical Alignment</target>
+        <target xml:lang="fr" state="translated">Alignement vertical</target>
       </trans-unit>
       <trans-unit id="EditTab.TextBoxProperties.WhatToPut" sil:dynamic="true">
         <source xml:lang="en">What should authors put in this box?</source>
         <note>ID: EditTab.TextBoxProperties.WhatToPut</note>
-        <target xml:lang="fr" state="needs-translation">What should authors put in this box?</target>
+        <target xml:lang="fr" state="translated">Que devraient inclure les auteurs dans ce champ?</target>
       </trans-unit>
       <trans-unit id="EditTab.TitleOfCopyIPToWholeBooksDialog" approved="yes">
         <source xml:lang="en">Picture Intellectual Property Information</source>
@@ -1685,53 +1685,53 @@
         <source xml:lang="en">Background Music Tool</source>
         <note>ID: EditTab.Toolbox.Music.MusicTool</note>
         <note>Background Audio is the technical term, but music is a more familiar word than audio, and that is the main intent.</note>
-        <target xml:lang="fr" state="needs-translation">Background Music Tool</target>
+        <target xml:lang="fr" state="translated">Outil de musique de fond</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.Music.Choose" sil:dynamic="true">
         <source xml:lang="en">Choose...</source>
         <note>ID: EditTab.Toolbox.Music.Choose</note>
-        <target xml:lang="fr" state="needs-translation">Choose...</target>
+        <target xml:lang="fr" state="translated">Choisir...</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.Music.ContinueMusic" sil:dynamic="true">
         <source xml:lang="en">Continue music from previous page</source>
         <note>ID: EditTab.Toolbox.Music.ContinueMusic</note>
-        <target xml:lang="fr" state="needs-translation">Continue music from previous page</target>
+        <target xml:lang="fr" state="translated">Continuez la musique de la page précédente</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.Music.Heading" sil:dynamic="true">
         <source xml:lang="en">Music Tool</source>
         <note>ID: EditTab.Toolbox.Music.Heading</note>
-        <target xml:lang="fr" state="needs-translation">Music Tool</target>
+        <target xml:lang="fr" state="translated">Outil de musique</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.Music.Overview" sil:dynamic="true">
         <source xml:lang="en">You can set up background music to play with this page when the book is viewed in the Bloom Reader app.</source>
         <note>ID: EditTab.Toolbox.Music.Overview</note>
-        <target xml:lang="fr" state="needs-translation">You can set up background music to play with this page when the book is viewed in the Bloom Reader app.</target>
+        <target xml:lang="fr" state="translated">Vous pouvez choisir de lire la musique de fond avec cette page lorsque le livre est visionné avec le LecteurBloom.</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.Music.NewMusic" sil:dynamic="true">
         <source xml:lang="en">Start new music</source>
         <note>ID: EditTab.Toolbox.Music.NewMusic</note>
-        <target xml:lang="fr" state="needs-translation">Start new music</target>
+        <target xml:lang="fr" state="translated">Démarrer une nouvelle musique</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.Music.NoMusic" sil:dynamic="true">
         <source xml:lang="en">No Music</source>
         <note>ID: EditTab.Toolbox.Music.NoMusic</note>
-        <target xml:lang="fr" state="needs-translation">No Music</target>
+        <target xml:lang="fr" state="translated">Sans musique</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.PanAndZoom.PanAndZoomTool" sil:dynamic="true">
         <source xml:lang="en">Pan and Zoom Tool</source>
         <note>ID: EditTab.Toolbox.PanAndZoom.PanAndZoomTool</note>
-        <target xml:lang="fr" state="needs-translation">Pan and Zoom Tool</target>
+        <target xml:lang="fr" state="translated">Outil Panoramique et Zoom</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.PanAndZoom.ChooseImage" sil:dynamic="true">
         <source xml:lang="en">Choose an image to activate the Pan and Zoom controls</source>
         <note>ID: EditTab.Toolbox.PanAndZoom.ChooseImage</note>
-        <target xml:lang="fr" state="needs-translation">Choose an image to activate the Pan and Zoom controls</target>
+        <target xml:lang="fr" state="translated">Choisissez une image pour activer les commandes Panoramique et Zoom</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.PanAndZoom.Heading" sil:dynamic="true">
         <source xml:lang="en">Pan and Zoom</source>
         <note>ID: EditTab.Toolbox.PanAndZoom.Heading</note>
         <note>Used as the overall title of the toolbox panel and also as the label of the check box inside it</note>
-        <target xml:lang="fr" state="needs-translation">Pan and Zoom</target>
+        <target xml:lang="fr" state="translated">Panoramique et Zoom</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.PanAndZoom.Preview" sil:dynamic="true">
         <source xml:lang="en">Preview</source>
