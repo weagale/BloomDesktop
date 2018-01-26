@@ -1601,7 +1601,7 @@
       <trans-unit id="EditTab.TextBoxProperties.BordersAndBackground" sil:dynamic="true">
         <source xml:lang="en">Borders &amp; Background</source>
         <note>ID: EditTab.TextBoxProperties.BordersAndBackground</note>
-        <target xml:lang="fr" state="needs-translation">Borders &amp; Background</target>
+        <target xml:lang="fr" state="translated">Bordures ‎&amp;amp Fond</target>
       </trans-unit>
       <trans-unit id="EditTab.TextBoxProperties.HintBubbles" sil:dynamic="true">
         <source xml:lang="en">Hint Bubbles</source>
@@ -4293,12 +4293,12 @@ Do you want to go ahead?</note>
         <source xml:lang="en">Quiz</source>
         <note>ID: TemplateBooks.PageLabel.Quiz</note>
         <note>Used in page preview for Comprehension Question pages. Should be short.</note>
-        <target xml:lang="fr" state="needs-translation">Quiz</target>
+        <target xml:lang="fr" state="translated">Quiz</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.PageLabel.SIL-Cameroon" sil:dynamic="true">
         <source xml:lang="en">SIL-Cameroon</source>
         <note>ID: TemplateBooks.PageLabel.SIL-Cameroon</note>
-        <target xml:lang="fr" state="needs-translation">SIL-Cameroon</target>
+        <target xml:lang="fr" state="translated">SIL-Cameroun</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.PageLabel.Super Paper Saver" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Super Paper Saver</source>
@@ -4308,7 +4308,7 @@ Do you want to go ahead?</note>
       <trans-unit id="TemplateBooks.PageLabel.The End" sil:dynamic="true">
         <source xml:lang="en">The End</source>
         <note>ID: TemplateBooks.PageLabel.The End</note>
-        <target xml:lang="fr" state="needs-translation">The End</target>
+        <target xml:lang="fr" state="translated">La Fin</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.PageLabel.This Page Is Intentionally Blank" sil:dynamic="true" approved="yes">
         <source xml:lang="en">This Page Is Intentionally Blank</source>
@@ -4335,7 +4335,7 @@ Do you want to go ahead?</note>
         <source xml:lang="en">Agriculture</source>
         <note>ID: Topics.Agriculture</note>
         <note>shows in the topics chooser in the edit tab</note>
-        <target xml:lang="fr" state="needs-translation">Agriculture</target>
+        <target xml:lang="fr" state="translated">Agriculture</target>
       </trans-unit>
       <trans-unit id="Topics.Animal Stories" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Animal Stories</source>
@@ -4359,7 +4359,7 @@ Do you want to go ahead?</note>
         <source xml:lang="en">Culture</source>
         <note>ID: Topics.Culture</note>
         <note>shows in the topics chooser in the edit tab</note>
-        <target xml:lang="fr" state="needs-translation">Culture</target>
+        <target xml:lang="fr" state="translated">Culture</target>
       </trans-unit>
       <trans-unit id="Topics.Dictionary" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Dictionary</source>
@@ -4377,7 +4377,7 @@ Do you want to go ahead?</note>
         <source xml:lang="en">Fiction</source>
         <note>ID: Topics.Fiction</note>
         <note>shows in the topics chooser in the edit tab</note>
-        <target xml:lang="fr" state="needs-translation">Fiction</target>
+        <target xml:lang="fr" state="translated">Fiction</target>
       </trans-unit>
       <trans-unit id="Topics.Health" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Health</source>
@@ -4448,7 +4448,7 @@ Do you want to go ahead?</note>
       <trans-unit id="Warning">
         <source xml:lang="en">Warning</source>
         <note>ID: Warning</note>
-        <target xml:lang="fr" state="needs-translation">Warning</target>
+        <target xml:lang="fr" state="translated">Avertissement</target>
       </trans-unit>
       <trans-unit id="WebServer.Warning.NoFile">
         <source xml:lang="en">Cannot Find File</source>
