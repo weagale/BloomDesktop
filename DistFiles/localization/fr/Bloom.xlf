@@ -2645,7 +2645,7 @@
       <trans-unit id="PublishTab.Android.ChooseUSB" sil:dynamic="true">
         <source xml:lang="en">Send over USB Cable</source>
         <note>ID: PublishTab.Android.ChooseUSB</note>
-        <target xml:lang="fr" state="needs-translation">Send over USB Cable</target>
+        <target xml:lang="fr" state="translated">Envoyer via un câble USB</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.ChooseWifi" sil:dynamic="true">
         <source xml:lang="en">Serve on WiFi Network</source>
@@ -2656,7 +2656,7 @@
         <source xml:lang="en">Control</source>
         <note>ID: PublishTab.Android.Control</note>
         <note>This is the heading above various buttons that control the publishing of the book to Android.</note>
-        <target xml:lang="fr" state="needs-translation">Control</target>
+        <target xml:lang="fr" state="translated">Contrôle</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.CopyToClipboard" sil:dynamic="true">
         <source xml:lang="en">Copy to Clipboard</source>
@@ -3080,7 +3080,7 @@
         <source xml:lang="en">The PDF file has not been saved because you chose not to allow producing a "PDF for Printshop".</source>
         <note>ID: PublishTab.PdfNotSavedWhy</note>
         <note>explanation that file was not saved displayed in a message box</note>
-        <target xml:lang="fr" state="needs-translation">The PDF file has not been saved because you chose not to allow producing a "PDF for Printshop".</target>
+        <target xml:lang="fr" state="translated">Le fichier PDF n'a pas été enregistré car vous n'avez pas autorisé la production d'un "PDF pour l'imprimerie".</target>
       </trans-unit>
       <trans-unit id="PublishTab.PrintButton" approved="yes">
         <source xml:lang="en">&amp;Print...</source>
@@ -3091,7 +3091,7 @@
         <source xml:lang="en">Bloom uses Adobe color profiles to convert PDF files from using RGB color to using CMYK color.  This is part of preparing a "PDF for Printshop".  You must agree to the following license in order to perform this task in Bloom.</source>
         <note>ID: PublishTab.PrologToAdobeEula</note>
         <note>Brief explanation of what this license is and why the user needs to agree to it</note>
-        <target xml:lang="fr" state="needs-translation">Bloom uses Adobe color profiles to convert PDF files from using RGB color to using CMYK color.  This is part of preparing a "PDF for Printshop".  You must agree to the following license in order to perform this task in Bloom.</target>
+        <target xml:lang="fr" state="translated">Bloom utilise les profils de couleurs du programme Adobe pour convertir les fichiers PDF en couleurs CMJN au lieu de couleurs RVB. Cela fait partie de la préparation d'un "PDF pour l'imprimerie". Vous devez accepter la licence suivante pour effectuer ce processus dans Bloom.</target>
       </trans-unit>
       <trans-unit id="PublishTab.Publish" approved="yes">
         <source xml:lang="en">Publish</source>
@@ -3131,7 +3131,7 @@
       <trans-unit id="PublishTab.Upload.CcLink">
         <source xml:lang="en">CC-BY-NC</source>
         <note>ID: PublishTab.Upload.CcLink</note>
-        <target xml:lang="fr" state="needs-translation">CC-BY-NC</target>
+        <target xml:lang="fr" state="translated">CC-BY-NC</target>
       </trans-unit>
       <trans-unit id="PublishTab.Upload.ConfirmReplaceExisting">
         <source xml:lang="en">BloomLibrary.org already has a previous version of this book from you.  If you upload it again, it will be replaced with your current version.</source>
@@ -3182,7 +3182,7 @@
       <trans-unit id="PublishTab.Upload.HelpEachOther">
         <source xml:lang="en">In the Bloom community, we help each other by sharing both new and newly translated books on the Bloom Library.</source>
         <note>ID: PublishTab.Upload.HelpEachOther</note>
-        <target xml:lang="fr" state="needs-translation">In the Bloom community, we help each other by sharing both new and newly translated books on the Bloom Library.</target>
+        <target xml:lang="fr" state="translated">Dans la communauté Bloom, nous entraidons en partageant de nouveaux livres et des livres récemment traduits à la Bibliothèque Bloom ‎(Bloom Library‎).</target>
       </trans-unit>
       <trans-unit id="PublishTab.Upload.IncompleteTranslation" approved="yes">
         <source xml:lang="en">(incomplete translation)</source>
@@ -3368,7 +3368,10 @@
         <note xml:lang="en">OLD TEXT (before 4.0, mark newlines properly): This book seems to be a template, that is, it contains blank pages for authoring a new book rather than content to translate into other languages. If that is not what you intended, you should get expert help before uploading this book.
 
 Do you want to go ahead?</note>
-        <target xml:lang="fr" state="needs-translation">This book seems to be a template, that is, it contains blank pages for authoring a new book rather than content to translate into other languages. If that is not what you intended, you should get expert help before uploading this book.\n\nDo you want to go ahead?</target>
+        <target xml:lang="fr" state="translated">Ce livre semble être un modèle puisqu'il a des pages blanches pour écrire un nouveau livre au lieu du contenu qui doit être traduit dans d'autres langues. Si ce n'est pas ce que vous vouliez, vous devriez obtenir l'aide d'un expert avant de charger ce livre. \n\nVoulez-vous continuer‎?</target>
+        <alt-trans>
+          <target xml:lang="fr">Ce livre semble être un modèle puisqu'il a des pages blanches pour écrire un nouveau livre au lieu du contenu qui doit être traduit dans d'autres langues. Si ce n'est pas ce que vous vouliez, vous devriez obtenir l'aide d'un expert avant de charger ce livre.\n\nVoulez-vous continuer‎?</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="PublishTab.Upload.TermsLink" approved="yes">
         <source xml:lang="en">Show Terms of Use</source>
@@ -3927,12 +3930,12 @@ Do you want to go ahead?</note>
       <trans-unit id="ScriptSettingsDialog.ScriptSettingsWindowTitle">
         <source xml:lang="en">Special Script Settings...</source>
         <note>ID: ScriptSettingsDialog.ScriptSettingsWindowTitle</note>
-        <target xml:lang="fr" state="needs-translation">Special Script Settings...</target>
+        <target xml:lang="fr" state="translated">Paramètres d'écriture spéciale ...</target>
       </trans-unit>
       <trans-unit id="ScriptSettingsDialog.TallerLinesCheckBox">
         <source xml:lang="en">This script requires taller lines</source>
         <note>ID: ScriptSettingsDialog.TallerLinesCheckBox</note>
-        <target xml:lang="fr" state="needs-translation">This script requires taller lines</target>
+        <target xml:lang="fr" state="translated">Cette écriture a besoin d’un interligne plus large</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.BookName.Arithmetic Template" sil:dynamic="true">
         <source xml:lang="en">Arithmetic Template</source>
@@ -4244,7 +4247,7 @@ Do you want to go ahead?</note>
       <trans-unit id="TemplateBooks.PageLabel.Instructions" sil:dynamic="true">
         <source xml:lang="en">Instructions</source>
         <note>ID: TemplateBooks.PageLabel.Instructions</note>
-        <target xml:lang="fr" state="needs-translation">Instructions</target>
+        <target xml:lang="fr" state="translated">Instructions</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.PageLabel.Just Text" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Just Text</source>
