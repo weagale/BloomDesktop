@@ -2802,24 +2802,24 @@
       <trans-unit id="PublishTab.Android.Wifi.Progress.BadBookRequest" sil:dynamic="true">
         <source xml:lang="en">Got a book request we could not process. Possibly the device is running an incompatible version of BloomReader?</source>
         <note>ID: PublishTab.Android.Wifi.Progress.BadBookRequest</note>
-        <target xml:lang="fr" state="needs-translation">Got a book request we could not process. Possibly the device is running an incompatible version of BloomReader?</target>
+        <target xml:lang="fr" state="translated">Nous avons reçu une demande de livre que nous n'avons pas pu traiter. Se pourrait-il que l'appareil exécute une version non supportée de LecteurBloom‎?</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Wifi.Progress.Failed" sil:dynamic="true">
         <source xml:lang="en">Sending the book failed. Possibly the device was disconnected? If you can't see a reason for this the following may be helpful to report to the developers:</source>
         <note>ID: PublishTab.Android.Wifi.Progress.Failed</note>
-        <target xml:lang="fr" state="needs-translation">Sending the book failed. Possibly the device was disconnected? If you can't see a reason for this the following may be helpful to report to the developers:</target>
+        <target xml:lang="fr" state="translated">L'envoi de ce livre a échoué. Se pourrait-il que l'appareil soit déconnecté‎? Si vous ne pouvez pas déterminer pourquoi cela s'est produit, il peut être utile de signaler ce qui suit aux programmeurs‎:</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Wifi.Progress.Finished" sil:dynamic="true">
         <source xml:lang="en">Finished sending "{0}" to device {1}</source>
         <note>ID: PublishTab.Android.Wifi.Progress.Finished</note>
         <note>{0} is the name of the book, {1} is the name of the device</note>
-        <target xml:lang="fr" state="needs-translation">Finished sending "{0}" to device {1}</target>
+        <target xml:lang="fr" state="translated">Fin de l'envoi de "‎{0‎}" à l'appareil ‎{1‎}</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Wifi.Progress.Sending" sil:dynamic="true">
         <source xml:lang="en">Sending "{0}" to device {1}</source>
         <note>ID: PublishTab.Android.Wifi.Progress.Sending</note>
         <note>{0} is the name of the book, {1} is the name of the device</note>
-        <target xml:lang="fr" state="needs-translation">Sending "{0}" to device {1}</target>
+        <target xml:lang="fr" state="translated">Envoi de "‎{0‎}" à l'appareil ‎{1‎}</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Wifi.Progress.Stopped" sil:dynamic="true">
         <source xml:lang="en">Stopped Advertising.</source>
@@ -2829,17 +2829,17 @@
       <trans-unit id="PublishTab.Android.Wifi.Progress.WifiInstructions1" sil:dynamic="true">
         <source xml:lang="en">On the Android, run Bloom Reader, open the menu and choose 'Receive Books over WiFi'.</source>
         <note>ID: PublishTab.Android.Wifi.Progress.WifiInstructions1</note>
-        <target xml:lang="fr" state="needs-translation">On the Android, run Bloom Reader, open the menu and choose 'Receive Books over WiFi'.</target>
+        <target xml:lang="fr" state="translated">Sur l'appareil Android, lancez LecteurBloom ‎(BloomReader‎), ouvrez le menu et choisissez "Recevoir des livres via WiFi".</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Wifi.Progress.WifiInstructions2" sil:dynamic="true">
         <source xml:lang="en">You can do this on as many devices as you like. Make sure each device is connected to the same network as this computer.</source>
         <note>ID: PublishTab.Android.Wifi.Progress.WifiInstructions2</note>
-        <target xml:lang="fr" state="needs-translation">You can do this on as many devices as you like. Make sure each device is connected to the same network as this computer.</target>
+        <target xml:lang="fr" state="translated">Vous pouvez le faire sur tous les appareils que vous aimez. Assurez-vous que chaque périphérique est connecté au même réseau que l'ordinateur.</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Wifi.Progress.beginAdvertising" sil:dynamic="true">
         <source xml:lang="en">Advertising book to Bloom Readers on local network...</source>
         <note>ID: PublishTab.Android.Wifi.Progress.beginAdvertising</note>
-        <target xml:lang="fr" state="needs-translation">Advertising book to Bloom Readers on local network...</target>
+        <target xml:lang="fr" state="translated">Annoncez le livre à LecteursBloom dans le réseau local ...</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Wifi.Start" sil:dynamic="true">
         <source xml:lang="en">Start Serving</source>
@@ -2857,7 +2857,7 @@
         <source xml:lang="en">The layout of this book is currently "{0}". Bloom Reader will display it using "{1}", so text might not fit. To see if anything needs adjusting, go back to the Edit Tab and change the layout to "{1}".</source>
         <note>ID: PublishTab.Android.WrongLayout.Message</note>
         <note>{0} and {1} are book layout tags.</note>
-        <target xml:lang="fr" state="needs-translation">The layout of this book is currently "{0}". Bloom Reader will display it using "{1}", so text might not fit. To see if anything needs adjusting, go back to the Edit Tab and change the layout to "{1}".</target>
+        <target xml:lang="fr" state="translated">La conception actuelle de ce livre est "‎{0‎}". Étant donné que Bloom Reader l'affichera en utilisant "‎{1‎}", le texte pourrait ne pas convenir. Pour voir si quelque chose doit être ajusté, revenez à l'onglet Modifier et modifiez le design en "‎{1‎}".</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.bloomdFileFormatLabel">
         <source xml:lang="en">Bloom Book for Devices</source>
