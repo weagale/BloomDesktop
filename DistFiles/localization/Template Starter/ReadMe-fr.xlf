@@ -76,7 +76,7 @@ There are two ways people can use your template. The first way is to start new b
       </trans-unit>
       <trans-unit id="template.starter.share.bloompack">
         <source xml:lang="en">For local colleagues, an easy way to distribute your template is via a Bloom Pack. In the collections tab, right-click on your template's thumbnail. Choose 'Make Bloom Pack'. Save that somewhere, for example to a USB Key. Then take it to another computer, double click on the file you made, and your template will be added to the "Sources for New Books" on that computer.</source>
-        <target xml:lang="fr" state="needs-translation">For local colleagues, an easy way to distribute your template is via a Bloom Pack. In the collections tab, right-click on your template's thumbnail. Choose 'Make Bloom Pack'. Save that somewhere, for example to a USB Key. Then take it to another computer, double click on the file you made, and your template will be added to the "Sources for New Books" on that computer.</target>
+        <target xml:lang="fr" state="translated">Pour les collègues locaux, un moyen facile de distribuer votre modèle consiste à utiliser un package Bloom. Dans l'onglet Collections, faites un clic droit sur la vignette du modèle. Choisissez "Créer un package Bloom". Enregistrez-le quelque part, par exemple sur une clé USB. Ensuite, connectez-le à un autre ordinateur, double-cliquez sur le fichier que vous avez créé et votre modèle sera ajouté aux "Sources pour les nouveaux livres" sur cet ordinateur.</target>
         <note>ID: template.starter.share.bloompack</note>
       </trans-unit>
       <trans-unit id="template.starter.notes">
