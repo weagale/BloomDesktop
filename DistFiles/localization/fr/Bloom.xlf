@@ -1576,7 +1576,7 @@
       <trans-unit id="EditTab.SavingNotification" sil:dynamic="true">
         <source xml:lang="en">Saving...</source>
         <note>ID: EditTab.SavingNotification</note>
-        <target xml:lang="fr" state="needs-translation">Saving...</target>
+        <target xml:lang="fr" state="translated">Enregistrement ...</target>
       </trans-unit>
       <trans-unit id="EditTab.TextBoxProperties.Alignment" sil:dynamic="true">
         <source xml:lang="en">Alignment</source>
