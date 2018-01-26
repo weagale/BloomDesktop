@@ -3720,7 +3720,7 @@ Do you want to go ahead?</note>
       <trans-unit id="ReaderSetup.Words.PlaceTextFiles" sil:dynamic="true">
         <source xml:lang="en">2) Place Text Files in Your</source>
         <note>ID: ReaderSetup.Words.PlaceTextFiles</note>
-        <target xml:lang="tr" state="needs-translation">2) Place Text Files in Your</target>
+        <target xml:lang="tr" state="translated">2) Metin dosyaları burada yerleştirin:</target>
       </trans-unit>
       <trans-unit id="ReaderSetup.Words.SampleTextFolder" sil:dynamic="true">
         <source xml:lang="en">Sample Texts Folder</source>
@@ -3766,7 +3766,7 @@ Do you want to go ahead?</note>
       <trans-unit id="ReaderTemplateBloomPackDialog.WindowTitle">
         <source xml:lang="en">Make Reader Template Bloom Pack</source>
         <note>ID: ReaderTemplateBloomPackDialog.WindowTitle</note>
-        <target xml:lang="tr" state="needs-translation">Make Reader Template Bloom Pack</target>
+        <target xml:lang="tr" state="translated">Okuma kitabı şablon Bloom paketi yap</target>
       </trans-unit>
       <trans-unit id="RegisterDialog.Email">
         <source xml:lang="en">Email Address</source>
@@ -3919,7 +3919,7 @@ Do you want to go ahead?</note>
       <trans-unit id="ScriptSettingsDialog.RightToLeftScriptCheckBox">
         <source xml:lang="en">This script is right to left</source>
         <note>ID: ScriptSettingsDialog.RightToLeftScriptCheckBox</note>
-        <target xml:lang="tr" state="needs-translation">This script is right to left</target>
+        <target xml:lang="tr" state="translated">Bu yazı sağdan sola olur</target>
       </trans-unit>
       <trans-unit id="ScriptSettingsDialog.ScriptSettingsWindowTitle">
         <source xml:lang="en">Special Script Settings...</source>
@@ -3929,7 +3929,7 @@ Do you want to go ahead?</note>
       <trans-unit id="ScriptSettingsDialog.TallerLinesCheckBox">
         <source xml:lang="en">This script requires taller lines</source>
         <note>ID: ScriptSettingsDialog.TallerLinesCheckBox</note>
-        <target xml:lang="tr" state="needs-translation">This script requires taller lines</target>
+        <target xml:lang="tr" state="translated">Bu yazı uzun satırları gerektirir</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.BookName.Arithmetic Template" sil:dynamic="true">
         <source xml:lang="en">Arithmetic Template</source>
@@ -3955,7 +3955,7 @@ Do you want to go ahead?</note>
       <trans-unit id="TemplateBooks.BookName.Leveled Reader" sil:dynamic="true">
         <source xml:lang="en">Leveled Reader</source>
         <note>ID: TemplateBooks.BookName.Leveled Reader</note>
-        <target xml:lang="tr" state="needs-translation">Leveled Reader</target>
+        <target xml:lang="tr" state="translated">Derecelendirilmiş okuma kitabı</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.BookName.Multimedia" sil:dynamic="true">
         <source xml:lang="en">Multimedia</source>
@@ -3975,7 +3975,7 @@ Do you want to go ahead?</note>
       <trans-unit id="TemplateBooks.BookName.The Moon and the Cap" sil:dynamic="true">
         <source xml:lang="en">The Moon and the Cap</source>
         <note>ID: TemplateBooks.BookName.The Moon and the Cap</note>
-        <target xml:lang="tr" state="needs-translation">The Moon and the Cap</target>
+        <target xml:lang="tr" state="translated">The Moon and the Cap</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.BookName.Vaccinations" sil:dynamic="true">
         <source xml:lang="en">Vaccinations</source>
@@ -4031,74 +4031,74 @@ Do you want to go ahead?</note>
       <trans-unit id="TemplateBooks.PageLabel.13" sil:dynamic="true">
         <source xml:lang="en">13</source>
         <note>ID: TemplateBooks.PageLabel.13</note>
-        <target xml:lang="tr" state="needs-translation">13</target>
+        <target xml:lang="tr" state="translated">13</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.PageLabel.14" sil:dynamic="true">
         <source xml:lang="en">14</source>
         <note>ID: TemplateBooks.PageLabel.14</note>
-        <target xml:lang="tr" state="needs-translation">14</target>
+        <target xml:lang="tr" state="translated">14</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.PageLabel.15" sil:dynamic="true">
         <source xml:lang="en">15</source>
         <note>ID: TemplateBooks.PageLabel.15</note>
-        <target xml:lang="tr" state="needs-translation">15</target>
+        <target xml:lang="tr" state="translated">15</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.PageLabel.16" sil:dynamic="true">
         <source xml:lang="en">16</source>
         <note>ID: TemplateBooks.PageLabel.16</note>
-        <target xml:lang="tr" state="needs-translation">16</target>
+        <target xml:lang="tr" state="translated">16</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.PageLabel.17" sil:dynamic="true">
         <source xml:lang="en">17</source>
         <note>ID: TemplateBooks.PageLabel.17</note>
-        <target xml:lang="tr" state="needs-translation">17</target>
+        <target xml:lang="tr" state="translated">17</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.PageLabel.18" sil:dynamic="true">
         <source xml:lang="en">18</source>
         <note>ID: TemplateBooks.PageLabel.18</note>
-        <target xml:lang="tr" state="needs-translation">18</target>
+        <target xml:lang="tr" state="translated">18</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.PageLabel.19" sil:dynamic="true">
         <source xml:lang="en">19</source>
         <note>ID: TemplateBooks.PageLabel.19</note>
-        <target xml:lang="tr" state="needs-translation">19</target>
+        <target xml:lang="tr" state="translated">19</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.PageLabel.2" sil:dynamic="true">
         <source xml:lang="en">2</source>
         <note>ID: TemplateBooks.PageLabel.2</note>
-        <target xml:lang="tr" state="needs-translation">2</target>
+        <target xml:lang="tr" state="translated">2</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.PageLabel.2 Problems" sil:dynamic="true">
         <source xml:lang="en">2 Problems</source>
         <note>ID: TemplateBooks.PageLabel.2 Problems</note>
         <note>This label indicates a page with two arithmetic problems on it.</note>
-        <target xml:lang="tr" state="needs-translation">2 Problems</target>
+        <target xml:lang="tr" state="translated">2 Sorun</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.PageLabel.20" sil:dynamic="true">
         <source xml:lang="en">20</source>
         <note>ID: TemplateBooks.PageLabel.20</note>
-        <target xml:lang="tr" state="needs-translation">20</target>
+        <target xml:lang="tr" state="translated">20</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.PageLabel.21" sil:dynamic="true">
         <source xml:lang="en">21</source>
         <note>ID: TemplateBooks.PageLabel.21</note>
-        <target xml:lang="tr" state="needs-translation">21</target>
+        <target xml:lang="tr" state="translated">21</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.PageLabel.3" sil:dynamic="true">
         <source xml:lang="en">3</source>
         <note>ID: TemplateBooks.PageLabel.3</note>
-        <target xml:lang="tr" state="needs-translation">3</target>
+        <target xml:lang="tr" state="translated">3</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.PageLabel.3 Problems" sil:dynamic="true">
         <source xml:lang="en">3 Problems</source>
         <note>ID: TemplateBooks.PageLabel.3 Problems</note>
         <note>This label indicates a page with three arithmetic problems on it.</note>
-        <target xml:lang="tr" state="needs-translation">3 Problems</target>
+        <target xml:lang="tr" state="translated">3 Sorun</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.PageLabel.4" sil:dynamic="true">
         <source xml:lang="en">4</source>
         <note>ID: TemplateBooks.PageLabel.4</note>
-        <target xml:lang="tr" state="needs-translation">4</target>
+        <target xml:lang="tr" state="translated">4</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.PageLabel.4 Problems" sil:dynamic="true">
         <source xml:lang="en">4 Problems</source>
