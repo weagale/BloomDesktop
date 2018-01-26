@@ -2053,7 +2053,7 @@
         <source xml:lang="en">This book is in translate-only mode. If you want to make other changes, click this to temporarily unlock the book.</source>
         <note>ID: EditTab.UnlockBook.ToolTip</note>
         <note>Button that tells Bloom to temporarily unlock a shell book for editing other than translation.</note>
-        <target xml:lang="fr" state="needs-translation">This book is in translate-only mode. If you want to make other changes, click this to temporarily unlock the book.</target>
+        <target xml:lang="fr" state="translated">Ce livre est protégé et ne peut être traduit. Si vous souhaitez apporter d'autres modifications, cliquez ici pour le déverrouiller temporairement.</target>
       </trans-unit>
       <trans-unit id="Errors.BookProblem" approved="yes">
         <source xml:lang="en">Bloom had a problem showing this book. This doesn't mean your work is lost, but it does mean that something is out of date, is missing, or has gone wrong.</source>
@@ -2064,7 +2064,7 @@
         <source xml:lang="en">Cannot access {0}</source>
         <note>ID: Errors.CannotAccessFile</note>
         <note>displays as a "toast", {0} is the URL/filename</note>
-        <target xml:lang="fr" state="needs-translation">Cannot access {0}</target>
+        <target xml:lang="fr" state="translated">Impossible d'accéder à {0}</target>
       </trans-unit>
       <trans-unit id="Errors.CannotConnectToBloomServer">
         <source xml:lang="en">Bloom was unable to start its own HTTP listener that it uses to talk to its embedded Firefox browser. If this happens even if you just restarted your computer, then ask someone to investigate if you have an aggressive firewall product installed, which may need to be uninstalled before you can use Bloom.</source>
@@ -2075,19 +2075,19 @@
       <trans-unit id="Errors.CouldNotSavePage">
         <source xml:lang="en">Bloom had trouble saving a page. Please click Details below and report this to us. Then quit Bloom, run it again, and check to see if the page you just edited is missing anything. Sorry!</source>
         <note>ID: Errors.CouldNotSavePage</note>
-        <target xml:lang="fr" state="needs-translation">Bloom had trouble saving a page. Please click Details below and report this to us. Then quit Bloom, run it again, and check to see if the page you just edited is missing anything. Sorry!</target>
+        <target xml:lang="fr" state="translated">Bloom a eu de la difficulté à sauvegarder la page. Veuillez cliquer sur Détails ci-dessous et nous en informer. Puis quittez Bloom, redémarrez-le et découvrez si la page que vous venez d'éditer manque quelque chose. Nous nous excusons!</target>
       </trans-unit>
       <trans-unit id="Errors.DefenderFolderProtection">
         <source xml:lang="en">This might be caused by Windows Defender "Controlled Folder Access" or some other virus protection.</source>
         <note>ID: Errors.DefenderFolderProtection</note>
         <note>After an October 2017 windows update, this appears when Bloom opens a collection and tries to write out the collection settings.</note>
-        <target xml:lang="fr" state="needs-translation">This might be caused by Windows Defender "Controlled Folder Access" or some other virus protection.</target>
+        <target xml:lang="fr" state="translated">Cela peut être causé par Windows Defender "Controlled Folder Access" ou un autre programme antivirus.</target>
       </trans-unit>
       <trans-unit id="Errors.DefenderFolderProtectionHeading">
         <source xml:lang="en">This program cannot write to the folder {0}.</source>
         <note>ID: Errors.DefenderFolderProtectionHeading</note>
         <note>This only happens on Windows after an October 2017 update, {0} is the folder that Bloom failed to write to.</note>
-        <target xml:lang="fr" state="needs-translation">This program cannot write to the folder {0}.</target>
+        <target xml:lang="fr" state="translated">Le programme ne peut pas écrire dans le dossier {0}.</target>
       </trans-unit>
       <trans-unit id="Errors.DeniedAccess" approved="yes">
         <source xml:lang="en">Your computer denied Bloom access to the book. You may need technical help in setting the operating system permissions for this file.</source>
