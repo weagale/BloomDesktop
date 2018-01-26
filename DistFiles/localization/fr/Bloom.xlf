@@ -1607,7 +1607,7 @@
         <source xml:lang="en">Hint Bubbles</source>
         <note>ID: EditTab.TextBoxProperties.HintBubbles</note>
         <note>This is the label of a tab in the text properties dialog that appears when you click a cog icon in a text box while changing the layout of a page</note>
-        <target xml:lang="fr" state="needs-translation">Hint Bubbles</target>
+        <target xml:lang="fr" state="translated">Bulle de conseils</target>
       </trans-unit>
       <trans-unit id="EditTab.TextBoxProperties.IncludeLang" sil:dynamic="true">
         <source xml:lang="en">Include the name of the language using {lang}. For example: "Enter color in {lang}".</source>
@@ -1626,7 +1626,7 @@
       <trans-unit id="EditTab.TextBoxProperties.LocalLanguage" sil:dynamic="true">
         <source xml:lang="en">Local Language</source>
         <note>ID: EditTab.TextBoxProperties.LocalLanguage</note>
-        <target xml:lang="fr" state="needs-translation">Local Language</target>
+        <target xml:lang="fr" state="translated">Langue locale</target>
       </trans-unit>
       <trans-unit id="EditTab.TextBoxProperties.NationalLanguage" sil:dynamic="true">
         <source xml:lang="en">National Language</source>
@@ -1651,18 +1651,18 @@
       <trans-unit id="EditTab.TextBoxProperties.RegionalLanguage" sil:dynamic="true">
         <source xml:lang="en">Regional Language</source>
         <note>ID: EditTab.TextBoxProperties.RegionalLanguage</note>
-        <target xml:lang="fr" state="needs-translation">Regional Language</target>
+        <target xml:lang="fr" state="translated">Langue régionale</target>
       </trans-unit>
       <trans-unit id="EditTab.TextBoxProperties.ShowHintBubble" sil:dynamic="true">
         <source xml:lang="en">Show the hint bubble</source>
         <note>ID: EditTab.TextBoxProperties.ShowHintBubble</note>
         <note>Label above pull-down menu with options, ShowOnGroup/ShowOnEach</note>
-        <target xml:lang="fr" state="needs-translation">Show the hint bubble</target>
+        <target xml:lang="fr" state="translated">Afficher le bulle de conseils</target>
       </trans-unit>
       <trans-unit id="EditTab.TextBoxProperties.ShowOnEach" sil:dynamic="true">
         <source xml:lang="en">On each language-field in the group</source>
         <note>ID: EditTab.TextBoxProperties.ShowOnEach</note>
-        <target xml:lang="fr" state="needs-translation">On each language-field in the group</target>
+        <target xml:lang="fr" state="translated">Dans chaque champ "langue" du groupe</target>
       </trans-unit>
       <trans-unit id="EditTab.TextBoxProperties.ShowOnGroup" sil:dynamic="true">
         <source xml:lang="en">Just once on the whole group</source>
@@ -1672,7 +1672,7 @@
       <trans-unit id="EditTab.TextBoxProperties.Title" sil:dynamic="true">
         <source xml:lang="en">Text Box Properties</source>
         <note>ID: EditTab.TextBoxProperties.Title</note>
-        <target xml:lang="fr" state="needs-translation">Text Box Properties</target>
+        <target xml:lang="fr" state="translated">Propriétés de zone texte</target>
       </trans-unit>
       <trans-unit id="EditTab.TextBoxProperties.VerticalAlignment" sil:dynamic="true">
         <source xml:lang="en">Vertical Alignment</source>
@@ -1745,7 +1745,7 @@
       <trans-unit id="EditTab.Toolbox.PanAndZoom.Preview" sil:dynamic="true">
         <source xml:lang="en">Preview</source>
         <note>ID: EditTab.Toolbox.PanAndZoom.Preview</note>
-        <target xml:lang="fr" state="needs-translation">Preview</target>
+        <target xml:lang="fr" state="translated">Aperçu</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.DecodableReaderTool" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Decodable Reader Tool</source>
