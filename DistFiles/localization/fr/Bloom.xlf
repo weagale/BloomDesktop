@@ -204,7 +204,7 @@
         <source xml:lang="en">Device</source>
         <note>ID: CollectionSettingsDialog.BookMakingTab.Front/BackMatterPack.Device</note>
         <note>Name of a Front/Back Matter Pack used for Bloom Reader</note>
-        <target xml:lang="fr" state="needs-translation">Device</target>
+        <target xml:lang="fr" state="translated">Appareil</target>
       </trans-unit>
       <trans-unit id="CollectionSettingsDialog.BookMakingTab.Front/BackMatterPack.Paper Saver" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Paper Saver</source>
@@ -216,7 +216,7 @@
         <source xml:lang="en">SIL-PNG</source>
         <note>ID: CollectionSettingsDialog.BookMakingTab.Front/BackMatterPack.SIL-PNG</note>
         <note>Name of a Front/Back Matter Pack that has SIL Papua New Guinea customizations</note>
-        <target xml:lang="fr" state="needs-translation">SIL-PNG</target>
+        <target xml:lang="fr" state="translated">SIL-PNG</target>
       </trans-unit>
       <trans-unit id="CollectionSettingsDialog.BookMakingTab.Front/BackMatterPack.Super Paper Saver" sil:dynamic="true">
         <source xml:lang="en">Super Paper Saver</source>
@@ -234,7 +234,7 @@
         <source xml:lang="en">Video</source>
         <note>ID: CollectionSettingsDialog.BookMakingTab.Front/BackMatterPack.Video</note>
         <note>Name of a Front/Back Matter Pack that is used for talking/animating experiences</note>
-        <target xml:lang="fr" state="needs-translation">Video</target>
+        <target xml:lang="fr" state="translated">Vidéo</target>
       </trans-unit>
       <trans-unit id="CollectionSettingsDialog.BookMakingTab.PageNumberingStyle.Arabic-Indic" sil:dynamic="true">
         <source xml:lang="en">Arabic-Indic</source>
@@ -902,7 +902,7 @@
         <note>ID: EditTab.AddPageDialog.NoTemplate</note>
         <note>Seen when the book's main template page file is missing.</note>
         <note xml:lang="en">OLD TEXT (before 3.9): (no template file found)</note>
-        <target xml:lang="fr" state="needs-translation">Could not find {0}</target>
+        <target xml:lang="fr" state="translated">Impossible de trouver ‎{0‎}</target>
       </trans-unit>
       <trans-unit id="EditTab.AddPageDialog.Title" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Add Page...</source>
@@ -913,7 +913,7 @@
       <trans-unit id="EditTab.AddTextBoxToImage">
         <source xml:lang="en">Add Text Box To Image</source>
         <note>ID: EditTab.AddTextBoxToImage</note>
-        <target xml:lang="fr" state="needs-translation">Add Text Box To Image</target>
+        <target xml:lang="fr" state="translated">Ajouter une zone de texte à l'image</target>
       </trans-unit>
       <trans-unit id="EditTab.BackMatter.InsideBackCoverTextPrompt" sil:dynamic="true" approved="yes">
         <source xml:lang="en">If you need somewhere to put more information about the book, you can use this page, which is the inside of the back cover.</source>
@@ -1149,7 +1149,7 @@
       <trans-unit id="EditTab.FormatDialog.Alignment" sil:dynamic="true">
         <source xml:lang="en">Alignment</source>
         <note>ID: EditTab.FormatDialog.Alignment</note>
-        <target xml:lang="fr" state="needs-translation">Alignment</target>
+        <target xml:lang="fr" state="translated">Alignement</target>
       </trans-unit>
       <trans-unit id="EditTab.FormatDialog.AlreadyExists" sil:dynamic="true" approved="yes">
         <source xml:lang="en">That style already exists. Please choose another name.</source>
@@ -1234,7 +1234,7 @@
       <trans-unit id="EditTab.FormatDialog.ParagraphTab" sil:dynamic="true">
         <source xml:lang="en">Paragraph</source>
         <note>ID: EditTab.FormatDialog.ParagraphTab</note>
-        <target xml:lang="fr" state="needs-translation">Paragraph</target>
+        <target xml:lang="fr" state="translated">Paragraphe</target>
       </trans-unit>
       <trans-unit id="EditTab.FormatDialog.PleaseUseAlpha" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Please use only alphabetical characters. Numbers at the end are ok, as in "part2".</source>
@@ -1249,7 +1249,7 @@
       <trans-unit id="EditTab.FormatDialog.Style" sil:dynamic="true">
         <source xml:lang="en">Style</source>
         <note>ID: EditTab.FormatDialog.Style</note>
-        <target xml:lang="fr" state="needs-translation">Style</target>
+        <target xml:lang="fr" state="translated">Style</target>
       </trans-unit>
       <trans-unit id="EditTab.FormatDialog.StyleNameTab" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Style Name</source>
@@ -1264,7 +1264,7 @@
       <trans-unit id="EditTab.FormatDialog.WordSpacingNormal" sil:dynamic="true">
         <source xml:lang="en">Normal</source>
         <note>ID: EditTab.FormatDialog.WordSpacingNormal</note>
-        <target xml:lang="fr" state="needs-translation">Normal</target>
+        <target xml:lang="fr" state="translated">Normal</target>
       </trans-unit>
       <trans-unit id="EditTab.FormatDialog.WordSpacingToolTip" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Change the spacing between words</source>
@@ -1348,7 +1348,7 @@
         <note>Used on the Title page of a book when "Paste Image Credits" is clicked. Put {0} in the translation where the list of page numbers should go and put {1} in the translation where the image credits should go. For example in English, 'Images on pages {0} by {1}.' comes out like 'Images on pages 1, 2, and 4 by John Doe, Copyright John Doe 2017, CC-BY-NC.'</note>
         <note xml:lang="en">OLD TEXT (early 4.1, remove quotation marks): "Images on pages {0} by {1}."</note>
         <note>New string in Bloom 4.1</note>
-        <target xml:lang="fr" state="needs-translation">Images on pages {0} by {1}.</target>
+        <target xml:lang="fr" state="translated">Images sur les pages ‎{0‎} par ‎{1‎}.</target>
       </trans-unit>
       <trans-unit id="EditTab.FrontMatter.NameofTranslatorPrompt" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Name of Translator, in {lang}</source>
@@ -1386,12 +1386,12 @@
       <trans-unit id="EditTab.FrontMatter.PasteImageCreditsLink" sil:dynamic="true">
         <source xml:lang="en">Paste Image Credits</source>
         <note>ID: EditTab.FrontMatter.PasteImageCreditsLink</note>
-        <target xml:lang="fr" state="needs-translation">Paste Image Credits</target>
+        <target xml:lang="fr" state="translated">Coller les crédits de l'image</target>
       </trans-unit>
       <trans-unit id="EditTab.FrontMatter.PasteMissingCredits">
         <source xml:lang="en">Missing credits:</source>
         <note>ID: EditTab.FrontMatter.PasteMissingCredits</note>
-        <target xml:lang="fr" state="needs-translation">Missing credits:</target>
+        <target xml:lang="fr" state="translated">Crédits manquants‎:</target>
       </trans-unit>
       <trans-unit id="EditTab.FrontMatter.SimpleLineDrawings" sil:dynamic="true">
         <source xml:lang="en">Simple line drawings look best. Instead of using this page, you can also make your own thumbnail.png file and set it to Read-only so Bloom doesn't write over it.</source>
@@ -1404,7 +1404,7 @@
         <note>Used on the Title page of a book when "Paste Image Credits" is clicked. Put {0} in the translation where the page number of an image should go and put {1} in the translation where the image credits should go. For example in English, 'Image on page {0} by {1}.' comes out like 'Image on page 3 by John Doe, Copyright John Doe 2017, CC-BY-NC.'</note>
         <note xml:lang="en">OLD TEXT (early 4.1, remove quotation marks): "Image on page {0} by {1}."</note>
         <note>New string in Bloom 4.1</note>
-        <target xml:lang="fr" state="needs-translation">Image on page {0} by {1}.</target>
+        <target xml:lang="fr" state="translated">Image sur le page ‎{0‎} par ‎{1‎}.</target>
       </trans-unit>
       <trans-unit id="EditTab.FrontMatter.TopicPrompt" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Click to choose topic</source>
