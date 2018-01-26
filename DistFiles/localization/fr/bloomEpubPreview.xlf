@@ -80,8 +80,11 @@
       </trans-unit>
       <trans-unit id="epubpreview.resizing">
         <source xml:lang="en">You can resize the preview by dragging the lower right corner of this simulated device. See how your book will look on screens of various sizes.</source>
-        <target xml:lang="fr" state="translated">Vous pouvez redimensionner l'aperçu en faisant glisser le coin inférieur droit de cet appareil simulé.  Voyez l’aperçu de votre livre sur des écrans de différentes tailles.</target>
+        <target xml:lang="fr" state="translated">Vous pouvez redimensionner l'aperçu en faisant glisser le coin inférieur droit de cet appareil simulé. Voyez l’aperçu de votre livre sur des écrans de différentes tailles.</target>
         <note>ID: epubpreview.resizing</note>
+        <alt-trans>
+          <target xml:lang="fr">Vous pouvez redimensionner l'aperçu en faisant glisser le coin inférieur droit de cet appareil simulé.  Voyez l’aperçu de votre livre sur des écrans de différentes tailles.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="epubpreview.readium">
         <source xml:lang="en">This page uses the <g id="genid-3" ctype="x-html-a" html:href="http://readium.org/">Readium</g> ePUB reader. Books will likely look different on different readers.
