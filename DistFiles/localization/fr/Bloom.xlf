@@ -1428,7 +1428,7 @@
       <trans-unit id="EditTab.Image.CopyImageFailed" sil:dynamic="true">
         <source xml:lang="en">Bloom had problems using your computer's clipboard. Some other program may be interfering.</source>
         <note>ID: EditTab.Image.CopyImageFailed</note>
-        <target xml:lang="fr" state="needs-translation">Bloom had problems using your computer's clipboard. Some other program may be interfering.</target>
+        <target xml:lang="fr" state="translated">Bloom ne pouvait pas utiliser le presse-papiers de son ordinateur. Il est possible qu'il y ait un conflit avec un autre programme.</target>
       </trans-unit>
       <trans-unit id="EditTab.Image.CutImage" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Cut Image</source>
@@ -1449,12 +1449,12 @@
       <trans-unit id="EditTab.Image.TryRestart" sil:dynamic="true">
         <source xml:lang="en">Try closing other programs and restart your computer if necessary.</source>
         <note>ID: EditTab.Image.TryRestart</note>
-        <target xml:lang="fr" state="needs-translation">Try closing other programs and restart your computer if necessary.</target>
+        <target xml:lang="fr" state="translated">Essayez de fermer d'autres programmes et de redémarrer votre ordinateur si nécessaire.</target>
       </trans-unit>
       <trans-unit id="EditTab.Instructions.DeleteAllowed" sil:dynamic="true">
         <source xml:lang="en">Feel free to modify or delete this page.</source>
         <note>ID: EditTab.Instructions.DeleteAllowed</note>
-        <target xml:lang="fr" state="needs-translation">Feel free to modify or delete this page.</target>
+        <target xml:lang="fr" state="translated">Vous pouvez modifier ou supprimer cette page.</target>
       </trans-unit>
       <trans-unit id="EditTab.JpegWarningDialog.DoNotUse" approved="yes">
         <source xml:lang="en">Cancel this import</source>
@@ -1485,13 +1485,13 @@
         <source xml:lang="en">This book is temporarily unlocked.</source>
         <note>ID: EditTab.LockBook.ToolTip</note>
         <note>Button that tells Bloom to re-lock a shell book so it can't be modified (other than translation).</note>
-        <target xml:lang="fr" state="needs-translation">This book is temporarily unlocked.</target>
+        <target xml:lang="fr" state="translated">Ce livre est temporairement déverrouillé.</target>
       </trans-unit>
       <trans-unit id="EditTab.LockBook.ToolTip" sil:dynamic="true">
         <source xml:lang="en">This book is temporarily unlocked.</source>
         <note>ID: EditTab.LockBook.ToolTip</note>
         <note>Button that tells Bloom to re-lock a shell book so it can't be modified (other than translation).</note>
-        <target xml:lang="fr" state="needs-translation">This book is temporarily unlocked.</target>
+        <target xml:lang="fr" state="translated">Ce livre est temporairement déverrouillé.</target>
       </trans-unit>
       <trans-unit id="EditTab.Monolingual" approved="yes">
         <source xml:lang="en">One Language</source>
@@ -1535,7 +1535,7 @@
       <trans-unit id="EditTab.PageList.Heading">
         <source xml:lang="en">Pages</source>
         <note>ID: EditTab.PageList.Heading</note>
-        <target xml:lang="fr" state="needs-translation">Pages</target>
+        <target xml:lang="fr" state="translated">Pages</target>
       </trans-unit>
       <trans-unit id="EditTab.PageSizeAndOrientation.Tooltip" approved="yes">
         <source xml:lang="en">Choose a page size and orientation</source>
@@ -1560,7 +1560,7 @@
       <trans-unit id="EditTab.PastePage">
         <source xml:lang="en">Paste Page</source>
         <note>ID: EditTab.PastePage</note>
-        <target xml:lang="fr" state="needs-translation">Paste Page</target>
+        <target xml:lang="fr" state="translated">Coller la page</target>
       </trans-unit>
       <trans-unit id="EditTab.ReadOnlyInAuthorMode" sil:dynamic="true" approved="yes">
         <source xml:lang="en">You cannot put anything in there while making an original book.</source>
