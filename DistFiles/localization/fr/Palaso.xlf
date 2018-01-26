@@ -65,7 +65,7 @@
       <trans-unit id="Common.AbortButton">
         <source xml:lang="en">&amp;Abort</source>
         <note>ID: Common.AbortButton</note>
-        <target xml:lang="fr" state="needs-translation">&amp;Abort</target>
+        <target xml:lang="fr" state="translated">‎&amp;amp‎;Annuler</target>
       </trans-unit>
       <trans-unit id="Common.CancelButton" approved="yes">
         <source xml:lang="en">&amp;Cancel</source>
