@@ -709,7 +709,7 @@
         <source xml:lang="en">{0}% translated</source>
         <note>ID: CollectionTab.UILanguageMenu.ItemTooltip</note>
         <note>Shown when hovering over an item in the UI Language menu. The {0} marker is filled in by a number between 1 and 100.</note>
-        <target xml:lang="fr" state="needs-translation">{0}% translated</target>
+        <target xml:lang="fr" state="translated">‎{0‎}‎% traduit</target>
       </trans-unit>
       <trans-unit id="CollectionTab.UnableToCheckForUpdate" approved="yes">
         <source xml:lang="en">Could not connect to the server to check for an update. Are you connected to the internet?</source>
@@ -1613,7 +1613,7 @@
         <source xml:lang="en">Include the name of the language using {lang}. For example: "Enter color in {lang}".</source>
         <note>ID: EditTab.TextBoxProperties.IncludeLang</note>
         <note>Becomes visible when "Show on each" option is chosen in combo. Do NOT translate {lang}.</note>
-        <target xml:lang="fr" state="needs-translation">Include the name of the language using {lang}. For example: "Enter color in {lang}".</target>
+        <target xml:lang="fr" state="translated">Incluez le nom de la langue en utilisant ‎{lang‎}. Par exemple‎: "Entrez la couleur dans ‎{lang‎}".</target>
       </trans-unit>
       <trans-unit id="EditTab.TextBoxProperties.LanguageTab" sil:dynamic="true">
         <source xml:lang="en">Language</source>
@@ -1638,12 +1638,12 @@
       <trans-unit id="EditTab.TextBoxProperties.NormalLabel" sil:dynamic="true">
         <source xml:lang="en">"Normal" will show local language, and potentially regional or national, depending on the multilingual settings of the book. Use this for most content.</source>
         <note>ID: EditTab.TextBoxProperties.NormalLabel</note>
-        <target xml:lang="fr" state="needs-translation">"Normal" will show local language, and potentially regional or national, depending on the multilingual settings of the book. Use this for most content.</target>
+        <target xml:lang="fr" state="translated">"Normal" affichera la langue locale, et éventuellement régionale ou nationale, en fonction de la configuration multilingue du livre. Utilisez ceci pour la majeure partie du contenu.</target>
       </trans-unit>
       <trans-unit id="EditTab.TextBoxProperties.OtherLanguagesLabel" sil:dynamic="true">
         <source xml:lang="en">Use one of these for simple text boxes that are always in only one language.</source>
         <note>ID: EditTab.TextBoxProperties.OtherLanguagesLabel</note>
-        <target xml:lang="fr" state="needs-translation">Use one of these for simple text boxes that are always in only one language.</target>
+        <target xml:lang="fr" state="translated">Utilisez l'un d'entre eux pour les zones de texte de base qui sont dans une seule langue.</target>
       </trans-unit>
       <trans-unit id="EditTab.TextBoxProperties.RegionalLanguage" sil:dynamic="true">
         <source xml:lang="en">Regional Language</source>
@@ -2710,7 +2710,7 @@
         <source xml:lang="en">You can now read "{0}" in Bloom Reader!</source>
         <note>ID: PublishTab.Android.Usb.Progress.BookSent</note>
         <note>{0} is a book title</note>
-        <target xml:lang="fr" state="needs-translation">You can now read "{0}" in Bloom Reader!</target>
+        <target xml:lang="fr" state="translated">Maintenant vous pouvez lire "‎{0‎}" dans le LecteurBloom‎!</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Usb.Progress.Connected" sil:dynamic="true">
         <source xml:lang="en">Connected to {0} via USB...</source>
@@ -2862,7 +2862,7 @@
       <trans-unit id="PublishTab.AndroidButton">
         <source xml:lang="en">Android</source>
         <note>ID: PublishTab.AndroidButton</note>
-        <target xml:lang="fr" state="needs-translation">Android</target>
+        <target xml:lang="fr" state="translated">Android</target>
       </trans-unit>
       <trans-unit id="PublishTab.AndroidButton-tooltip" sil:dynamic="true">
         <source xml:lang="en">Publish to an Android device.</source>
@@ -2904,7 +2904,7 @@
       <trans-unit id="PublishTab.EpubButton">
         <source xml:lang="en">ePUB</source>
         <note>ID: PublishTab.EpubButton</note>
-        <target xml:lang="fr" state="needs-translation">ePUB</target>
+        <target xml:lang="fr" state="translated">ePUB</target>
       </trans-unit>
       <trans-unit id="PublishTab.EpubRadio-tooltip" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Make an ePUB (electronic book) out of this book, allowing it to be read on various electronic reading devices.</source>
@@ -2937,7 +2937,7 @@
         <source xml:lang="en">Simple</source>
         <note>ID: PublishTab.OnePagePerPaperRadio</note>
         <note>Instead of making a booklet, just make normal pages</note>
-        <target xml:lang="fr" state="needs-translation">Simple</target>
+        <target xml:lang="fr" state="translated">Simple</target>
       </trans-unit>
       <trans-unit id="PublishTab.OnePagePerPaperRadio-tooltip" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Make a PDF of every page of the book, one page per piece of paper.</source>
@@ -2965,7 +2965,7 @@
         <source xml:lang="en">Choose a page size and orientation</source>
         <note>ID: PublishTab.Options_ToolTip_</note>
         <note>menu header in the Publish tab</note>
-        <target xml:lang="fr" state="needs-translation">Choose a page size and orientation</target>
+        <target xml:lang="fr" state="translated">Sélectionner la taille et l'orientation de la page</target>
       </trans-unit>
       <trans-unit id="PublishTab.OverwriteWarning.ReplaceExistingButton" approved="yes">
         <source xml:lang="en">Replace Existing</source>
