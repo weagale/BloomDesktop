@@ -14,17 +14,17 @@
       </trans-unit>
       <trans-unit id="android.publish.wifi.unseen">
         <source xml:lang="en">Problem: Android Device is not seeing book advertisements</source>
-        <target xml:lang="fr" state="needs-translation">Problem: Android Device is not seeing book advertisements</target>
+        <target xml:lang="fr" state="translated">Problème‎: l'appareil Android ne reçoit aucune annonces du livres</target>
         <note>ID: android.publish.wifi.unseen</note>
       </trans-unit>
       <trans-unit id="android.publish.wifi.run.receive">
         <source xml:lang="en">When using this method, you need to run Bloom Reader, open its menu, and choose "Receive from WiFi".</source>
-        <target xml:lang="fr" state="needs-translation">When using this method, you need to run Bloom Reader, open its menu, and choose "Receive from WiFi".</target>
+        <target xml:lang="fr" state="translated">Lorsque vous utilisez cette méthode, vous devez exécuter le LecteurBloom. Ouvrez le menu et choisissez "Recevoir du WiFi".</target>
         <note>ID: android.publish.wifi.run.receive</note>
       </trans-unit>
       <trans-unit id="android.publish.wifi.receive.from">
         <source xml:lang="en">Make sure the device is in the "Receive from WiFi" screen</source>
-        <target xml:lang="fr" state="needs-translation">Make sure the device is in the "Receive from WiFi" screen</target>
+        <target xml:lang="fr" state="translated">Assurez-vous que l'appareil est dans l'écran "Recevoir WiFi"</target>
         <note>ID: android.publish.wifi.receive.from</note>
       </trans-unit>
       <trans-unit id="android.publish.wifi.same.network">
@@ -44,21 +44,21 @@
       </trans-unit>
       <trans-unit id="android.publish.usb.not.connect">
         <source xml:lang="en">Problem: Bloom is not connecting to my device</source>
-        <target xml:lang="fr" state="needs-translation">Problem: Bloom is not connecting to my device</target>
+        <target xml:lang="fr" state="translated">Problème‎: Bloom ne se connecte pas à mon appareil</target>
         <note>ID: android.publish.usb.not.connect</note>
       </trans-unit>
       <trans-unit id="android.publish.usb.consider.wifi">
         <source xml:lang="en">
           <g id="genid-1" ctype="x-html-p">We have found this method to be problematic with many devices, so consider using the WiFi method even if you are only working with a single device.</g>
         </source>
-        <target xml:lang="fr" state="needs-translation">
-<g id="genid-1" ctype="x-html-p">We have found this method to be problematic with many devices, so consider using the WiFi method even if you are only working with a single device.</g>
+        <target xml:lang="fr" state="translated">
+<g id="genid-1" ctype="x-html-p">Nous avons constaté que cette méthode est problématique pour de nombreux appareils. Par conséquent, considérez la méthode WiFi même si vous travaillez avec un seul périphérique.</g>
 </target>
         <note>ID: android.publish.usb.consider.wifi</note>
       </trans-unit>
       <trans-unit id="android.publish.usb.automatic">
         <source xml:lang="en">When using this method, you do not have to go into any special mode to receive books. Just run Bloom Reader. Books should automatically appear when they are transferred.</source>
-        <target xml:lang="fr" state="needs-translation">When using this method, you do not have to go into any special mode to receive books. Just run Bloom Reader. Books should automatically appear when they are transferred.</target>
+        <target xml:lang="fr" state="translated">Mientras que utiliza este método, no tiene que entrar en ningún modo especial para recibir libros. Basta con ejecutar el LecteurBloom. Los libros deben aparecer automáticamente cuando se transfieran.</target>
         <note>ID: android.publish.usb.automatic</note>
       </trans-unit>
       <trans-unit id="android.publish.usb.uses.mtp">
@@ -68,12 +68,12 @@
       </trans-unit>
       <trans-unit id="android.publish.usb.windows">
         <source xml:lang="en">The device should be showing up in Windows File Explorer (this feature is Windows-only)</source>
-        <target xml:lang="fr" state="needs-translation">The device should be showing up in Windows File Explorer (this feature is Windows-only)</target>
+        <target xml:lang="fr" state="translated">L'appareil doit être affiché dans l'explorateur de fichiers Windows ‎(cette fonctionnalité est uniquement disponible dans Windows‎)</target>
         <note>ID: android.publish.usb.windows</note>
       </trans-unit>
       <trans-unit id="android.publish.usb.cable.or.port">
         <source xml:lang="en">Try a different cable, or a different USB port.</source>
-        <target xml:lang="fr" state="needs-translation">Try a different cable, or a different USB port.</target>
+        <target xml:lang="fr" state="translated">Essayez un câble différent ou un port USB différent.</target>
         <note>ID: android.publish.usb.cable.or.port</note>
       </trans-unit>
     </body>
