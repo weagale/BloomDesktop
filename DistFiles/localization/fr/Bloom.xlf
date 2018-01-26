@@ -2640,7 +2640,7 @@
       <trans-unit id="PublishTab.Android.ChooseFile" sil:dynamic="true">
         <source xml:lang="en">Save Bloom Reader File</source>
         <note>ID: PublishTab.Android.ChooseFile</note>
-        <target xml:lang="fr" state="needs-translation">Save Bloom Reader File</target>
+        <target xml:lang="fr" state="translated">Enregistrer fichier LecteurBloom</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.ChooseUSB" sil:dynamic="true">
         <source xml:lang="en">Send over USB Cable</source>
@@ -2673,19 +2673,19 @@
         <source xml:lang="en">Saving as {0}</source>
         <note>ID: PublishTab.Android.File.Progress.Saving</note>
         <note>{0} is a file path</note>
-        <target xml:lang="fr" state="needs-translation">Saving as {0}</target>
+        <target xml:lang="fr" state="translated">Enregistrement comme ‎{0‎}</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.GetBloomReader" sil:dynamic="true">
         <source xml:lang="en">Get Bloom Reader App</source>
         <note>ID: PublishTab.Android.GetBloomReader</note>
         <note>Link to find Bloom Reader on Google Play Store</note>
-        <target xml:lang="fr" state="needs-translation">Get Bloom Reader App</target>
+        <target xml:lang="fr" state="translated">Obtenir l’application LecteurBloom</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Media" sil:dynamic="true">
         <source xml:lang="en">Media</source>
         <note>ID: PublishTab.Android.Media</note>
         <note>A heading in the Publish to Android screen.</note>
-        <target xml:lang="fr" state="needs-translation">Media</target>
+        <target xml:lang="fr" state="translated">Médium</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Method" sil:dynamic="true">
         <source xml:lang="en">Method Choices</source>
@@ -2697,7 +2697,7 @@
         <source xml:lang="en">Save...</source>
         <note>ID: PublishTab.Android.Save</note>
         <note>Button that tells Bloom to save the book as a .bloomD file.</note>
-        <target xml:lang="fr" state="needs-translation">Save...</target>
+        <target xml:lang="fr" state="translated">Enregistrer ...</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.ThumbnailColor" sil:dynamic="true">
         <source xml:lang="en">Thumbnail Color</source>
@@ -2722,7 +2722,7 @@
         <source xml:lang="en">Connected to {0} via USB...</source>
         <note>ID: PublishTab.Android.Usb.Progress.Connected</note>
         <note>{0} is a the name of the device Bloom connected to</note>
-        <target xml:lang="fr" state="needs-translation">Connected to {0} via USB...</target>
+        <target xml:lang="fr" state="translated">Connecté à ‎{0‎} via USB ...</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Usb.Progress.DeviceWithoutBloomReader" sil:dynamic="true">
         <source xml:lang="en">The following devices are connected but do not seem to have Bloom Reader running:</source>
@@ -2776,7 +2776,7 @@
         <source xml:lang="en">Sending "{0}" to your Android device...</source>
         <note>ID: PublishTab.Android.Usb.Progress.SendingBook</note>
         <note>{0} is a book title</note>
-        <target xml:lang="fr" state="needs-translation">Sending "{0}" to your Android device...</target>
+        <target xml:lang="fr" state="translated">Envoyer "‎{0‎}" à votre appareil Android ...</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Usb.Progress.Stopped" sil:dynamic="true">
         <source xml:lang="en">Stopped</source>
@@ -2797,7 +2797,7 @@
       <trans-unit id="PublishTab.Android.Usb.Stop" sil:dynamic="true">
         <source xml:lang="en">Stop Trying</source>
         <note>ID: PublishTab.Android.Usb.Stop</note>
-        <target xml:lang="fr" state="needs-translation">Stop Trying</target>
+        <target xml:lang="fr" state="translated">Arrête d'essayer</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Wifi.Progress.BadBookRequest" sil:dynamic="true">
         <source xml:lang="en">Got a book request we could not process. Possibly the device is running an incompatible version of BloomReader?</source>
