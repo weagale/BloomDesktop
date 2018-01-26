@@ -185,7 +185,7 @@
       <trans-unit id="ImageToolbox.Galleries">
         <source xml:lang="en">Galleries</source>
         <note>ID: ImageToolbox.Galleries</note>
-        <target xml:lang="fr" state="needs-translation">Galleries</target>
+        <target xml:lang="fr" state="translated">Galeries</target>
       </trans-unit>
       <trans-unit id="ImageToolbox.GenericGettingImageProblem" approved="yes">
         <source xml:lang="en">Sorry, something went wrong while getting the image.</source>
@@ -268,7 +268,7 @@
       <trans-unit id="ImageToolbox.Scanner">
         <source xml:lang="en">Scanner</source>
         <note>ID: ImageToolbox.Scanner</note>
-        <target xml:lang="fr" state="needs-translation">Scanner</target>
+        <target xml:lang="fr" state="translated">Scanner</target>
       </trans-unit>
       <trans-unit id="ImageToolbox.SearchArtOfReading" approved="yes">
         <source xml:lang="en">Search the Art of Reading Gallery</source>
@@ -315,7 +315,7 @@
       <trans-unit id="LanguageLookup.CodeHeader">
         <source xml:lang="en">Code</source>
         <note>ID: LanguageLookup.CodeHeader</note>
-        <target xml:lang="fr" state="needs-translation">Code</target>
+        <target xml:lang="fr" state="translated">Code</target>
       </trans-unit>
       <trans-unit id="LanguageLookup.CountryCount" approved="yes">
         <source xml:lang="en">{0} Countries</source>
