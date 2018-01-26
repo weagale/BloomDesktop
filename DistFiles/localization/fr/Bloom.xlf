@@ -177,7 +177,7 @@
         <source xml:lang="en">Branding</source>
         <note>ID: CollectionSettingsDialog.BookMakingTab.Branding</note>
         <note xml:lang="en">Used in 3.9 and 4.0; not used in 4.1</note>
-        <target xml:lang="fr" state="needs-translation">Branding</target>
+        <target xml:lang="fr" state="translated">L'image de marque</target>
       </trans-unit>
       <trans-unit id="CollectionSettingsDialog.BookMakingTab.Branding.None" sil:dynamic="true">
         <source xml:lang="en">None</source>
@@ -460,7 +460,7 @@
       <trans-unit id="CollectionSettingsDialog.ProjectInformationTab.Province">
         <source xml:lang="en">Province</source>
         <note>ID: CollectionSettingsDialog.ProjectInformationTab.Province</note>
-        <target xml:lang="fr" state="needs-translation">Province</target>
+        <target xml:lang="fr" state="translated">Province</target>
       </trans-unit>
       <trans-unit id="CollectionSettingsDialog.Restart" approved="yes">
         <source xml:lang="en">Restart</source>
@@ -588,12 +588,12 @@
       <trans-unit id="CollectionTab.CollectionTabLabel">
         <source xml:lang="en">Collections</source>
         <note>ID: CollectionTab.CollectionTabLabel</note>
-        <target xml:lang="fr" state="needs-translation">Collections</target>
+        <target xml:lang="fr" state="translated">Collections</target>
       </trans-unit>
       <trans-unit id="CollectionTab.Collections">
         <source xml:lang="en">Collections</source>
         <note>ID: CollectionTab.Collections</note>
-        <target xml:lang="fr" state="needs-translation">Collections</target>
+        <target xml:lang="fr" state="translated">Collections</target>
       </trans-unit>
       <trans-unit id="CollectionTab.ConfiguringBookMessage" approved="yes">
         <source xml:lang="en">Building...</source>
@@ -662,12 +662,12 @@
       <trans-unit id="CollectionTab.Progress">
         <source xml:lang="en">({0}% complete)</source>
         <note>ID: CollectionTab.Progress</note>
-        <target xml:lang="fr" state="needs-translation">({0}% complete)</target>
+        <target xml:lang="fr" state="translated">({0}% complet)</target>
       </trans-unit>
       <trans-unit id="CollectionTab.RestartToUpdate">
         <source xml:lang="en">Restart to Update</source>
         <note>ID: CollectionTab.RestartToUpdate</note>
-        <target xml:lang="fr" state="needs-translation">Restart to Update</target>
+        <target xml:lang="fr" state="translated">Redémarrer pour mettre à jour</target>
       </trans-unit>
       <trans-unit id="CollectionTab.Sample Shells" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Sample Shells</source>
@@ -818,7 +818,7 @@
         <source xml:lang="en">See {0}.</source>
         <note>ID: Common.SeeWebPage</note>
         <note>Used to point the user to a web page. Put the '{0}' where the web page URL will go.</note>
-        <target xml:lang="fr" state="needs-translation">See {0}.</target>
+        <target xml:lang="fr" state="translated">Regarder {0}.</target>
       </trans-unit>
       <trans-unit id="Download.Completed" approved="yes">
         <source xml:lang="en">Your download ({0}) is complete. You can see it in the 'Books from BloomLibrary.org' section of your Collections.</source>
@@ -975,7 +975,7 @@
       <trans-unit id="EditTab.ContentLanguagesDropdown_ToolTip_">
         <source xml:lang="en">Choose language to make this a bilingual or trilingual book</source>
         <note>ID: EditTab.ContentLanguagesDropdown_ToolTip_</note>
-        <target xml:lang="fr" state="needs-translation">Choose language to make this a bilingual or trilingual book</target>
+        <target xml:lang="fr" state="translated">Choisissez la langue pour convertir ce livre en un livre bilingue ou trilingue</target>
       </trans-unit>
       <trans-unit id="EditTab.CopyButton" approved="yes">
         <source xml:lang="en">Copy</source>
@@ -1001,7 +1001,7 @@
       <trans-unit id="EditTab.CopyPage">
         <source xml:lang="en">Copy Page</source>
         <note>ID: EditTab.CopyPage</note>
-        <target xml:lang="fr" state="needs-translation">Copy Page</target>
+        <target xml:lang="fr" state="translated">Copier la page</target>
       </trans-unit>
       <trans-unit id="EditTab.CustomPage.ChangeLayout" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Change Layout</source>
@@ -1061,7 +1061,7 @@
       <trans-unit id="EditTab.DeleteTextBoxFromImage">
         <source xml:lang="en">Delete Text Box From Image</source>
         <note>ID: EditTab.DeleteTextBoxFromImage</note>
-        <target xml:lang="fr" state="needs-translation">Delete Text Box From Image</target>
+        <target xml:lang="fr" state="translated">Supprimer la zone de texte de l'image</target>
       </trans-unit>
       <trans-unit id="EditTab.DirectFormatting.Bold" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Bold</source>
@@ -1223,7 +1223,7 @@
       <trans-unit id="EditTab.FormatDialog.ParagraphSpacing" sil:dynamic="true">
         <source xml:lang="en">Space Between Paragraphs</source>
         <note>ID: EditTab.FormatDialog.ParagraphSpacing</note>
-        <target xml:lang="fr" state="needs-translation">Space Between Paragraphs</target>
+        <target xml:lang="fr" state="translated">Espace entre les paragraphes</target>
       </trans-unit>
       <trans-unit id="EditTab.FormatDialog.ParagraphTab" sil:dynamic="true">
         <source xml:lang="en">Paragraph</source>
@@ -1300,7 +1300,7 @@
         <source xml:lang="en">Name of the translator, in {lang}</source>
         <note>ID: EditTab.FrontMatter.CreditTranslator</note>
         <note>Put {lang} in your translation, so it can be replaced by the language name.</note>
-        <target xml:lang="fr" state="needs-translation">Name of the translator, in {lang}</target>
+        <target xml:lang="fr" state="translated">Nom du traducteur, en {lang}</target>
       </trans-unit>
       <trans-unit id="EditTab.FrontMatter.FundingAgenciesPrompt" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Use this to acknowledge any funding agencies.</source>
