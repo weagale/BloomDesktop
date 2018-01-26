@@ -21,7 +21,7 @@ There are two ways people can use your template. The first way is to start new b
       </trans-unit>
       <trans-unit id="template.starter.waystohelp">
         <source xml:lang="en">Making templates is just like making any other custom book; all the same controls are available for making and customizing pages. But since you will probably be sharing with other people, there are a number of things you can do to help users of your template:</source>
-        <target xml:lang="fr" state="needs-translation">Making templates is just like making any other custom book; all the same controls are available for making and customizing pages. But since you will probably be sharing with other people, there are a number of things you can do to help users of your template:</target>
+        <target xml:lang="fr" state="translated">Les modèles sont fabriqués de la même manière que tout autre livre personnalisé‎; Tous les contrôles sont disponibles pour créer et personnaliser les pages. Mais puisque vous partagerez probablement des modèles avec d'autres personnes, vous pouvez faire plusieurs choses pour aider les utilisateurs de votre modèle‎:</target>
         <note>ID: template.starter.waystohelp</note>
       </trans-unit>
       <trans-unit id="template.starter.labelpages">
