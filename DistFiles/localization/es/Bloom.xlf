@@ -4290,6 +4290,9 @@ Luego suelte la tecla que apretó para mostrar esta lista.</target>
         <note>ID: PublishTab.Android.Usb.Progress.ReplacingBook</note>
         <note>{0} is a book title</note>
         <target xml:lang="es-ES">Reemplazar el libro "{0}" actual...</target>
+        <alt-trans>
+          <target xml:lang="es-ES">Reemplazando el libro "{0}" actual...</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Usb.Progress.SendingBook" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Sending "{0}" to your Android device...</source>
