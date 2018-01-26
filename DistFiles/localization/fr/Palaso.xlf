@@ -237,7 +237,7 @@
       <trans-unit id="ImageToolbox.NoGalleries">
         <source xml:lang="en">This computer doesn't appear to have any galleries installed yet.</source>
         <note>ID: ImageToolbox.NoGalleries</note>
-        <target xml:lang="fr" state="needs-translation">This computer doesn't appear to have any galleries installed yet.</target>
+        <target xml:lang="fr" state="translated">Cet ordinateur ne semble toujours pas avoir de galeries installées.</target>
       </trans-unit>
       <trans-unit id="ImageToolbox.NoMatchingImages" approved="yes">
         <source xml:lang="en">Found no matching images</source>
