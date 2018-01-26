@@ -1581,7 +1581,7 @@
       <trans-unit id="EditTab.TextBoxProperties.Alignment" sil:dynamic="true">
         <source xml:lang="en">Alignment</source>
         <note>ID: EditTab.TextBoxProperties.Alignment</note>
-        <target xml:lang="fr" state="needs-translation">Alignment</target>
+        <target xml:lang="fr" state="translated">Alignement</target>
       </trans-unit>
       <trans-unit id="EditTab.TextBoxProperties.Background" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Background</source>
@@ -1613,12 +1613,15 @@
         <source xml:lang="en">Include the name of the language using {lang}. For example: "Enter color in {lang}".</source>
         <note>ID: EditTab.TextBoxProperties.IncludeLang</note>
         <note>Becomes visible when "Show on each" option is chosen in combo. Do NOT translate {lang}.</note>
-        <target xml:lang="fr" state="translated">Incluez le nom de la langue en utilisant ‎{lang‎}. Par exemple‎: "Entrez la couleur dans ‎{lang‎}".</target>
+        <target xml:lang="fr" state="translated">Incluez le nom de la langue en utilisant {lang}. Par exemple‎: "Entrez la couleur dans {lang}".</target>
+        <alt-trans>
+          <target xml:lang="fr">Incluez le nom de la langue en utilisant ‎{lang‎}. Par exemple‎: "Entrez la couleur dans ‎{lang‎}".</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="EditTab.TextBoxProperties.LanguageTab" sil:dynamic="true">
         <source xml:lang="en">Language</source>
         <note>ID: EditTab.TextBoxProperties.LanguageTab</note>
-        <target xml:lang="fr" state="needs-translation">Language</target>
+        <target xml:lang="fr" state="translated">Langue</target>
       </trans-unit>
       <trans-unit id="EditTab.TextBoxProperties.LocalLanguage" sil:dynamic="true">
         <source xml:lang="en">Local Language</source>
@@ -1628,12 +1631,12 @@
       <trans-unit id="EditTab.TextBoxProperties.NationalLanguage" sil:dynamic="true">
         <source xml:lang="en">National Language</source>
         <note>ID: EditTab.TextBoxProperties.NationalLanguage</note>
-        <target xml:lang="fr" state="needs-translation">National Language</target>
+        <target xml:lang="fr" state="translated">Langue nationale</target>
       </trans-unit>
       <trans-unit id="EditTab.TextBoxProperties.Normal" sil:dynamic="true">
         <source xml:lang="en">Normal</source>
         <note>ID: EditTab.TextBoxProperties.Normal</note>
-        <target xml:lang="fr" state="needs-translation">Normal</target>
+        <target xml:lang="fr" state="translated">Normal</target>
       </trans-unit>
       <trans-unit id="EditTab.TextBoxProperties.NormalLabel" sil:dynamic="true">
         <source xml:lang="en">"Normal" will show local language, and potentially regional or national, depending on the multilingual settings of the book. Use this for most content.</source>
@@ -1664,7 +1667,7 @@
       <trans-unit id="EditTab.TextBoxProperties.ShowOnGroup" sil:dynamic="true">
         <source xml:lang="en">Just once on the whole group</source>
         <note>ID: EditTab.TextBoxProperties.ShowOnGroup</note>
-        <target xml:lang="fr" state="needs-translation">Just once on the whole group</target>
+        <target xml:lang="fr" state="translated">Une seule fois dans tout le groupe</target>
       </trans-unit>
       <trans-unit id="EditTab.TextBoxProperties.Title" sil:dynamic="true">
         <source xml:lang="en">Text Box Properties</source>
@@ -1930,7 +1933,7 @@
       <trans-unit id="EditTab.Toolbox.LeveledReaderTool.Total" sil:dynamic="true">
         <source xml:lang="en">total</source>
         <note>ID: EditTab.Toolbox.LeveledReaderTool.Total</note>
-        <target xml:lang="fr" state="needs-translation">total</target>
+        <target xml:lang="fr" state="translated">total</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.LeveledReaderTool.Unique" sil:dynamic="true" approved="yes">
         <source xml:lang="en">unique</source>
@@ -2699,18 +2702,21 @@
       <trans-unit id="PublishTab.Android.ThumbnailColor" sil:dynamic="true">
         <source xml:lang="en">Thumbnail Color</source>
         <note>ID: PublishTab.Android.ThumbnailColor</note>
-        <target xml:lang="fr" state="needs-translation">Thumbnail Color</target>
+        <target xml:lang="fr" state="translated">Couleur de la miniature</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Troubleshooting" sil:dynamic="true">
         <source xml:lang="en">Troubleshooting Tips</source>
         <note>ID: PublishTab.Android.Troubleshooting</note>
-        <target xml:lang="fr" state="needs-translation">Troubleshooting Tips</target>
+        <target xml:lang="fr" state="translated">Conseils de dépannage</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Usb.Progress.BookSent" sil:dynamic="true">
         <source xml:lang="en">You can now read "{0}" in Bloom Reader!</source>
         <note>ID: PublishTab.Android.Usb.Progress.BookSent</note>
         <note>{0} is a book title</note>
-        <target xml:lang="fr" state="translated">Maintenant vous pouvez lire "‎{0‎}" dans le LecteurBloom‎!</target>
+        <target xml:lang="fr" state="translated">Maintenant vous pouvez lire "{0}" dans le LecteurBloom‎!</target>
+        <alt-trans>
+          <target xml:lang="fr">Maintenant vous pouvez lire "‎{0‎}" dans le LecteurBloom‎!</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Usb.Progress.Connected" sil:dynamic="true">
         <source xml:lang="en">Connected to {0} via USB...</source>
@@ -4132,12 +4138,12 @@ Do you want to go ahead?</note>
         <source xml:lang="en">About</source>
         <note>ID: TemplateBooks.PageLabel.About</note>
         <note>Caption of 2nd page in books made from Template Starter</note>
-        <target xml:lang="fr" state="needs-translation">About</target>
+        <target xml:lang="fr" state="translated">À propos de</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.PageLabel.Alphabet" sil:dynamic="true">
         <source xml:lang="en">Alphabet</source>
         <note>ID: TemplateBooks.PageLabel.Alphabet</note>
-        <target xml:lang="fr" state="needs-translation">Alphabet</target>
+        <target xml:lang="fr" state="translated">Alphabet</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.PageLabel.Basic Text &amp; Image" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Basic Text &amp; Image</source>
@@ -4197,7 +4203,7 @@ Do you want to go ahead?</note>
       <trans-unit id="TemplateBooks.PageLabel.Flyleaf" sil:dynamic="true">
         <source xml:lang="en">Flyleaf</source>
         <note>ID: TemplateBooks.PageLabel.Flyleaf</note>
-        <target xml:lang="fr" state="needs-translation">Flyleaf</target>
+        <target xml:lang="fr" state="translated">Page de garde</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.PageLabel.Front Cover" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Front Cover</source>
@@ -4213,7 +4219,7 @@ Do you want to go ahead?</note>
         <source xml:lang="en">Image For Thumbnail</source>
         <note>ID: TemplateBooks.PageLabel.Image For Thumbnail</note>
         <note>Caption of first page in books made from Template Starter</note>
-        <target xml:lang="fr" state="needs-translation">Image For Thumbnail</target>
+        <target xml:lang="fr" state="translated">Image pour la vignette</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.PageLabel.Image On Bottom" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Image On Bottom</source>
