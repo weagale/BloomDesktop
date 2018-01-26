@@ -264,12 +264,12 @@
       <trans-unit id="CollectionSettingsDialog.BookMakingTab.PageNumberingStyle.Decimal" sil:dynamic="true">
         <source xml:lang="en">Decimal</source>
         <note>ID: CollectionSettingsDialog.BookMakingTab.PageNumberingStyle.Decimal</note>
-        <target xml:lang="fr" state="needs-translation">Decimal</target>
+        <target xml:lang="fr" state="translated">Décimal</target>
       </trans-unit>
       <trans-unit id="CollectionSettingsDialog.BookMakingTab.PageNumberingStyle.Devanagari" sil:dynamic="true">
         <source xml:lang="en">Devanagari</source>
         <note>ID: CollectionSettingsDialog.BookMakingTab.PageNumberingStyle.Devanagari</note>
-        <target xml:lang="fr" state="needs-translation">Devanagari</target>
+        <target xml:lang="fr" state="translated">Devanagari</target>
       </trans-unit>
       <trans-unit id="CollectionSettingsDialog.BookMakingTab.PageNumberingStyle.Georgian" sil:dynamic="true">
         <source xml:lang="en">Georgian</source>
@@ -284,7 +284,7 @@
       <trans-unit id="CollectionSettingsDialog.BookMakingTab.PageNumberingStyle.Gurmukhi" sil:dynamic="true">
         <source xml:lang="en">Gurmukhi</source>
         <note>ID: CollectionSettingsDialog.BookMakingTab.PageNumberingStyle.Gurmukhi</note>
-        <target xml:lang="fr" state="needs-translation">Gurmukhi</target>
+        <target xml:lang="fr" state="translated">Gurmukhi</target>
       </trans-unit>
       <trans-unit id="CollectionSettingsDialog.BookMakingTab.PageNumberingStyle.Hebrew" sil:dynamic="true">
         <source xml:lang="en">Hebrew</source>
@@ -533,7 +533,7 @@
       <trans-unit id="CollectionTab.BookMenu.MakeBloomPack">
         <source xml:lang="en">Make Bloom Pack...</source>
         <note>ID: CollectionTab.BookMenu.MakeBloomPack</note>
-        <target xml:lang="fr" state="needs-translation">Make Bloom Pack...</target>
+        <target xml:lang="fr" state="translated">Créer un pack Bloom ...</target>
       </trans-unit>
       <trans-unit id="CollectionTab.BookMenu.UpdateFrontMatterToolStrip" approved="yes">
         <source xml:lang="en">Update Book</source>
@@ -1591,12 +1591,12 @@
       <trans-unit id="EditTab.TextBoxProperties.BorderSides" sil:dynamic="true">
         <source xml:lang="en">Border Sides</source>
         <note>ID: EditTab.TextBoxProperties.BorderSides</note>
-        <target xml:lang="fr" state="needs-translation">Border Sides</target>
+        <target xml:lang="fr" state="translated">Côtés du borde</target>
       </trans-unit>
       <trans-unit id="EditTab.TextBoxProperties.BorderStyle" sil:dynamic="true">
         <source xml:lang="en">Border Style</source>
         <note>ID: EditTab.TextBoxProperties.BorderStyle</note>
-        <target xml:lang="fr" state="needs-translation">Border Style</target>
+        <target xml:lang="fr" state="translated">Style de bordure</target>
       </trans-unit>
       <trans-unit id="EditTab.TextBoxProperties.BordersAndBackground" sil:dynamic="true">
         <source xml:lang="en">Borders &amp; Background</source>
