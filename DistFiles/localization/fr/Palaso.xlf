@@ -105,7 +105,10 @@
       <trans-unit id="Common.YesButton">
         <source xml:lang="en">&amp;Yes</source>
         <note>ID: Common.YesButton</note>
-        <target xml:lang="fr" state="needs-translation">&amp;Yes</target>
+        <target xml:lang="fr" state="translated">&amp;Oui</target>
+        <alt-trans>
+          <target xml:lang="fr">&amp; Oui</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="DialogBoxes.ConfirmRecycleDialog.MessageForMultipleItems" approved="yes">
         <source xml:lang="en">{0} will be moved to the Recycle Bin.</source>
