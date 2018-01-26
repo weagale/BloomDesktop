@@ -2611,7 +2611,7 @@
         <source xml:lang="en">Adobe Color Profile License Agreement</source>
         <note>ID: PublishTab.AdobeEulaTitle</note>
         <note>dialog title for license agreement</note>
-        <target xml:lang="fr" state="needs-translation">Adobe Color Profile License Agreement</target>
+        <target xml:lang="fr" state="translated">Contrat de licence Adobe Color Profile</target>
       </trans-unit>
       <trans-unit id="PublishTab.AdobeReaderControl.NotInstalled" approved="yes">
         <source xml:lang="en">Please install Adobe Reader so that Bloom can show your completed book. Until then, you can still save the PDF Book and open it in some other program.</source>
@@ -2641,7 +2641,7 @@
       <trans-unit id="PublishTab.Android.ChooseWifi" sil:dynamic="true">
         <source xml:lang="en">Serve on WiFi Network</source>
         <note>ID: PublishTab.Android.ChooseWifi</note>
-        <target xml:lang="fr" state="needs-translation">Serve on WiFi Network</target>
+        <target xml:lang="fr" state="translated">Servir sur réseau WiFi</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Control" sil:dynamic="true">
         <source xml:lang="en">Control</source>
@@ -2652,7 +2652,7 @@
       <trans-unit id="PublishTab.Android.CopyToClipboard" sil:dynamic="true">
         <source xml:lang="en">Copy to Clipboard</source>
         <note>ID: PublishTab.Android.CopyToClipboard</note>
-        <target xml:lang="fr" state="needs-translation">Copy to Clipboard</target>
+        <target xml:lang="fr" state="translated">Copier dans le presse-papiers</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.File.Progress.PackagingBook" sil:dynamic="true">
         <source xml:lang="en">Packaging "{0}" for use with Bloom Reader...</source>
