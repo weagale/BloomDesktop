@@ -2770,7 +2770,7 @@
       <trans-unit id="PublishTab.Android.Usb.Progress.Stopped" sil:dynamic="true">
         <source xml:lang="en">Stopped</source>
         <note>ID: PublishTab.Android.Usb.Progress.Stopped</note>
-        <target xml:lang="fr" state="needs-translation">Stopped</target>
+        <target xml:lang="fr" state="translated">Arrêté</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Usb.Progress.UnableToConnect" sil:dynamic="true">
         <source xml:lang="en">Unable to connect to any Android device which has Bloom Reader.</source>
@@ -2954,7 +2954,7 @@
         <source xml:lang="en">Size/Layout</source>
         <note>ID: PublishTab.OptionsMenu.SizeLayout</note>
         <note>Header for a region of the menu which lists various standard page layout sizes</note>
-        <target xml:lang="fr" state="needs-translation">Size/Layout</target>
+        <target xml:lang="fr" state="translated">Taille‎/La mise en page</target>
       </trans-unit>
       <trans-unit id="PublishTab.Options_ToolTip_">
         <source xml:lang="en">Choose a page size and orientation</source>
@@ -4443,13 +4443,13 @@ Do you want to go ahead?</note>
         <source xml:lang="en">Cannot Find File</source>
         <note>ID: WebServer.Warning.NoFile</note>
         <note>displays as a "toast"</note>
-        <target xml:lang="fr" state="needs-translation">Cannot Find File</target>
+        <target xml:lang="fr" state="translated">Fichier non trouvé</target>
       </trans-unit>
       <trans-unit id="WebServer.Warning.NoImageFile">
         <source xml:lang="en">Cannot Find Image File</source>
         <note>ID: WebServer.Warning.NoImageFile</note>
         <note>displays as a "toast"</note>
-        <target xml:lang="fr" state="needs-translation">Cannot Find Image File</target>
+        <target xml:lang="fr" state="translated">Fichier d'image non trouvé</target>
       </trans-unit>
     </body>
   </file>
