@@ -2715,24 +2715,27 @@
       <trans-unit id="PublishTab.Android.Usb.Progress.DeviceWithoutBloomReader" sil:dynamic="true">
         <source xml:lang="en">The following devices are connected but do not seem to have Bloom Reader running:</source>
         <note>ID: PublishTab.Android.Usb.Progress.DeviceWithoutBloomReader</note>
-        <target xml:lang="fr" state="needs-translation">The following devices are connected but do not seem to have Bloom Reader running:</target>
+        <target xml:lang="fr" state="translated">Les périphériques suivants sont connectés mais n'exécutent pas LecteurBloom:</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Usb.Progress.FailureToSend" sil:dynamic="true">
         <source xml:lang="en">An error occurred and the book was not sent to your Android device.</source>
         <note>ID: PublishTab.Android.Usb.Progress.FailureToSend</note>
-        <target xml:lang="fr" state="needs-translation">An error occurred and the book was not sent to your Android device.</target>
+        <target xml:lang="fr" state="translated">Une erreur s'est produite et le livre n'a pas été envoyé à votre appareil Android.</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Usb.Progress.LookingForDevice" sil:dynamic="true">
         <source xml:lang="en">Looking for an Android device connected by USB cable and set up for MTP...</source>
         <note>ID: PublishTab.Android.Usb.Progress.LookingForDevice</note>
         <note>This is a progress message; MTP is an acronym for the system that allows computers to access files on devices.</note>
-        <target xml:lang="fr" state="needs-translation">Looking for an Android device connected by USB cable and set up for MTP...</target>
+        <target xml:lang="fr" state="translated">Vous cherchez un appareil Android connecté au câble USB et configuré pour MTP ...</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Usb.Progress.LookingForExisting" sil:dynamic="true">
         <source xml:lang="en">Looking for an existing "{0}"...</source>
         <note>ID: PublishTab.Android.Usb.Progress.LookingForExisting</note>
         <note>{0} is a book title</note>
-        <target xml:lang="fr" state="needs-translation">Looking for an existing "{0}"...</target>
+        <target xml:lang="fr" state="translated">Vous recherchez le livre existant « {0} » ...</target>
+        <alt-trans>
+          <target xml:lang="fr">Vous recherchez le livre existant "{0}" ...</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Usb.Progress.MoreThanOne" sil:dynamic="true">
         <source xml:lang="en">The following connected devices all have Bloom Reader installed. Please connect only one of these devices.</source>
