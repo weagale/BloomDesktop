@@ -89,7 +89,7 @@
       <trans-unit id="epubpreview.readium">
         <source xml:lang="en">This page uses the <g id="genid-3" ctype="x-html-a" html:href="http://readium.org/">Readium</g> ePUB reader. Books will likely look different on different readers.
       </source>
-        <target xml:lang="fr" state="translated">Cette page utilise le lecteur ePUB <g id="genid-3" ctype="x-html-a" html:href="http://readium.org/">Readium</g>.  Les livres sembleront probablement différents sur différents lecteurs.
+        <target xml:lang="fr" state="translated">Cette page utilise le lecteur ePUB <g id="genid-3" ctype="x-html-a" html:href="http://readium.org/">Readium</g>. Les livres sembleront probablement différents sur différents lecteurs.
       
       
       
@@ -111,6 +111,19 @@
       
       
       
+      
+      </target>
+        </alt-trans>
+        <alt-trans>
+          <target xml:lang="fr">Cette page utilise le lecteur ePUB <g id="genid-3" ctype="x-html-a" html:href="http://readium.org/">Readium</g>.  Les livres sembleront probablement différents sur différents lecteurs.
+      
+      
+      
+      
+      
+      
+      
+      
       </target>
         </alt-trans>
         <alt-trans>
@@ -137,14 +150,6 @@
         <alt-trans>
           <target xml:lang="fr">Cette page utilise le lecteur ePUB <g id="genid-3" ctype="x-html-a" html:href="http://readium.org/">Readium</g>.  Les livres sembleront probablement différents sur différents lecteurs.
       
-      
-      
-      
-      
-      </target>
-        </alt-trans>
-        <alt-trans>
-          <target xml:lang="fr">Cette page utilise le lecteur ePUB <g id="genid-3" ctype="x-html-a" html:href="http://readium.org/">Readium</g>.  Les livres sembleront probablement différents sur différents lecteurs.
       
       
       
@@ -226,7 +231,7 @@
       <trans-unit id="epubpreview.usingdropbox">
         <source xml:lang="en">A handy way to get books to your phone is to set up Dropbox or similar service on both your computer and your phone/tablet. Just click Save ePUB and then choose your Dropbox folder. On your phone, open the Dropbox app and select your book. If you are using a laptop, you can also try the free <g id="genid-5" ctype="x-html-a" html:href="http://www.ushareit.com/">ShareIt</g> program to send files from your laptop to a phone or tablet.
       </source>
-        <target xml:lang="fr" state="translated">Une façon pratique d'obtenir des livres sur votre téléphone consiste à configurer Dropbox ou un service similaire sur votre ordinateur et sur votre téléphone / tablette.  Il suffit de cliquer sur Enregistrer ePUB, puis de choisir votre dossier Dropbox.  Sur votre téléphone, ouvrez l'application Dropbox et sélectionnez votre livre.  Si vous utilisez un ordinateur portable, vous pouvez également essayer le programme gratuit <g id="genid-5" ctype="x-html-a" html:href="http://www.ushareit.com/">ShareIt</g> pour envoyer des fichiers depuis votre ordinateur portable vers un téléphone ou une tablette.
+        <target xml:lang="fr" state="translated">Une façon pratique d'obtenir des livres sur votre téléphone consiste à configurer Dropbox ou un service similaire sur votre ordinateur et sur votre téléphone / tablette. Il suffit de cliquer sur Enregistrer ePUB, puis de choisir votre dossier Dropbox. Sur votre téléphone, ouvrez l'application Dropbox et sélectionnez votre livre. Si vous utilisez un ordinateur portable, vous pouvez également essayer le programme gratuit <g id="genid-5" ctype="x-html-a" html:href="http://www.ushareit.com/">ShareIt</g> pour envoyer des fichiers depuis votre ordinateur portable vers un téléphone ou une tablette.
       
       
       
@@ -248,6 +253,19 @@
       
       
       
+      
+      </target>
+        </alt-trans>
+        <alt-trans>
+          <target xml:lang="fr">Une façon pratique d'obtenir des livres sur votre téléphone consiste à configurer Dropbox ou un service similaire sur votre ordinateur et sur votre téléphone / tablette.  Il suffit de cliquer sur Enregistrer ePUB, puis de choisir votre dossier Dropbox.  Sur votre téléphone, ouvrez l'application Dropbox et sélectionnez votre livre.  Si vous utilisez un ordinateur portable, vous pouvez également essayer le programme gratuit <g id="genid-5" ctype="x-html-a" html:href="http://www.ushareit.com/">ShareIt</g> pour envoyer des fichiers depuis votre ordinateur portable vers un téléphone ou une tablette.
+      
+      
+      
+      
+      
+      
+      
+      
       </target>
         </alt-trans>
         <alt-trans>
@@ -274,14 +292,6 @@
         <alt-trans>
           <target xml:lang="fr">Une façon pratique d'obtenir des livres sur votre téléphone consiste à configurer Dropbox ou un service similaire sur votre ordinateur et sur votre téléphone / tablette.  Il suffit de cliquer sur Enregistrer ePUB, puis de choisir votre dossier Dropbox.  Sur votre téléphone, ouvrez l'application Dropbox et sélectionnez votre livre.  Si vous utilisez un ordinateur portable, vous pouvez également essayer le programme gratuit <g id="genid-5" ctype="x-html-a" html:href="http://www.ushareit.com/">ShareIt</g> pour envoyer des fichiers depuis votre ordinateur portable vers un téléphone ou une tablette.
       
-      
-      
-      
-      
-      </target>
-        </alt-trans>
-        <alt-trans>
-          <target xml:lang="fr">Une façon pratique d'obtenir des livres sur votre téléphone consiste à configurer Dropbox ou un service similaire sur votre ordinateur et sur votre téléphone / tablette.  Il suffit de cliquer sur Enregistrer ePUB, puis de choisir votre dossier Dropbox.  Sur votre téléphone, ouvrez l'application Dropbox et sélectionnez votre livre.  Si vous utilisez un ordinateur portable, vous pouvez également essayer le programme gratuit <g id="genid-5" ctype="x-html-a" html:href="http://www.ushareit.com/">ShareIt</g> pour envoyer des fichiers depuis votre ordinateur portable vers un téléphone ou une tablette.
       
       
       
@@ -362,8 +372,11 @@
       </trans-unit>
       <trans-unit id="epubpreview.gitden.limits">
         <source xml:lang="en">To listen to this Talking Book using Gitden on a phone or tablet, you will need to disable Gitden's "Text To Speech" feature. Then it will show you the audio controls.</source>
-        <target xml:lang="fr" state="translated">Pour écouter ce livre audio à l'aide de Gitden sur un téléphone ou une tablette, vous devrez désactiver la fonctionnalité « Texte-Parole » de Gitden.  Ensuite, il vous montrera les commandes audio.</target>
+        <target xml:lang="fr" state="translated">Pour écouter ce livre audio à l'aide de Gitden sur un téléphone ou une tablette, vous devrez désactiver la fonctionnalité « Texte-Parole » de Gitden. Ensuite, il vous montrera les commandes audio.</target>
         <note>ID: epubpreview.gitden.limits</note>
+        <alt-trans>
+          <target xml:lang="fr">Pour écouter ce livre audio à l'aide de Gitden sur un téléphone ou une tablette, vous devrez désactiver la fonctionnalité « Texte-Parole » de Gitden.  Ensuite, il vous montrera les commandes audio.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="epubpreview.make.it.talk">
         <source xml:lang="en">Make it Talk</source>
@@ -443,8 +456,11 @@
       </trans-unit>
       <trans-unit id="epubpreview.use.help.report">
         <source xml:lang="en">Are you interested in distributing Bloom books for use on phones and other ebook readers? Is there something you would need us to do before it is useful for you? Please use the Help:Report A Problem command to send us feedback. Thanks!</source>
-        <target xml:lang="fr" state="translated">Êtes-vous intéressé à distribuer des livres Bloom pour les téléphones et d’autres lecteurs de livres électroniques ?  Y a-t-il quelque chose dont vous auriez besoin avant que cela vous soit utile ?  Veuillez utiliser la commande « Aide » : « signaler un problème » pour nous envoyer vos commentaires.  Merci!</target>
+        <target xml:lang="fr" state="translated">Êtes-vous intéressé à distribuer des livres Bloom pour les téléphones et d’autres lecteurs de livres électroniques ? Y a-t-il quelque chose dont vous auriez besoin avant que cela vous soit utile ? Veuillez utiliser la commande « Aide » : « signaler un problème » pour nous envoyer vos commentaires. Merci!</target>
         <note>ID: epubpreview.use.help.report</note>
+        <alt-trans>
+          <target xml:lang="fr">Êtes-vous intéressé à distribuer des livres Bloom pour les téléphones et d’autres lecteurs de livres électroniques ?  Y a-t-il quelque chose dont vous auriez besoin avant que cela vous soit utile ?  Veuillez utiliser la commande « Aide » : « signaler un problème » pour nous envoyer vos commentaires.  Merci!</target>
+        </alt-trans>
       </trans-unit>
     </body>
   </file>
